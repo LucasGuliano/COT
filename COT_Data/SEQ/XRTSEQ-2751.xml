@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SAKAO, Taro" dateTime="2008-05-21T04:29:34Z" />
+  <name>CCD calibration: Diffuser with JPEG Comp</name>
+  <COT_info deleted="FALSE" lastUsed="2009-07-09T04:04:22Z" version="2751" locked="FALSE"
+    tag="6FAF268D36DA/2751" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>66</PARM_NO>
+    <COT_PARM>7BE00F2C4188/36E6</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>72</PARM_NO>
+    <COT_PARM>01D51A74EB15/36E7</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>28</PARM_NO>
+    <COT_PARM>8920433F574E/36E5</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>81</PARM_NO>
+    <COT_PARM>162215BF1DA0/36E4</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

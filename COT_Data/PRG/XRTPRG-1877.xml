@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SU, Yingna" dateTime="2011-04-25T20:22:00Z" />
+  <name>AR  Dynamics-HOP 185 Ti/Poly-Med-Be (384FOV) AEC3 Q95, G-band(512FOV) - 1min cadence</name>
+  <COT_info deleted="FALSE" lastUsed="2011-04-30T02:34:14Z" version="1877" locked="FALSE"
+    tag="67997D088954/1877" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>15</Repeat>
+      <Interval>120</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>45</Call>
+      <COT_SEQ>AA1E3CB66F22/2A62</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>92</Call>
+      <COT_SEQ>2F740A9E1A26/2B40</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

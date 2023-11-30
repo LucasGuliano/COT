@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SHIMOJO, Masumi" dateTime="2008-02-28T03:34:42Z" />
+  <name>Darks - Full FOV Cal 1x1 - (x10)</name>
+  <COT_info deleted="FALSE" lastUsed="2006-11-18T08:27:08Z" version="2385" locked="FALSE"
+    tag="000036B01533/2385" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>64</PARM_NO>
+    <COT_PARM>00006D11D648/3572</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>24</PARM_NO>
+    <COT_PARM>00001A4E4A2D/3573</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>61</PARM_NO>
+    <COT_PARM>000049E1B9A8/3578</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>53</PARM_NO>
+    <COT_PARM>000009811481/357B</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="5">
+    <PARM_NO>96</PARM_NO>
+    <COT_PARM>00001ED8DB2D/357E</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="6">
+    <PARM_NO>60</PARM_NO>
+    <COT_PARM>0000322C9043/357F</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="7">
+    <PARM_NO>51</PARM_NO>
+    <COT_PARM>0000367CF61D/3580</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

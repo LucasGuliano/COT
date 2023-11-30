@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x14 (1571) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SAKAO, Taro" dateTime="2009-04-17T07:48:16Z" />
+  <name>Al/poly + Ti/poly + G-band + dark - AEC0 - FOV 512x512 - 1.5 min cadence - Q90-2</name>
+  <COT_info deleted="FALSE" lastUsed="2009-04-17T07:47:49Z" version="1687" locked="FALSE"
+    tag="0C8F5BD62602/1687" COTversion="1.0x14" COTbuild="1571" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>2</Call>
+      <COT_SUBR>Subr-1</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-2</COT_SUBR>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-1</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>11</Call>
+      <COT_SEQ>A14F68707CDB/2759</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>62</Call>
+      <COT_SEQ>AA2C0AD23204/25C1</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

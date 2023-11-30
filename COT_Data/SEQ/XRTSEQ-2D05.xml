@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="JIBBEN, Patricia" dateTime="2014-10-06T20:07:02Z" />
+  <name>Multifilter (2 filters) Al/poly Thin-be - 2x2 - 768x768 - AEC0 DPCM</name>
+  <COT_info deleted="FALSE" lastUsed="2014-10-08T22:59:36Z" version="2D05" locked="FALSE"
+    tag="F2352113F59D/2D05" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>8</PARM_NO>
+    <COT_PARM>00005D5E8B29/3633</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="768" height="768" />
+    <COMP_CODE>0x0328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>74</PARM_NO>
+    <COT_PARM>961B557ECCED/38D4</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="768" height="768" />
+    <COMP_CODE>0x0328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

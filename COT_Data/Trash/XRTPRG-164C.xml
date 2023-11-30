@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x14 (1571) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="GRIGIS, Paolo" dateTime="2009-02-09T03:07:17Z" />
+  <name>HOP 99</name>
+  <COT_info deleted="FALSE" lastUsed="2009-02-09T03:07:17Z" version="164C" locked="FALSE"
+    tag="FC522C1FB2B0/164C" COTversion="1.0x14" COTbuild="1571" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-1</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-1</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>0</Call>
+      <COT_SEQ>A21E7034E1BA</COT_SEQ>
+      <Repeat>0</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

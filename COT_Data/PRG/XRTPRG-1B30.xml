@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="TAKEDA, Aki" dateTime="2016-05-06T20:44:58Z" />
+  <name>Mercury transit Mc-pnt  with Al-poly (4s/8s) 512x512 center readout</name>
+  <COT_info deleted="FALSE" lastUsed="2016-05-07T03:13:22Z" version="1B30" locked="FALSE"
+    tag="AC7E140CC00A/1B30" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>3</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>53</Call>
+      <COT_SEQ>DB3172C3ECDC/2DDB</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>120</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>82</Call>
+      <COT_SEQ>EBF97366B16E/2DDF</COT_SEQ>
+      <Repeat>48</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>74</Call>
+      <COT_SEQ>9B2B51BEADB8/2DDE</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>120</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>31</Call>
+      <COT_SEQ>D055787424AB/2DDD</COT_SEQ>
+      <Repeat>28</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

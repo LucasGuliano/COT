@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="YAJI, Kentaro" dateTime="2012-09-07T02:54:28Z" />
+  <name>Polar Monitoring - Al/mesh (4s) and Ti/poly (8s) - 384FOV - Q90</name>
+  <COT_info deleted="FALSE" lastUsed="2014-07-09T05:36:45Z" version="29D9" locked="FALSE"
+    tag="162B12BF5F60/29D9" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>42</PARM_NO>
+    <COT_PARM>8A986501ED72/36AB</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="384" height="384" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>83</PARM_NO>
+    <COT_PARM>92F45CAECF6C/36B9</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="384" height="384" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

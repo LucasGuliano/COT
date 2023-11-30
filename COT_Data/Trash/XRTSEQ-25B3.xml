@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x31 (1392) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SHIMOJO, Masumi" dateTime="2007-10-29T03:09:02Z" />
+  <name>Sequence 2</name>
+  <COT_info deleted="FALSE" lastUsed="2007-10-29T03:09:02Z" version="25B3" locked="FALSE"
+    tag="7BD278F2EF04/25B3" COTversion="0.9x31" COTbuild="1392" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+</SEQN>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SHIMOJO, Masumi" dateTime="2008-02-28T03:34:42Z" />
+  <name>AR Evolution Topology (C/Poly + Al-Mesh)</name>
+  <COT_info deleted="FALSE" lastUsed="2007-03-20T10:06:23Z" version="133E" locked="FALSE"
+    tag="00001234F41F/133E" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>120</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="3">
+      <Call>3</Call>
+      <COT_SUBR>Subr-C</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>38</Call>
+      <COT_SEQ>0000114366B6/236F</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>68</Call>
+      <COT_SEQ>000068917D35/2440</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>61</Call>
+      <COT_SEQ>00005ADAF764/23B7</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>9</Call>
+      <COT_SEQ>00003CCD37B9/23A7</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

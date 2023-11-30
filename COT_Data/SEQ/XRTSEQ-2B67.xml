@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SAVCHEVA, Antonia" dateTime="2011-07-08T22:07:36Z" />
+  <name>Al/Mesh + Ti/poly - 1x1 - 512x512 - Flare - AEC3 - Q95-2</name>
+  <COT_info deleted="FALSE" lastUsed="2011-07-13T19:02:24Z" version="2B67" locked="FALSE"
+    tag="C821081713C6/2B67" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>63</PARM_NO>
+    <COT_PARM>0000623F8B4C/358A</COT_PARM>
+    <REGN_NO>16</REGN_NO>
+    <COT_fov FOV_type="flare2" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>22</PARM_NO>
+    <COT_PARM>B0592CE507E1/36B8</COT_PARM>
+    <REGN_NO>16</REGN_NO>
+    <COT_fov FOV_type="flare2" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

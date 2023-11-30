@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SU, Yingna" dateTime="2012-12-28T21:19:04Z" />
+  <name>AR Band during disk center pointing HOP217, 1024x1024 at 1024 1024, 5m-cad w/ G-Band VLS Closed Test</name>
+  <COT_info deleted="FALSE" lastUsed="2012-12-28T21:30:52Z" version="195A" locked="FALSE"
+    tag="DEC0776A86F0/195A" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>95</Call>
+      <COT_SEQ>FFA81747E6E7/2C34</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>66</Call>
+      <COT_SEQ>91B606AB5E91/2C33</COT_SEQ>
+      <Repeat>12</Repeat>
+      <Interval>600</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SAVAGE, Sabrina" dateTime="2010-03-10T06:26:02Z" />
+  <name>AR - Ti/Poly(256ms)AEC3, Al-mesh(AEC3),Thick-Al(AEC3), G-band-512x512 - 60s cad</name>
+  <COT_info deleted="FALSE" lastUsed="2010-03-11T02:25:43Z" version="178F" locked="FALSE"
+    tag="4E2947F04163/178F" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>600</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>20</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SEQ>000057486078/2423</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>8</Call>
+      <COT_SEQ>296037708142/29FA</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>12</Call>
+      <COT_SEQ>500767345370/2A13</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>120</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

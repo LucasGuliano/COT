@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x10 (1541) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="REEVES, Kathy" dateTime="2008-05-07T20:14:48Z" />
+  <name>Param-3751</name>
+  <COT_info deleted="FALSE" lastUsed="2008-05-07T20:14:48Z" version="3751" locked="FALSE"
+    tag="C0F42FB7FC20/3751" COTversion="1.0x10" COTbuild="1541" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>0</FltA_L1>
+  <FltB_L1>0</FltB_L1>
+  <FltA_L2>0</FltA_L2>
+  <FltB_L2>0</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>0</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

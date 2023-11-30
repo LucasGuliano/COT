@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x39 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="YOSHIMURA, Keiji" dateTime="2014-11-12T06:10:36Z" />
+  <name>(NULL) operation mistake-4</name>
+  <COT_info deleted="FALSE" lastUsed="2014-11-12T05:46:23Z" version="2D20" locked="FALSE"
+    tag="06F0681CE15F/2D20" COTversion="2.0x39" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+</SEQN>

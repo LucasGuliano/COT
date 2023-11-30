@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="ISHIBASHI, Bish" dateTime="2012-10-31T05:46:55Z" />
+  <name>G-band and Dark (2sec), 256x256 - 1064 1048 - Q95</name>
+  <COT_info deleted="FALSE" lastUsed="2015-06-08T06:23:29Z" version="2C1F" locked="FALSE"
+    tag="6D5A40B1E35D/2C1F" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>65</PARM_NO>
+    <COT_PARM>B7E73769F454/38C2</COT_PARM>
+    <REGN_NO>11</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="256" height="256" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>87</PARM_NO>
+    <COT_PARM>00007CE10EC0/3605</COT_PARM>
+    <REGN_NO>11</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="256" height="256" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

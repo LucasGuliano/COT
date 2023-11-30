@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SU, Yingna" dateTime="2013-02-11T19:06:31Z" />
+  <name>Synoptic Q95 2x2 Ti/Poly Short(88ms)/long(2048ms)</name>
+  <COT_info deleted="FALSE" lastUsed="2013-04-29T18:51:56Z" version="2C44" locked="FALSE"
+    tag="6F9F3570E22C/2C44" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>33</PARM_NO>
+    <COT_PARM>09B267982D9F/387B</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>41</PARM_NO>
+    <COT_PARM>D53E7F6A189A/37D5</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

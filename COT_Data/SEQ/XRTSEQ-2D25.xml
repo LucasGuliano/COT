@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="TAKEDA, Aki" dateTime="2014-11-20T20:40:06Z" />
+  <name>Synoptic Q98 2x2 Al/poly+Ti/poly short(512ms)/long(2048ms) set</name>
+  <COT_info deleted="FALSE" lastUsed="2014-11-22T02:02:03Z" version="2D25" locked="FALSE"
+    tag="AAD519BEBD38/2D25" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>66</PARM_NO>
+    <COT_PARM>0000277AF1D7/35FD</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>49</PARM_NO>
+    <COT_PARM>B4596BEA767E/3703</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

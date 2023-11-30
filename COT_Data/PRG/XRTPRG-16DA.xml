@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="FARID, Samaiyah" dateTime="2009-07-18T02:32:45Z" />
+  <name>Coronal cavity (6 pairs)-HOP125-DPCM 2x2-768X768-FOV 10min cadence - longer exposures</name>
+  <COT_info deleted="FALSE" lastUsed="2009-07-20T17:45:59Z" version="16DA" locked="FALSE"
+    tag="8A425C2FF031/16DA" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>1200</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>82</Call>
+      <COT_SEQ>08ED14C7B1EE/293E</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>72</Call>
+      <COT_SEQ>1B4E1A1AD618/2939</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>37</Call>
+      <COT_SEQ>2C27153BB304/293A</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>63</Call>
+      <COT_SEQ>705C1EE81965/293B</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="5">
+      <Call>17</Call>
+      <COT_SEQ>717556633235/293C</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="6">
+      <Call>42</Call>
+      <COT_SEQ>53103C03FE42/293D</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

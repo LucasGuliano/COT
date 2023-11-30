@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="NISHIDA, Keisuke" dateTime="2013-12-20T06:14:52Z" />
+  <name>CME watch - Al/poly, Be/thin - 4x4 - 2048x2048 - 5min cad - AEC2 with G-band(2x2) + G-band VLS Closed</name>
+  <COT_info deleted="FALSE" lastUsed="2014-05-01T04:01:28Z" version="19E8" locked="FALSE"
+    tag="B328184FF95F/19E8" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>96</Repeat>
+      <Interval>600</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>19</Call>
+      <COT_SEQ>5C0A2EF21D0E/2C83</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>97</Call>
+      <COT_SEQ>C97B6E953890/2C96</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>14</Call>
+      <COT_SEQ>F2E519399EB0/2BE6</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>12</Call>
+      <COT_SEQ>C04F10E44521/2BD3</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>8</Call>
+      <COT_SEQ>D3BA5D92AA08/2C77</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>24</Call>
+      <COT_SEQ>B66F5305AB48/2C37</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

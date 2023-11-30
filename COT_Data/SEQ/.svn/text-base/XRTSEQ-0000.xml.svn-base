@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="GUTH, Giora" dateTime="2006-05-31T21:00:00Z" />
+  <name>Dummy Sequence</name>
+  <COT_info deleted="FALSE" lastUsed="2006-09-05T13:49:44Z" version="0000" locked="TRUE"
+    tag="1025424321" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+</SEQN>

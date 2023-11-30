@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="IWAI, Kazumasa" dateTime="2013-07-15T09:02:50Z" />
+  <name>Ti/Poly - 1x1 - FOV 384 - AEC1 - Q95-exp 1s</name>
+  <COT_info deleted="FALSE" lastUsed="2014-07-17T03:30:20Z" version="2C6A" locked="FALSE"
+    tag="35D5523052DB/2C6A" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>2</PARM_NO>
+    <COT_PARM>502E45AF2498/3727</COT_PARM>
+    <REGN_NO>12</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>10</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>2</PARM_NO>
+    <COT_PARM>502E45AF2498/3727</COT_PARM>
+    <REGN_NO>12</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>10</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>2</PARM_NO>
+    <COT_PARM>502E45AF2498/3727</COT_PARM>
+    <REGN_NO>12</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>10</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>2</PARM_NO>
+    <COT_PARM>502E45AF2498/3727</COT_PARM>
+    <REGN_NO>12</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>10</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="5">
+    <PARM_NO>2</PARM_NO>
+    <COT_PARM>502E45AF2498/3727</COT_PARM>
+    <REGN_NO>12</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>10</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="6">
+    <PARM_NO>2</PARM_NO>
+    <COT_PARM>502E45AF2498/3727</COT_PARM>
+    <REGN_NO>12</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>10</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

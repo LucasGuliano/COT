@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="MULU-MOORE, Fana" dateTime="2010-06-26T03:29:27Z" />
+  <name>Synoptic Q95 2x2 - Al/mesh(33/512) + Dark cal(2x2 4x4 8x8 512 Q98) + Dark cal(1x1 512x2048 -1x1 2048x512) + Ti-poly(64/1024) + G-band(12)</name>
+  <COT_info deleted="FALSE" lastUsed="2011-08-11T03:07:34Z" version="17DC" locked="FALSE"
+    tag="56A8472C59F0/17DC" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>24</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>20</Call>
+      <COT_SEQ>F0B63C19ABEC/29FC</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>31</Call>
+      <COT_SEQ>A6F96C19DB16/29EE</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>77</Call>
+      <COT_SEQ>87107D9F7050/2A6C</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>63</Call>
+      <COT_SEQ>392B11BBF5F3/2A6A</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

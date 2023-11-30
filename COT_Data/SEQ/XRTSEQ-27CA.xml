@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="MATSUMOTO, Takuma" dateTime="2014-04-02T04:36:56Z" />
+  <name>CCD Monitor During Bakeout - G-band 45ms - 1kx1k - Q90 - 1st Quadrant</name>
+  <COT_info deleted="FALSE" lastUsed="2014-03-13T02:31:38Z" version="27CA" locked="FALSE"
+    tag="4C0B7F0D9C7B/27CA" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>7</PARM_NO>
+    <COT_PARM>00007F003338/3609</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1536" vcenter="1536" width="1024" height="1024" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>7</PARM_NO>
+    <COT_PARM>00007F003338/3609</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1536" vcenter="1536" width="1024" height="1024" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>15</PARM_NO>
+    <COT_PARM>DE6E046EF580/36AA</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1536" vcenter="1536" width="1024" height="1024" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>15</PARM_NO>
+    <COT_PARM>DE6E046EF580/36AA</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1536" vcenter="1536" width="1024" height="1024" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

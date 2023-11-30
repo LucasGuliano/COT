@@ -1,0 +1,40 @@
+Sequence name:	N-limb Co-alignment (5-min cadence)
+Version:	0081
+Start date:	2008/02/04 00:00
+End date:	2008/02/05 00:00
+Author last name:	GRIGIS
+Author first name:	Paolo
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2008/02/04 09:42:34
+Last modified:	2010/03/22 18:22:09
+Deleted:	No
+Locked:	No
+Unique tag:	9C6843E1ED4E/0081
+COT version:	2.0x39
+COT build:	1392
+	COM	=======================		
+	COM	G-Band Alignment		
+	COM	=======================		
+	COM	edited by R.Kano 2009/01/19		
+	COM	edited by P. Grigis 2009/04/06		
+	COM			
+	COM	Insert this SSQ 6 seconds prior to the S/C pointings for N-limb  Coalignments. So, it starts to run 15 min after the S/C pointing.		
+	COM	This SSQ will take G-band images with full-CCD FOV and 2x2 resolution every 5 min.		
+	COM	### DO NOT STOP in SAA and HLA! ###		
+	COM			
+	I&T	OBSTITLE: Co-alignment		
+	I&T	TARGET: CH		
+	I&T	SCI_OBJ: LMB		
+	I&T	OBS_DEC: G-Band Alignment with East Limb Q90 2x2(G-band only) 5min Cadence - Full FOV due to lack of ROI slots (167C)		
+	I&T	JOIN_SB: ESX		
+	XRT	MDP_XRT_CTRL_MANU P		
+	XRT	XRT_FOCUS_POSITION -361 P		
+	XOB	F7FC60236E31/167C (Normal) P		
+	XRT	MDP_XRT_ARS_DIS P		
+	XRT	MDP_XRT_FLD_DIS P		
+	XRT	MDP_XRT_FLRCTRL_DIS P		:14:38_00
+	XRT	MDP_XRT_CTRL_AUTO P		
+	ESQ	End of sequence		

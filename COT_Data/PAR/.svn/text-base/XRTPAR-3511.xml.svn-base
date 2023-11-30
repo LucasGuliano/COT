@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="REEVES, Kathy" dateTime="2006-11-05T04:00:44Z" />
+  <name>Al/Mesh - 2x2 - 1024ms</name>
+  <COT_info deleted="FALSE" lastUsed="2006-11-06T00:34:44Z" version="3511" locked="FALSE"
+    tag="683897761" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>18</COT_slot>
+  <FltA_L1>0</FltA_L1>
+  <FltB_L1>1</FltB_L1>
+  <FltA_L2>0</FltA_L2>
+  <FltB_L2>1</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>19</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>1</Resolution>
+</PARM>

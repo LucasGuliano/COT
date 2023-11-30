@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="REEVES, Kathy" dateTime="2016-01-04T19:51:22Z" />
+  <name>Flare Obs. WL and Dark (384 only) for mode-A-Gband (3ms VLS open and closed)</name>
+  <COT_info deleted="FALSE" lastUsed="2016-04-09T02:39:32Z" version="2DAC" locked="FALSE"
+    tag="0D99498CBE50/2DAC" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>63</PARM_NO>
+    <COT_PARM>4BFB56F4AE22/390D</COT_PARM>
+    <REGN_NO>15</REGN_NO>
+    <COT_fov FOV_type="flare1" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>59</PARM_NO>
+    <COT_PARM>5C9E66CBE688/390E</COT_PARM>
+    <REGN_NO>15</REGN_NO>
+    <COT_fov FOV_type="flare1" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>28</PARM_NO>
+    <COT_PARM>0E4C61BD399B/3855</COT_PARM>
+    <REGN_NO>15</REGN_NO>
+    <COT_fov FOV_type="flare1" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

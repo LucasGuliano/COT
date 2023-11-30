@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x39 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="YOSHIMURA, Keiji" dateTime="2014-11-12T06:06:57Z" />
+  <name>(NULL)  operation mistake</name>
+  <COT_info deleted="FALSE" lastUsed="2014-11-12T05:41:04Z" version="1A5B" locked="FALSE"
+    tag="62D40DC73C16/1A5B" COTversion="2.0x39" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>15</MAIN_RPT>
+  <MAIN>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>53</Call>
+      <COT_SEQ>7F070C3CC6B7/2D1D</COT_SEQ>
+      <Repeat>10</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>11</Call>
+      <COT_SEQ>018969A038D8/2D1E</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>10</Call>
+      <COT_SEQ>FE033292ED32/2D1F</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>15</Call>
+      <COT_SEQ>9E0312DCC153/2D21</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

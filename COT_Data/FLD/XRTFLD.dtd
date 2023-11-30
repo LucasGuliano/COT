@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT FLD_TBL (modified*, name*, COT_info*, COT_slot*, QTIntervalFld, FLIntervalFld, PARM_NO_FLD, COT_PARM, COMP_CODE_FLD, InitialLevel, RBHPosition, RBVPosition, RbThrsh, NmThrsh, UpperLevel, Weight, FLThNm, QTThNm, FLThRb, QTThRb, OffsetNm, OffsetRb)>
+
+<!ELEMENT QTIntervalFld (#PCDATA)>
+<!ATTLIST QTIntervalFld unit CDATA #IMPLIED>
+<!ELEMENT FLIntervalFld (#PCDATA)>
+<!ATTLIST FLIntervalFld unit CDATA #IMPLIED>
+<!ELEMENT PARM_NO_FLD (#PCDATA)>
+<!ATTLIST PARM_NO_FLD unit CDATA #IMPLIED>
+<!ELEMENT COT_PARM (#PCDATA)>
+<!ELEMENT COMP_CODE_FLD (#PCDATA)>
+<!ATTLIST COMP_CODE_FLD unit CDATA #IMPLIED>
+<!ELEMENT InitialLevel (#PCDATA)>
+<!ATTLIST InitialLevel unit CDATA #IMPLIED>
+<!ELEMENT RBHPosition (#PCDATA)>
+<!ATTLIST RBHPosition unit CDATA #IMPLIED>
+<!ELEMENT RBVPosition (#PCDATA)>
+<!ATTLIST RBVPosition unit CDATA #IMPLIED>
+<!ELEMENT RbThrsh (#PCDATA)>
+<!ATTLIST RbThrsh unit CDATA #IMPLIED>
+<!ELEMENT NmThrsh (#PCDATA)>
+<!ATTLIST NmThrsh unit CDATA #IMPLIED>
+<!ELEMENT UpperLevel (#PCDATA)>
+<!ATTLIST UpperLevel unit CDATA #IMPLIED>
+<!ELEMENT Weight (#PCDATA)>
+<!ATTLIST Weight unit CDATA #IMPLIED>
+<!ELEMENT FLThNm (#PCDATA)>
+<!ATTLIST FLThNm unit CDATA #IMPLIED>
+<!ELEMENT QTThNm (#PCDATA)>
+<!ATTLIST QTThNm unit CDATA #IMPLIED>
+<!ELEMENT FLThRb (#PCDATA)>
+<!ATTLIST FLThRb unit CDATA #IMPLIED>
+<!ELEMENT QTThRb (#PCDATA)>
+<!ATTLIST QTThRb unit CDATA #IMPLIED>
+<!ELEMENT OffsetNm (#PCDATA)>
+<!ATTLIST OffsetNm unit CDATA #IMPLIED>
+<!ELEMENT OffsetRb (#PCDATA)>
+<!ATTLIST OffsetRb unit CDATA #IMPLIED>
+
+<!ELEMENT modified (#PCDATA)>
+<!ATTLIST modified
+	author CDATA #IMPLIED
+	dateTime CDATA #IMPLIED
+>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT COT_info (#PCDATA)>
+<!ATTLIST COT_info
+    deleted CDATA #IMPLIED
+    lastUsed CDATA #IMPLIED
+    version CDATA #IMPLIED
+    locked CDATA #IMPLIED
+>
+<!ELEMENT COT_slot (#PCDATA)>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="KORRECK, Kelly" dateTime="2009-03-27T22:56:51Z" />
+  <name>Full Sun - C/poly - 4x4 - AEC4</name>
+  <COT_info deleted="FALSE" lastUsed="2009-04-03T18:26:42Z" version="2868" locked="FALSE"
+    tag="10CB495651B0/2868" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>85</PARM_NO>
+    <COT_PARM>B65507A4B613/37B3</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

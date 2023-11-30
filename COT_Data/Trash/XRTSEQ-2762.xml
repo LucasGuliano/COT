@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x11 (1551) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="BOBRA, Monica" dateTime="2008-06-05T05:00:45Z" />
+  <name>Axion Med/Be 11571ms</name>
+  <COT_info deleted="FALSE" lastUsed="2008-06-05T04:56:37Z" version="2762" locked="FALSE"
+    tag="ACC752D4E538/2762" COTversion="1.0x11" COTbuild="1551" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>1</PARM_NO>
+    <COT_PARM>D800038C3828/375B</COT_PARM>
+    <REGN_NO>1</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>1</PARM_NO>
+    <COT_PARM>5B8522A9E7A9/3764</COT_PARM>
+    <REGN_NO>1</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>1</PARM_NO>
+    <COT_PARM>31BA100B005E/36D4</COT_PARM>
+    <REGN_NO>1</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

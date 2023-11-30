@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SAKAO, Taro" dateTime="2009-04-20T04:03:09Z" />
+  <name>Al/mesh,Ti/Poly,Al/Poly,thin-Be, C/Poly, Al/Poly+Ti/Poly FOV768 2x2 DPCM AEC0</name>
+  <COT_info deleted="FALSE" lastUsed="2009-04-20T06:06:48Z" version="28D3" locked="FALSE"
+    tag="E2513A867AF5/28D3" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>89</PARM_NO>
+    <COT_PARM>00004C46C565/3534</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="768" height="768" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>67</PARM_NO>
+    <COT_PARM>A55E02135E87/3728</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="768" height="768" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>83</PARM_NO>
+    <COT_PARM>00007A6B95D9/35FE</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="768" height="768" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>60</PARM_NO>
+    <COT_PARM>00006291A687/3641</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="768" height="768" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="5">
+    <PARM_NO>55</PARM_NO>
+    <COT_PARM>E2E104B5E22B/3702</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="768" height="768" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="6">
+    <PARM_NO>35</PARM_NO>
+    <COT_PARM>FF3B1AE53470/370F</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="768" height="768" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

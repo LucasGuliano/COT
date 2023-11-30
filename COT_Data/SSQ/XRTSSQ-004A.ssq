@@ -1,0 +1,24 @@
+Sequence name:	Synopitc - Al/poly fall to thick Al pair
+Version:	004A
+Start date:	2006/12/05 00:00
+End date:	2006/12/06 00:00
+Author last name:	LUNDQUIST
+Author first name:	Loraine
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2006/12/05 05:37:59
+Last modified:	2006/12/05 05:37:59
+Deleted:	No
+Locked:	No
+Unique tag:	0000098BBE7B/004A
+COT version:	2.0x39
+COT build:	1067
+	XRT	MDP_XRT_CTRL_MANU P		
+	XRT	MDP_XRT_FLD_DIS P		
+	XRT	MDP_XRT_ARS_DIS P		
+	XOB	0000065CF870/12DE (Normal) N		
+	XOB	0000065CF870/12DE (Normal) P		
+	XRT	MDP_XRT_CTRL_AUTO P		
+	ESQ	End of sequence		

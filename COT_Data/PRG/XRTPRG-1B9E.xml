@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SHIMOJO, Masumi" dateTime="2017-06-17T01:59:46Z" />
+  <name>Stray light study 2017-9 ;Al-mesh and Ti-poly, 2x2 full FOV(1min-cad) and 1x1 384 on AR(10sec-cad) </name>
+  <COT_info deleted="FALSE" lastUsed="2017-06-17T02:02:06Z" version="1B9E" locked="FALSE"
+    tag="B50853DD57E1/1B9E" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>10</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>3</Call>
+      <COT_SUBR>Subr-C</COT_SUBR>
+      <Repeat>8</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SEQ>35597B96FA23/2D66</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>300</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>52</Call>
+      <COT_SEQ>D1A036CA205F/2E40</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>20</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>81</Call>
+      <COT_SEQ>8D094CBCA9D5/2E41</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>52</Call>
+      <COT_SEQ>D1A036CA205F/2E40</COT_SEQ>
+      <Repeat>4</Repeat>
+      <Interval>20</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

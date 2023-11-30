@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="KORRECK, Kelly" dateTime="2009-03-27T05:15:57Z" />
+  <name>AR-512x512 Thin-Be AEC2</name>
+  <COT_info deleted="FALSE" lastUsed="2009-04-01T04:44:18Z" version="28BC" locked="FALSE"
+    tag="EC483853D35E/28BC" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>25</PARM_NO>
+    <COT_PARM>0000087BFC20/3512</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>44</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

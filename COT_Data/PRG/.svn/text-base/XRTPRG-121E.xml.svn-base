@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="LUNDQUIST, Loraine" dateTime="2006-08-28T08:32:40Z" />
+  <name>Synoptic Program</name>
+  <COT_info deleted="FALSE" lastUsed="2006-08-30T10:36:01Z" version="121E" locked="FALSE"
+    tag="1035328582" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>82</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>subr</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>1</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>subr</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>7</Call>
+      <COT_SEQ>2323</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>2</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>8</Call>
+      <COT_SEQ>2324</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>2</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>9</Call>
+      <COT_SEQ>2325</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>2</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>10</Call>
+      <COT_SEQ>2326</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>2</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

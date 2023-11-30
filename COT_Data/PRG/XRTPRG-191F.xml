@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SU, Yingna" dateTime="2012-08-15T16:05:29Z" />
+  <name>AR Standard-A(Filter-Ratio) with PFB, 384x384 at 1064 1048, shorter thin-Be, thick Al and Al/Poly context, With G-band (45ms), 80s cad</name>
+  <COT_info deleted="FALSE" lastUsed="2012-08-15T15:49:03Z" version="191F" locked="FALSE"
+    tag="E9FC5710F82C/191F" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>2</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>19</Call>
+      <COT_SEQ>76D07E7383F9/2BE3</COT_SEQ>
+      <Repeat>2</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>18</Call>
+      <COT_SEQ>398737169845/2BE0</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>9</Call>
+      <COT_SEQ>12664E50EBD5/2B79</COT_SEQ>
+      <Repeat>4</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>10</Call>
+      <COT_SEQ>7E9363253832/2B1E</COT_SEQ>
+      <Repeat>25</Repeat>
+      <Interval>160</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>10</Call>
+      <COT_SEQ>096F03825895/2AA5</COT_SEQ>
+      <Repeat>60</Repeat>
+      <Interval>120</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

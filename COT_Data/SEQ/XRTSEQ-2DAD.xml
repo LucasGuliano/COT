@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="REEVES, Kathy" dateTime="2016-01-04T19:51:22Z" />
+  <name>Flare - Full Sun - Thin-Be (Med-Be) - 4x4 - AEC2 Q98 slot16</name>
+  <COT_info deleted="FALSE" lastUsed="2016-04-09T02:39:32Z" version="2DAD" locked="FALSE"
+    tag="3F2B5B7BEB28/2DAD" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>57</PARM_NO>
+    <COT_PARM>6C40364A24EF/3724</COT_PARM>
+    <REGN_NO>16</REGN_NO>
+    <COT_fov FOV_type="flare2" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

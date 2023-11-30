@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="KOTOKU, Junichi" dateTime="2008-07-08T02:56:25Z" />
+  <name>Thermal analysis 8x8 2048FOV Al/p-C/p-Al/p+Ti/p-Thin/Be-Med/Al-Thick/Al-Thick/Be-no compression</name>
+  <COT_info deleted="FALSE" lastUsed="2008-09-29T05:21:25Z" version="157D" locked="FALSE"
+    tag="034A1257C385/157D" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>73</Call>
+      <COT_SEQ>F6F1088E3972/278B</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>3</Call>
+      <COT_SEQ>1AE66742BBA8/278C</COT_SEQ>
+      <Repeat>3</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>70</Call>
+      <COT_SEQ>9C7858B1C18C/278D</COT_SEQ>
+      <Repeat>5</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

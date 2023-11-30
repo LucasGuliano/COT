@@ -1,0 +1,27 @@
+Sequence name:	XRT_Custom_445_OG
+Version:	002D
+Start date:	2006/11/03 00:00
+End date:	2006/11/04 00:00
+Author last name:	REEVES
+Author first name:	Kathy
+Sequence type:	OG Command plan
+S/C slot:	445
+Last used:	2006/11/03 12:09:29
+Last modified:	2006/11/03 12:09:29
+AEC Table:	0003
+ARS Table:	0004
+CMP Table:	0001
+FLD Table:	0004
+FLT Table:	0001
+ROI Table:	0004
+Deleted:	No
+Locked:	No
+Unique tag:	0
+COT version:	0.2x17
+COT build:	1058
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+	XRT	Custom MDP_XRT_EXP_PAR_SET 10 00 11 00 80 80 20 20 03 28 00 P		:10_00
+	ESQ	End of sequence		

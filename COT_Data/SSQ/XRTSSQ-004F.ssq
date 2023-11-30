@@ -1,0 +1,19 @@
+Sequence name:	XRTSSQ-004F.ssq
+Version:	004F
+Start date:	2007/02/08 00:00
+End date:	2007/02/09 00:00
+Author last name:	BANDO
+Author first name:	Takamasa
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/02/08 05:06:48
+Last modified:	2023/06/26 02:34:13
+Deleted:	No
+Locked:	No
+Unique tag:	00004CF979EA/004F
+COT version:	2.0x39
+COT build:	1067
+	COM			
+	ESQ	End of sequence		

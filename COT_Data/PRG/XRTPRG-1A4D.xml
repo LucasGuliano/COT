@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="ISHIBASHI, Bish" dateTime="2021-12-13T06:08:37Z" />
+  <name>AR - Standard Core - (Filter-Ratio with Al/poly and thin-Be long/short pairs) with PFB, 384x384 at 1064 1048, thin-Be, and Al/Poly context, with G-band (33ms/45ms leak), 180 cad</name>
+  <COT_info deleted="FALSE" lastUsed="2020-10-14T02:59:04Z" version="1A4D" locked="FALSE"
+    tag="A33A6973F526/1A4D" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>20</Call>
+      <COT_SEQ>D3BA5D92AA08/2C77</COT_SEQ>
+      <Repeat>2</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>18</Call>
+      <COT_SEQ>B66F5305AB48/2C37</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>68</Call>
+      <COT_SEQ>96D16E469CA9/2D0A</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>61</Call>
+      <COT_SEQ>2A310FD099E3/2D0B</COT_SEQ>
+      <Repeat>4</Repeat>
+      <Interval>360</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SEQ>096F03825895/2AA5</COT_SEQ>
+      <Repeat>60</Repeat>
+      <Interval>120</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

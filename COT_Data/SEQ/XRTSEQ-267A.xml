@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SHIMOJO, Masumi" dateTime="2008-02-28T03:34:43Z" />
+  <name>Thick-Al (23 s), Thick-Be (32 s) AR AEC0- lossy 35</name>
+  <COT_info deleted="FALSE" lastUsed="2008-02-09T00:55:55Z" version="267A" locked="FALSE"
+    tag="63A55583023E/267A" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>57</PARM_NO>
+    <COT_PARM>000035FBD380/3611</COT_PARM>
+    <REGN_NO>7</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x72d</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>73</PARM_NO>
+    <COT_PARM>E89C2F0B67BE/36E0</COT_PARM>
+    <REGN_NO>7</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x72d</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

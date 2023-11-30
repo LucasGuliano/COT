@@ -1,0 +1,26 @@
+Sequence name:	XRT_ROI_A_446_OG
+Version:	002E
+Start date:	2023/11/21 00:00
+End date:	2023/11/22 00:00
+Author last name:	TANIGUCHI
+Author first name:	Ayatoshi
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	446
+Last used:	2023/11/21 02:50:45
+Last modified:	2023/11/21 02:50:45
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/002E
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_ROI_SET 5 133 131 6 6 P		
+	XRT	MDP_XRT_ROI_SET 6 128 128 32 32 P		
+	XRT	MDP_XRT_ROI_SET 7 128 128 32 8 P		
+	XRT	MDP_XRT_ROI_SET 8 128 128 8 32 P		
+	XRT	MDP_XRT_ROI_SET 9 128 128 8 8 P		
+	XRT	MDP_XRT_ROI_SET 13 133 131 6 6 P		
+	XRT	MDP_XRT_ROI_SET 14 133 131 4 4 P		
+	XRT	MDP_XRT_ROI_SET 15 128 128 6 6 P		
+	ESQ	End of sequence		

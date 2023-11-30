@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="KANEDA, Kazutaka" dateTime="2016-04-21T02:50:57Z" />
+  <name>G-band (3ms, 3ms leak) and Dark (8sec) - 1024FOV - 1064 1048 - Q98</name>
+  <COT_info deleted="FALSE" lastUsed="2016-06-06T07:57:28Z" version="2DCE" locked="FALSE"
+    tag="9DC03C968C83/2DCE" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>63</PARM_NO>
+    <COT_PARM>4BFB56F4AE22/390D</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="1024" height="1024" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>59</PARM_NO>
+    <COT_PARM>5C9E66CBE688/390E</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="1024" height="1024" />
+    <COMP_CODE>0x0328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>95</PARM_NO>
+    <COT_PARM>4DC439EC6AF1/391C</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="1024" height="1024" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

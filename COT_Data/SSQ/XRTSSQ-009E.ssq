@@ -1,0 +1,20 @@
+Sequence name:	Stop and FLD_RESET
+Version:	009E
+Start date:	2006/06/29 00:00
+End date:	2006/06/30 00:00
+Author last name:	MINOSHIMA
+Author first name:	Takashi
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2006/06/29 15:14:21
+Last modified:	2023/05/29 02:36:13
+Deleted:	No
+Locked:	No
+Unique tag:	443C10E3622A/009E
+COT version:	2.0x39
+COT build:	1048
+	XRT	MDP_XRT_CTRL_MANU P		
+	XRT	MDP_XRT_FLD_RESET P		
+	ESQ	End of sequence		

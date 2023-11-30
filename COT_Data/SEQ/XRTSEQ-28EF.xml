@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="LEE, Jin-Yi" dateTime="2009-05-12T23:38:52Z" />
+  <name>Al/poly - DPCM 1x1 - 384x384 - short(128ms)/long(1024ms)</name>
+  <COT_info deleted="FALSE" lastUsed="2009-05-13T12:51:27Z" version="28EF" locked="FALSE"
+    tag="86E11739ED1E/28EF" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>33</PARM_NO>
+    <COT_PARM>B4F758E393AD/37D9</COT_PARM>
+    <REGN_NO>12</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>65</PARM_NO>
+    <COT_PARM>000018262D0F/3521</COT_PARM>
+    <REGN_NO>12</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

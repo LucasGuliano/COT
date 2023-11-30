@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="TESTA, Paola" dateTime="2008-06-18T08:40:29Z" />
+  <name>AR multifilter/FW2 - FOV384 - AEC1</name>
+  <COT_info deleted="FALSE" lastUsed="2009-09-07T22:38:48Z" version="2771" locked="FALSE"
+    tag="E6B7574A2F82/2771" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>10</PARM_NO>
+    <COT_PARM>BAA62255C2B0/3768</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>40</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>26</PARM_NO>
+    <COT_PARM>0000425A56C4/3603</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>40</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

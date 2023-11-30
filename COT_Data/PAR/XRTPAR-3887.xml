@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="KOBELSKI, Adam" dateTime="2011-09-27T00:54:39Z" />
+  <name>Thin-Be - 2x2 - 88ms</name>
+  <COT_info deleted="FALSE" lastUsed="2017-04-19T04:52:27Z" version="3887" locked="FALSE"
+    tag="75E82501108D/3887" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>3</FltA_L1>
+  <FltB_L1>0</FltB_L1>
+  <FltA_L2>3</FltA_L2>
+  <FltB_L2>0</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>12</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>1</Resolution>
+</PARM>

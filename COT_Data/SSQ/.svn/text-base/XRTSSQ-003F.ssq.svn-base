@@ -1,0 +1,27 @@
+Sequence name:	Saved Sequence 000F
+Version:	003F
+Start date:	2006/06/29 00:00
+End date:	2006/06/30 00:00
+Author last name:	LUNDQUIST
+Author first name:	Loraine
+Sequence type:	OP Command plan
+S/C slot:	-01
+Last used:	2006/06/29 14:50:48
+Last modified:	2006/06/29 14:50:48
+AEC Table:	0002
+ARS Table:	0003
+CMP Table:	0001
+FLD Table:	0003
+FLT Table:	0002
+ROI Table:	0002
+Deleted:	No
+Locked:	No
+Unique tag:	1424396614
+COT version:	0.2x16
+COT build:	1048
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+	COM			
+	ESQ	End of sequence		

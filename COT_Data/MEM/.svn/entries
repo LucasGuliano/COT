@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-09-30T14:03:09.545590Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/MEM"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   committed-rev="1"
+   name="xrt-safe.htm"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="520e60be336f01007d466cc47b281ba4"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="XRT3.hex"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="df997d546bba0920dc195cda11f86fc8"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="xrt-exposure.tbl"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="cb7c5f61d13b68404b11d7ae43bf56bf"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="xrt-limit.tbl"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="12a3187a9e21862bf8599e28d9bb112d"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="xrt-safe.tbl"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="874ff0a30327221eae545d8cffa8829e"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+</wc-entries>

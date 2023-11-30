@@ -1,0 +1,41 @@
+Sequence name:	CCD Heater Turn On for Bakeout with Monitoring Images--REAL_SSQ-2
+Version:	007C
+Start date:	2008/03/03 00:00
+End date:	2008/03/04 00:00
+Author last name:	KOTOKU
+Author first name:	Junichi
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	Real Sequence
+S/C slot:	-01
+Last used:	2008/03/03 01:05:03
+Last modified:	2010/02/15 04:43:01
+Deleted:	No
+Locked:	No
+Unique tag:	00DA0054E710/007C
+COT version:	2.0x39
+COT build:	1457
+	I&T	OBSTITLE: XRT_Bakeout_START		
+	I&T	INSTRUME: XRT		
+	MSG	**************************************************** (No pause)		
+	MSG	 START of XRT_CCD_HEATER_ON operation (No pause)		
+	MSG	**************************************************** (No pause)		
+	MSG	 (No pause)		
+	MSG	 (No pause)		
+	XRT	TCIB_XRT_S_HTR_A_ENA P		
+	MSG	---------- Success Verify ?           OK / NG; (No pause)		
+	MSG	 (No pause)		
+	MSG	--------------------------------------- (No pause)		
+	MSG	If anomalous situation appeared, execute TCIB_XRT_S_HTR_A_DIS using DCBC-442 (line 24) (No pause)		
+	MSG	--------------------------------------- (No pause)		
+	MSG	 (No pause)		
+	MSG	 (No pause)		
+	MSG	 (No pause)		
+	MSG	All OK?   Yes--> Please Proceed. / No --> Stop here. (No pause)		
+	MSG	 (No pause)		
+	MSG	**************************************************** (No pause)		
+	MSG	 END of XRT_CCD_HEATER_ON operation (No pause)		
+	MSG	**************************************************** (No pause)		
+	MSG	 (No pause)		
+	MSG	 (No pause)		
+	ESQ	End of sequence		

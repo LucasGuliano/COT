@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="MINOSHIMA, Takashi" dateTime="2009-06-22T07:11:53Z" />
+  <name>Al/mesh (12s), Al/poly (12s), Ti/poly (16s) - 512x512</name>
+  <COT_info deleted="FALSE" lastUsed="2009-06-22T10:12:52Z" version="2925" locked="FALSE"
+    tag="A74D1825E5C3/2925" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>89</PARM_NO>
+    <COT_PARM>F2C953CF080D/36C6</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>4</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>75</PARM_NO>
+    <COT_PARM>00004B0B31D2/3640</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>4</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>60</PARM_NO>
+    <COT_PARM>00004A38DEAE/3613</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>4</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

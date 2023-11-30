@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x14 (1571) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SHIN, Junho" dateTime="2008-09-24T00:25:43Z" />
+  <name>Filament - 2x2 Al_poly, FOV 1024x512 w/ context-lossless-2</name>
+  <COT_info deleted="FALSE" lastUsed="2008-09-24T00:25:43Z" version="15CA" locked="FALSE"
+    tag="9E585E523265/15CA" COTversion="1.0x14" COTbuild="1571" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-1</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-1</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>22</Call>
+      <COT_SEQ>69D673984783/27ED</COT_SEQ>
+      <Repeat>12</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>83</Call>
+      <COT_SEQ>F621247FE700/27E3</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

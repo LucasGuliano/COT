@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT FLT_TBL (modified*, name*, COT_info*, COT_slot*, RD, RD, RD, RD, RD, RD, RD, RD, RD, RD, RD, RD)>
+
+<!ELEMENT RD (#PCDATA)>
+<!ATTLIST RD
+	NO (A1 | A2 | A3 | A4 | A5 | A6 | B1 | B2 | B3 | B4 | B5 | B6) #IMPLIED
+	name CDATA #IMPLIED
+	unit CDATA #IMPLIED
+>
+
+<!ELEMENT modified (#PCDATA)>
+<!ATTLIST modified
+	author CDATA #IMPLIED
+	dateTime CDATA #IMPLIED
+>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT COT_info (#PCDATA)>
+<!ATTLIST COT_info
+    deleted CDATA #IMPLIED
+    lastUsed CDATA #IMPLIED
+    version CDATA #IMPLIED
+>
+<!ELEMENT COT_slot (#PCDATA)>

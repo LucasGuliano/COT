@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="MCCAULEY, Patrick" dateTime="2014-04-18T18:47:14Z" />
+  <name>Thin-Be (Med-Be) - 384FOV - AEC3 - 1064 1048 - Med-Be PFB - 10s-cad</name>
+  <COT_info deleted="FALSE" lastUsed="2014-04-19T02:13:09Z" version="2CC4" locked="FALSE"
+    tag="8EE830B953CC/2CC4" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>68</PARM_NO>
+    <COT_PARM>000031D95721/3527</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>10</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>81</PARM_NO>
+    <COT_PARM>00002E1D4F72/3528</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov FOV_type="preflare" hcenter="1064" vcenter="1048" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>3</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>10</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-09-30T14:03:09.545590Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/Tests/XOB%20Test"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+</wc-entries>

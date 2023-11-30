@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x14 (1571) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SAVCHEVA, Antonia" dateTime="2008-10-08T04:01:30Z" />
+  <name>Synoptic Q95 2x2 - Al/mesh(512/5795) + Dark cal(362 Q98) + Ti-poly(512/11571) + G-band(16)-2</name>
+  <COT_info deleted="FALSE" lastUsed="2008-10-08T03:58:06Z" version="15D8" locked="FALSE"
+    tag="E2362EB24069/15D8" COTversion="1.0x14" COTbuild="1571" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-1</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>24</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-1</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>36</Call>
+      <COT_SEQ>A2BD20B8CA02/2803</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>57</Call>
+      <COT_SEQ>ABA00B5CDEA8/2801</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>4</Call>
+      <COT_SEQ>2F2C13A182F5/2802</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>92</Call>
+      <COT_SEQ>3C647339F452/27C6</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

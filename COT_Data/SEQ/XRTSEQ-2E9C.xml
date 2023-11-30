@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="YOSHIMURA, Keiji" dateTime="2019-11-08T22:23:06Z" />
+  <name>Al-poly short(8192ms)/long(23142s) pair 2048x384 at 1024 1024</name>
+  <COT_info deleted="FALSE" lastUsed="2019-11-09T01:52:37Z" version="2E9C" locked="FALSE"
+    tag="85AB34DEEAC7/2E9C" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>72</PARM_NO>
+    <COT_PARM>00006FF93C59/35E4</COT_PARM>
+    <REGN_NO>13</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>66</PARM_NO>
+    <COT_PARM>0295702313DD/37F5</COT_PARM>
+    <REGN_NO>13</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

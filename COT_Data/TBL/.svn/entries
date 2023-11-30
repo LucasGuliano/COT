@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-09-30T14:03:09.545590Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/TBL"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   committed-rev="1"
+   name="schemas.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="f4a0bb9da5c3c08a9857a6b2e76fc0a1"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:19.000000Z"/>
+<entry
+   committed-rev="1"
+   name="XRTTBL.dtd"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="627807f4e93abc21ff34351f3b80ea91"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:19.000000Z"/>
+<entry
+   committed-rev="1"
+   name="XRTTBL.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="5ec5f190e3ab5b75db2de279c1152880"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:19.000000Z"/>
+</wc-entries>

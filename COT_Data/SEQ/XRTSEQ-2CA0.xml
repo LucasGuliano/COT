@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="MATSUMOTO, Takuma" dateTime="2013-11-27T05:02:57Z" />
+  <name>Al/Mesh 2x2-1024x1536-8secs-SE-offset (512,768)</name>
+  <COT_info deleted="FALSE" lastUsed="2013-11-27T06:31:58Z" version="2CA0" locked="FALSE"
+    tag="A0217C3FD2A1/2CA0" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>34</PARM_NO>
+    <COT_PARM>00007194F92B/351C</COT_PARM>
+    <REGN_NO>11</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="512" vcenter="768" width="1024" height="1536" />
+    <COMP_CODE>0x0328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

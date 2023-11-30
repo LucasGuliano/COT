@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="KOBELSKI, Adam" dateTime="2012-10-10T05:58:54Z" />
+  <name>HOP 186 (short exp) Al/mesh (64/2048ms) + Synoptic Q95 2x2 - Al/poly (64/1024) + Dark cal(2x2 4x4 8x8 512 Q98) + Dark cal(1x1 512x2048 -1x1 2048x512) + Ti-poly (64/1443) + G-band (8) + dark + G-band VLS Closed Test (33)-2</name>
+  <COT_info deleted="FALSE" lastUsed="2012-10-25T04:42:04Z" version="193A" locked="FALSE"
+    tag="D9D93BE91648/193A" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>24</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>12</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="3">
+      <Call>3</Call>
+      <COT_SUBR>Subr-C</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>84</Call>
+      <COT_SEQ>DDC0744C5219/2987</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>6</Call>
+      <COT_SEQ>8E2E20BB6B2A/2938</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>70</Call>
+      <COT_SEQ>97E6251B4BC2/2BF4</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>69</Call>
+      <COT_SEQ>F2E519399EB0/2BE6</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>66</Call>
+      <COT_SEQ>F11F1A4BC0C1/2B5A</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>68</Call>
+      <COT_SEQ>C04F10E44521/2BD3</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

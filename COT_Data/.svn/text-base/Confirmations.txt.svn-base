@@ -1,0 +1,34 @@
+/*
+Command confirmation file. This can be used to associate each command
+with information on how to confirm its successful execution. The info
+is printed on the tohban's console after executing the command if the
+command is executed in a real sequence.
+
+Each command/confirmation appears like this:
+
+CMD: MDP_XRT_QT_PROG_SET
+One or more lines of confirming text
+
+The space after the colon is mandatory. The lines following, until
+the next CMD: line, are generated into the ORL file as comment
+lines. If there are multiple lines in the confirmation, each
+appears as a separate comment line in the ORL. Only the last line
+pauses.
+
+Example output fragment:
+
+	CMD : MDP_XRT_CTRL_MANU ;
+	C. : "MDP_XRT_CTRL_MODE MANU OK/NG" ;
+	/* Select obs program XRTPRG-1211.xml as main program */
+	CMD : MDP_XRT_QT_PROG_SET 09 ;
+	CMD : XRT_FSA_CONTROL 44 00 00 ; /* FW1StepCCWToTarget */
+	NP_C. : "If this command requests status, check S_FSA_STATUS_VAL against" ;
+	C. : "User's Manual table 9-3." ;
+
+This approach is experimental and may change later.
+*/
+CMD: MDP_XRT_CTRL_MANU
+MDP_XRT_CTRL_MODE MANU OK/NG
+CMD: XRT_FSA_CONTROL
+If this command requests status, check S_FSA_STATUS_VAL against
+User's Manual table 9-3.

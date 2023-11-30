@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7"
+   name=""
+   committed-date="2006-11-06T08:46:08.763605Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/SCSSQ"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_002E.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="7a80ae963f84c76861b49a635596a007"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_002F.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="d74a95189345fa9bb340cb0868e794ba"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0010.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="a2a5aba092fc45fde93bbab7c4322a97"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0011.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="1289b757718d608bc44e7fb4ea7ebd33"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0012.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="8b8a74442aeeb1a350f1c9022dd0baac"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0030.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="413d69ea10f7dd3106b5457f8e2aa252"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0013.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="6009ab0b8f1a491c1d686863bd0a7d1c"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0031.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="49f42d083549a245008dddd583dcd483"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0014.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="4d5bf3513e10b0e7d1a4e1fe9e74c6c3"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0015.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="54faac2c73d638a6904c72cb577c15e7"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0016.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="b8426e566e4f59cb56e68b1bcf2ff69a"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0017.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="33d589ad3e47a7ba9a2700f6c3df1da9"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0018.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="2576d84d83620588c6aa14fd38b2897b"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0019.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="089e86aacfc95118a6a233e68ab085a3"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_001A.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="e650db33663ecaf610adf74bb5785fbf"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_001B.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="9321a566c952d1d5a293b3d2bec7f310"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_001C.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="b81d0088c1cbb77af37e6f4130f78bec"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_001D.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="1da96915b6637adc88b0b59421b3d991"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_001E.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="192012fa7403ab5add69f1296dc1a60d"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_001F.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="6c7d13680668794d3418502e2b92c5b5"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0000.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="552a2c388adffee98aafb97ea75de05c"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0001.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="dfa9bf8f4ab1765b8c4dcc7b6a482716"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0020.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="c3009f728f5d5e84d7b4fba12263087c"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0002.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="8b18a3432ece782e70f767257bc92a01"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0003.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="827938af1d41e525bed39aa4d1325d97"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0021.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="90d2d616e0633f04f71a0106771a2be5"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0022.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="999b3bc7ad485d1b178b82501756738a"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0004.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="18551614694ef8bb4ed46a15c527d091"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0005.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="55a7ef63383ea39be7907c9d45cd662d"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0023.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="78a43c5008cf1cbbf91327082b5f20f1"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0024.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="ad4a6fb80dfd666e2bc0272da4bbcb79"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0006.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="759a89c018add08e1a57425b1c9ff216"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0007.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="e259f92a01722d5bba221af5e9cedc8c"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0025.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="77efc6b8728376c3a9b80fe9843d5539"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0008.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="96a46a16f589307284d62a1771794174"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0026.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="35a44715d79e1bc792c1aa8884adf394"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0009.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="c87403be83359d00a2fb9003116e9e19"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0027.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="858cc5b90262d9f788e8e7c1e7b8aa50"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0028.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="cd3c43c80cbb5ec71a5ac78f509fb270"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_0029.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="668d162bec1401abef7162ec9fd08277"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_000A.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="fe765a6edcc6143937bcaa48b5f08cd5"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_000B.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="e24aedaa7f311aaea7d8b3fc3be390f1"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_000C.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="71e09700e271f91cfe575bba0e4010c2"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_002A.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="16f5bfd35319129c50c461460c295cef"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_000D.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="46378e1cbfde791a7bc7bf24f11a9503"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_002B.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="e0aabd0d637162b3107ea3c952c2f842"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_000E.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="daca610978a4c62230fd4cf69e860f21"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_002C.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="f0868aae57ed0ce891cc5b496245b282"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_000F.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="4d621217cd6684a4654e6d7267f218ad"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSCSSQ_002D.xml"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="b7f266c6fd52e32ea72b8bc131dec44a"
+   last-author="solarb"
+   kind="file"/>
+</wc-entries>

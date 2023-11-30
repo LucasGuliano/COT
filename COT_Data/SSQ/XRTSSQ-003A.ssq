@@ -1,0 +1,21 @@
+Sequence name:	Obs Table Setup
+Version:	003A
+Start date:	2006/06/12 00:00
+End date:	2006/06/13 00:00
+Author last name:	KENT
+Author first name:	Tom
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	-01
+Last used:	2006/06/12 12:56:06
+Last modified:	2009/09/30 03:12:23
+Deleted:	Yes
+Locked:	No
+Unique tag:	00004613B0FF/003A
+COT version:	2.0x39
+COT build:	1048
+	XRT	MDP_XRT_ROI_SET 1 12 12 30 30 P		
+	XRT	MDP_XRT_QT_PROG_SET 10 P		
+	XRT	MDP_XRT_FL_PROG_SET 12 P		
+	ESQ	End of sequence		

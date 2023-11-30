@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="TAKEDA, Aki" dateTime="2015-05-11T20:11:51Z" />
+  <name>Stray light study 2015-7/8 ;Ti-poly and C-poly, 2x2 full FOV(1min-cad) and 2x2 256 on AR(10sec-cad) </name>
+  <COT_info deleted="FALSE" lastUsed="2015-05-12T02:01:04Z" version="1A82" locked="FALSE"
+    tag="AD0517077A89/1A82" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>21</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="3">
+      <Call>3</Call>
+      <COT_SUBR>Subr-C</COT_SUBR>
+      <Repeat>6</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>41</Call>
+      <COT_SEQ>A0186E01B710/2D45</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>300</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>87</Call>
+      <COT_SEQ>E1F138C48C99/2D49</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>20</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>79</Call>
+      <COT_SEQ>8CCE2986440C/2D46</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>87</Call>
+      <COT_SEQ>E1F138C48C99/2D49</COT_SEQ>
+      <Repeat>5</Repeat>
+      <Interval>20</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x13 (1307) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="ISHIBASHI, Bish" dateTime="2007-05-17T11:21:21Z" />
+  <name>Synoptic - Al/mesh (181/4096) + Al/poly (512/4096) + thin-Be (1024/23142) + Ti/poly (512/8192) + Dark cal (8192)-2</name>
+  <COT_info deleted="FALSE" lastUsed="2007-05-17T11:21:21Z" version="1392" locked="FALSE"
+    tag="E8351CAB5BD6/1392" COTversion="0.9x13" COTbuild="1307" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-1</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>1</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-1</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>42</Call>
+      <COT_SEQ>83990D9E215C/248A</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>99</Call>
+      <COT_SEQ>81A334A86AEC/24A2</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>8</Call>
+      <COT_SEQ>EFCA7FFABF1B/2489</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>36</Call>
+      <COT_SEQ>0000028B9983/23BE</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="5">
+      <Call>91</Call>
+      <COT_SEQ>2E735497B425/2497</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>80</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="GRIGIS, Paolo" dateTime="2009-11-13T17:10:02Z" />
+  <name>Med-Al + Thick-Be (Med-Al + Thick-Be) - 8x8 - 512ms - Dark</name>
+  <COT_info deleted="FALSE" lastUsed="2013-10-31T03:03:49Z" version="3801" locked="FALSE"
+    tag="2D18133AC586/3801" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>5</FltA_L1>
+  <FltB_L1>5</FltB_L1>
+  <FltA_L2>5</FltA_L2>
+  <FltB_L2>5</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>1</ImageType>
+  <Exposure>17</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>3</Resolution>
+</PARM>

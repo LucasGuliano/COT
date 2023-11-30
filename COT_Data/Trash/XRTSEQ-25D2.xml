@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x34 (1392) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="GRIGIS, Paolo" dateTime="2007-11-08T07:10:49Z" />
+  <name>Fullsun - Al/poly - 2x2 - 11571ms-2</name>
+  <COT_info deleted="FALSE" lastUsed="2007-11-08T07:10:49Z" version="25D2" locked="FALSE"
+    tag="DB7C0D84EA55/25D2" COTversion="0.9x34" COTbuild="1392" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>24</PARM_NO>
+    <COT_PARM>14600365DF86/36DD</COT_PARM>
+    <REGN_NO>7</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

@@ -1,0 +1,19 @@
+Sequence name:	XRT_PREFLR_STRT_431_OG
+Version:	001F
+Start date:	2023/07/17 00:00
+End date:	2023/07/18 00:00
+Author last name:	YOSHIMURA
+Author first name:	Keiji
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	431
+Last used:	2023/11/17 09:15:19
+Last modified:	2023/07/17 18:48:12
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/001F
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_PREFLR_STRT P		:03:08_00
+	ESQ	End of sequence		

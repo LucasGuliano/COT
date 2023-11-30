@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x14 (1571) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="ISHIBASHI, Bish" dateTime="2008-11-07T11:10:52Z" />
+  <name>Full Sun - Multi-filter snapshots-2</name>
+  <COT_info deleted="FALSE" lastUsed="2008-11-07T11:10:52Z" version="15FF" locked="FALSE"
+    tag="2DD22661360F/15FF" COTversion="1.0x14" COTbuild="1571" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+  </MAIN>
+  <SUBR NO="1">
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

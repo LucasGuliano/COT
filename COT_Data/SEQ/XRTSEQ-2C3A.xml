@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="MCKENZIE, David" dateTime="2013-01-21T03:34:47Z" />
+  <name>Thin-Be (Med-Be) - 512FOV - AEC3 - 1064 1048 - NO PFB - 8s-cad</name>
+  <COT_info deleted="FALSE" lastUsed="2013-01-23T03:45:26Z" version="2C3A" locked="FALSE"
+    tag="3254086C64D5/2C3A" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>89</PARM_NO>
+    <COT_PARM>853E4A17E6F8/3676</COT_PARM>
+    <REGN_NO>7</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>16</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>89</PARM_NO>
+    <COT_PARM>853E4A17E6F8/3676</COT_PARM>
+    <REGN_NO>7</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>16</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>89</PARM_NO>
+    <COT_PARM>853E4A17E6F8/3676</COT_PARM>
+    <REGN_NO>7</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>16</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>89</PARM_NO>
+    <COT_PARM>853E4A17E6F8/3676</COT_PARM>
+    <REGN_NO>7</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>16</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

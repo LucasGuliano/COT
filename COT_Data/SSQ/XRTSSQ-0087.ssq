@@ -1,0 +1,20 @@
+Sequence name:	XRT_XTW_ENTRY
+Version:	0087
+Start date:	2007/05/05 00:00
+End date:	2007/05/06 00:00
+Author last name:	BANDO
+Author first name:	Takamasa
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/05/05 02:26:45
+Last modified:	2009/10/02 07:38:05
+Deleted:	No
+Locked:	No
+Unique tag:	EE965ADD79FD/0087
+COT version:	2.0x39
+COT build:	1277
+	COM	insert ctrl_manu upon XTW_ENTRY		
+	XRT	MDP_XRT_CTRL_MANU N		
+	ESQ	End of sequence		

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x14 (1571) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="LEE, Jin-Yi" dateTime="2009-05-13T12:01:56Z" />
+  <name>C/poly + Al/poly 2x2 768x768 offsets to NW - AEC1</name>
+  <COT_info deleted="FALSE" lastUsed="2009-05-13T11:36:03Z" version="28FC" locked="FALSE"
+    tag="7A6802B20AA2/28FC" COTversion="1.0x14" COTbuild="1571" Mutable="TRUE" />
+  <COT_slot>48</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>26</PARM_NO>
+    <COT_PARM>FFBC09852227/37D6</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1176" vcenter="1088" width="768" height="768" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>52</PARM_NO>
+    <COT_PARM>000010438D00/3630</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1176" vcenter="1088" width="768" height="768" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

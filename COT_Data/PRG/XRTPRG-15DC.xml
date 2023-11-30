@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SAVAGE, Sabrina" dateTime="2008-10-13T03:38:12Z" />
+  <name>Synoptic 2x2 Q98 Al/mesh (4096ms) Al/poly (4096ms) Ti/poly (4096ms) C/poly (4096ms) Al/poly+Ti/poly (8192ms) Thin-Be (65536ms) Med-Be (65536ms)</name>
+  <COT_info deleted="FALSE" lastUsed="2008-10-14T02:48:41Z" version="15DC" locked="FALSE"
+    tag="57083E7B17FE/15DC" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>8</Repeat>
+      <Interval>3600</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>95</Call>
+      <COT_SEQ>FA815FCE87F7/2804</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>59</Call>
+      <COT_SEQ>9E7F03A39012/2805</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>9</Call>
+      <COT_SEQ>CC9054FBD01F/2806</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>46</Call>
+      <COT_SEQ>A5067F8970ED/2809</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="5">
+      <Call>15</Call>
+      <COT_SEQ>758E61F07675/2808</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="6">
+      <Call>50</Call>
+      <COT_SEQ>C9147E84F9FC/2807</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="7">
+      <Call>14</Call>
+      <COT_SEQ>A56507F4ACF1/280C</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

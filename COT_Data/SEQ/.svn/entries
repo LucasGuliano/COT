@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2006-11-06T08:57:48.657211Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/SEQ"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2344.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="181996654bf11a331788e4693806a87e"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2308.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="954bbbf9266c72a56a5e74c0fbde520c"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2309.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="4eb89be1bb46757b932f2df2e2280e13"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2345.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="23b82036b31788ff12b4a929757380e6"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2346.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="c32734a8aeeed68c85bd5b18e0c5fc7e"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2347.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="dea0d880f3f8048a9e404f7e6e96be54"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2348.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="f557475dfed616bba64ea74f5d20a42b"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2349.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="181c76899f32ebfab71613d2826f2a67"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="5"
+   name="XRTSEQ-230A.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-04T11:05:27.952620Z"
+   checksum="d0d25e94647cbd7ea85243e51e0baf6f"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-230B.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="ba58daddfceea28b5c34d3f38cf3dd49"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-230C.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="714910ec54e43909a0030d1602e78665"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-230D.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="b9e8cfdac5add96928987fdd3ae36578"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-234A.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="ae66f2b1fa156eefebce97b7d36ac2b0"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-230E.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="76414ac11e8a81df8824e06ffdf5c8b9"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-230F.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="dfbd6a276d70a275f52dc22808d78d84"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-234B.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="7b346af751615b04c8c07ac62a94fb69"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-234C.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="4dc00214eb68ecad19f95747bddf841f"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-234D.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="ab00578e8dfc9f81258bb3396b36840e"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-234E.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="389a8ef84ab51b09b9595809f1f309b9"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="8"
+   name="XRTSEQ-234F.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:57:48.657211Z"
+   checksum="48db496c9a9dae4a9b3d2b2542f628cc"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2310.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="44b27a74fe68a698ff597373f8d59140"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2311.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="89c88bc62064c15cb198aa0c20c460dc"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="5"
+   name="XRTSEQ-2312.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-04T11:05:27.952620Z"
+   checksum="1ef3bd036897cccfda1dbfd20914c37e"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2313.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="a527f631d6ee5e542e55a54a39f85154"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2314.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="fe38ca1776b14c4da0b6177aeb4f737d"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="5"
+   name="XRTSEQ-2315.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-04T11:05:27.952620Z"
+   checksum="4fa225ce7248212397d0a7d461e1a81f"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="5"
+   name="XRTSEQ-2316.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-04T11:05:27.952620Z"
+   checksum="0747221a6de46c7cbb5cf67ee05b5be4"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="5"
+   name="XRTSEQ-2317.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-04T11:05:27.952620Z"
+   checksum="49316e273f683f5785e1caf9aea61af6"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2318.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="bf8f65d8cb7d82166fe82683f206d997"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2319.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="482546e57316cbb2f5a1fe19efda5b78"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schemas.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="f4a0bb9da5c3c08a9857a6b2e76fc0a1"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-231A.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="0030e5a259d24f8a63559acc0ae03382"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="5"
+   name="XRTSEQ-231B.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-04T11:05:27.952620Z"
+   checksum="21f9c777185f18ab059add0b4e027ad6"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-231C.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="9d401976695ad7171d70ba786e829bd6"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-231D.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="e3d41ef84ab44a385f72b07a69cc935b"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="5"
+   name="XRTSEQ-231E.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-04T11:05:27.952620Z"
+   checksum="ab03b816bc2a3570065937f6d8ca85be"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-231F.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="3a66602b657cad9dfccae47ec454b0c5"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="6"
+   name="XRTSEQ-2320.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T01:18:21.729805Z"
+   checksum="14c9566345053a53aec330bfb7691c10"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="6"
+   name="XRTSEQ-2321.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T01:18:21.729805Z"
+   checksum="55cfdef4c8d376e295ae95c732e0c0d2"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2322.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="b4a9402511d972fd39883fcb0e7cc98f"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="6"
+   name="XRTSEQ-2323.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T01:18:21.729805Z"
+   checksum="0df7eaaf58d1c5cc9eb5ab24487816f1"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="5"
+   name="XRTSEQ-2324.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-04T11:05:27.952620Z"
+   checksum="8e0793171df9b895a4c70f05c720f27b"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2325.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="e3e89d904ca933a1ec26d8baec4ba32c"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2326.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="ecdf993df0feea343bebd89bd27ada12"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2327.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="c2d9056420e7026349a7b4eb7c3d17a2"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2328.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="364d87f7e299debfa246723eea23c2e7"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2329.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="b3b3dbdc22a2ce93b2f5a896370bc904"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="6"
+   name="XRTSEQ-232A.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T01:18:21.729805Z"
+   checksum="daa0f5d6b43f017f95f640025482756d"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="6"
+   name="XRTSEQ-232B.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T01:18:21.729805Z"
+   checksum="a594381c809bd95e8d6ceb45a7d481e8"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-232C.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="5f2e237726dbc88b663f601eda2257e5"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-232D.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="60f5709b06d2cc5a0260f7838881e605"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-232E.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="d11a1fa435dbff402c480ad9ae94050b"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-232F.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="5d30c7c4b922f9ad1c6adb6b894855bf"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2330.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="7a38c5972b901d3fc6c23620703696da"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2331.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="5c0dfa4847e2e35d52a97c6e7455e1e7"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2332.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="7714db0f7786384db418f636fdb1f0ca"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2333.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="aba4f53d29aaf9f245c77c1ce8ac19fd"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2334.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="d82a65f2c7ddd8b299ee9fa6ad79db39"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2335.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="9360377359ef36b147c611284d1ba2d9"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2336.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="024445b37bca7aa3ecf158e32c189c31"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2337.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="ccd4aa13c2893215c835432529bd3b72"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2338.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="fb6d918045e160c0dd4adafae043c8bf"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2339.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="4bdf06e2fb3d06dd6607c4c963698d7c"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-233A.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="a64017055529452deeb9e7f820150138"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-233B.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="cd662e3d3b886f47a03ab042711a5812"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-233C.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="b801341c0fcd687c9dd54efa622945e2"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-233D.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="e18ca6bd4d7fef0a1b94ca85a5a1c160"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-233E.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="a36469d2dab149cc8b2814c8288d010b"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="XRTSEQ.dtd"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="e446b5dcfce610b05f0e4c31d6e8a564"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-233F.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="9e07f1572ee5f3f41a627124d3b6f1ff"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-0000.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="e444d5158abe7f7a08ba5f87d8bf4421"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2301.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="60acfa3dc74c6d9ae619ec24ad35eced"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2302.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="cf192f55bacabc206d3ecf6e58132566"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2303.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="7c4440e19f51bf5415cdf9eb2a4e6372"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2304.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="49eda612d0918810a0dd28ed42bb0ade"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2340.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="9f4db4ec2ef4e92a208356b2f9fed3a0"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2305.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="9e26f5647640f0c06708e230cd34e723"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2341.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="7ae793e11fd59fa75ca91c6d2054bcd8"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2306.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="06e4fa438f1aff03238a533c28c71db8"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2342.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="9364b4d400837c4b3d84129adcee7282"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="4"
+   name="XRTSEQ-2307.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="40d984d8af2721d0598fac2eab6c4f12"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:25.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTSEQ-2343.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="38733fabb09edce9f67d1816d204d26d"
+   last-author="solarb"
+   kind="file"/>
+</wc-entries>

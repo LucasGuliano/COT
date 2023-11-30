@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7"
+   name=""
+   committed-date="2006-11-06T08:46:08.763605Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/FLD"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   committed-rev="4"
+   name="XRTFLD-0001.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="3db8209ae3d2efa2afce873f00b63d3e"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:29.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTFLD-0002.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="77f3abd1dc1b082d8ee4bcdca49139b6"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:29.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTFLD-0003.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="4a19d6f1f74ebc498c4dacfc319266e8"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:29.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schemas.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="f4a0bb9da5c3c08a9857a6b2e76fc0a1"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:29.000000Z"/>
+<entry
+   committed-rev="5"
+   name="XRTFLD-0004.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-04T11:05:27.952620Z"
+   checksum="66c437d3a1a6b3d9886a7c695d868c94"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:29.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTFLD-0005.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="63a7924b2b1d9dacc001429d4b649e61"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:29.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTFLD-0006.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="2fc9395cb27283d007a17727f593cf58"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="XRTFLD.dtd"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="2d51c1e75dc0ebf29bcf08bf22e8734c"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:29.000000Z"/>
+</wc-entries>

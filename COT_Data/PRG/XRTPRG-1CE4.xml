@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="TAKEDA, Aki" dateTime="2022-07-12T17:14:41Z" />
+  <name>High corona study modified synoptic Q95 2x2 -Dark cal(2x2 4x4 8x8 2048x512 512x2048) +  Al/mesh(2/128/4x723ms) + Al-poly(12/181/4x1443ms) + Thin_Be(24/512/6x3897ms) </name>
+  <COT_info deleted="FALSE" lastUsed="2023-07-20T02:08:40Z" version="1CE4" locked="FALSE"
+    tag="48430E4C9387/1CE4" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>2</Repeat>
+      <Interval>480</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>5</Call>
+      <COT_SEQ>8E2E20BB6B2A/2938</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>3</Call>
+      <COT_SEQ>62923E2214E7/2ED5</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>80</Call>
+      <COT_SEQ>BB3A07B35F24/2ED6</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>31</Call>
+      <COT_SEQ>CDE003061C38/2ED7</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>100</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

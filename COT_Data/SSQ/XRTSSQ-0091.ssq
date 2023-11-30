@@ -1,0 +1,26 @@
+Sequence name:	Four_Quadrant_Observation_Q1-long
+Version:	0091
+Start date:	2009/04/08 00:00
+End date:	2009/04/09 00:00
+Author last name:	MINOSHIMA
+Author first name:	Takashi
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2009/04/08 18:03:06
+Last modified:	2010/07/13 07:30:01
+Deleted:	No
+Locked:	No
+Unique tag:	07C35EDAE089/0091
+COT version:	2.0x39
+COT build:	1571
+	COM	Quadrant observations Q1		
+	XRT	MDP_XRT_CTRL_MANU N		:02:38_00
+	XRT	XRT_FOCUS_POSITION -86 N		
+	XOB	0B426AD547D6/1778 (Normal) P		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

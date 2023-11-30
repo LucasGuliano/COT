@@ -1,0 +1,19 @@
+Sequence name:	XRT_QT_PROG_SET_444_OG
+Version:	002C
+Start date:	2023/09/02 00:00
+End date:	2023/09/03 00:00
+Author last name:	ISHIBASHI
+Author first name:	Bish
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	444
+Last used:	2023/11/14 02:04:07
+Last modified:	2023/09/02 02:17:09
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/002C
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_QT_PROG_SET 11 P		
+	ESQ	End of sequence		

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="MOORE, Christopher" dateTime="2019-03-08T22:33:36Z" />
+  <name>HOP349 - 3-filter Synoptics (Al-mesh[24/256/2897], Al-poly[45/512/4096], thin-Be[1024/11571/23142] with 512x512 G-band+Leak - 120min cad) + CME watch (4x4 - AEC 2/3 - Be-thin, Al-poly, Al-mesh - 1200s cad)</name>
+  <COT_info deleted="FALSE" lastUsed="2019-03-08T22:00:40Z" version="1C33" locked="FALSE"
+    tag="C37C5D99463F/1C33" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

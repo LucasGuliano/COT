@@ -1,0 +1,49 @@
+Sequence name:	Focus Recalibration
+Version:	003B
+Start date:	2006/06/20 00:00
+End date:	2006/06/21 00:00
+Author last name:	LUNDQUIST
+Author first name:	Loraine
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2006/06/20 15:25:49
+Last modified:	2019/06/03 09:41:36
+Deleted:	No
+Locked:	No
+Unique tag:	000050B1F640/003B
+COT version:	2.0x39
+COT build:	1048
+v	SEQ	XRT_FOCUS_RECAL_SEQ:  (OP)		
+	MSG	 (Pauses)		
+	MSG	 (Pauses)		
+	MSG	********************************* (No pause)		
+	MSG	XRT Focus Recalibration (No pause)		
+	MSG	********************************* (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRT_S_S/W_MODE]  =  OPER (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRTD_D_FOCUS_CAL]  = NON (No pause)		
+	XRT	MDP_XRT_CTRL_MANU P		
+	XRT	XRT_FOCUS_RECALIBRATE P		
+	MSG	During the execution of the Focus_Recal, one should see the following: (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRTD_B_EXPOSE_BUSY]  =  BUSY (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRTD_B_BUSY_MECH]  =  FOC (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRT_D_CMD_BUSY]  =  BUSY (No pause)		
+	MSG	After the completion of the Focus_Recal, one should see the following: (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRTD_B_EXPOSE_BUSY]  =  READY (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRTD_D_FOCUS_CAL]  = CAL (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRT_E_FOC_POS]  =  -2500 (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRT_S_S/W_MODE]  =  OPER (No pause)		
+	XRT	XRT_FOCUS_POSITION -361 P		
+	XRT	MDP_XRT_CTRL_AUTO P		
+	MSG	During the execution of the Focus_Position, one should see the following: (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRTD_B_EXPOSE_BUSY]  =  BUSY (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRTD_B_BUSY_MECH]  =  FOC (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRT_D_CMD_BUSY]  =  BUSY (No pause)		
+	MSG	After the completion of the Focus_Recal, one should see the following: (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRTD_B_EXPOSE_BUSY]  =  READY (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRTD_D_FOCUS_CAL]  = CAL (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRT_E_FOC_POS]  =  -361 (Fe 97 00) (No pause)		
+	MSG	<XRT1, XRTD_STS> [XRT_S_S/W_MODE]  =  OPER (No pause)		
+	ESQ	End of sequence		
+	ESQ	End of sequence		

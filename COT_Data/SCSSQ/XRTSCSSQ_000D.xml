@@ -1,0 +1,19 @@
+Sequence name:	XRT_FLRCTRL_DIS_413_OG
+Version:	000D
+Start date:	2018/08/06 00:00
+End date:	2018/08/07 00:00
+Author last name:	YOSHIMURA
+Author first name:	Keiji
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	413
+Last used:	2023/11/21 02:50:45
+Last modified:	2018/08/06 19:48:17
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/000D
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	ESQ	End of sequence		

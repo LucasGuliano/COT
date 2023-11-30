@@ -1,0 +1,19 @@
+Sequence name:	XRT_QT_PROG_SET_443_OG
+Version:	002B
+Start date:	2023/09/12 00:00
+End date:	2023/09/13 00:00
+Author last name:	VELASQUEZ
+Author first name:	Joy
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	443
+Last used:	2023/11/16 02:26:24
+Last modified:	2023/09/12 02:23:16
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/002B
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_QT_PROG_SET 16 P		
+	ESQ	End of sequence		

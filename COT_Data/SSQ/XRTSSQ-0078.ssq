@@ -1,0 +1,20 @@
+Sequence name:	XRT_SAA_ENTRY
+Version:	0078
+Start date:	2007/05/05 00:00
+End date:	2007/05/06 00:00
+Author last name:	NARUKAGE
+Author first name:	Noriyuki
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/05/05 02:26:45
+Last modified:	2022/06/08 04:46:22
+Deleted:	No
+Locked:	No
+Unique tag:	7608601E9F92/0078
+COT version:	2.0x39
+COT build:	1277
+	COM	insert ctrl_manu upon SAA_ENTRY		
+	XRT	MDP_XRT_CTRL_MANU N		
+	ESQ	End of sequence		

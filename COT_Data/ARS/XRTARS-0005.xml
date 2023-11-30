@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE ARS_TBL SYSTEM "XRTARS.dtd">
+<ARS_TBL>
+  <modified author="SHIMOJO, Masumi" dateTime="2008-02-28T03:34:43Z" />
+  <name>ARS_table_default</name>
+  <COT_info deleted="FALSE" lastUsed="2007-10-15T05:55:03Z" version="0005" locked="FALSE"
+    tag="00001D5C2073/0005" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_fov1 hcenter="1416" vcenter="1416" width="256" height="256" />
+  <COT_fov2 hcenter="1416" vcenter="1416" width="512" height="512" />
+  <COT_fov3 hcenter="1416" vcenter="1416" width="512" height="512" />
+  <COT_fov4 hcenter="1416" vcenter="1416" width="384" height="384" />
+  <PARM_NO_ARS   unit="ParameterNo">93</PARM_NO_ARS>
+  <COT_PARM >000000922855/34FD</COT_PARM>
+  <COMP_CODE_ARS unit="CompCode">0x0328</COMP_CODE_ARS>
+  <IntervalArs   unit="20sec">135</IntervalArs>
+  <GB            unit="DNin128x128CCDpixel">2560</GB>
+  <HStartArs     unit="128CCDpixel">0</HStartArs>
+  <VStartArs     unit="128CCDpixel">0</VStartArs>
+  <HEndArs       unit="128CCDpixel">15</HEndArs>
+  <VEndArs       unit="128CCDpixel">15</VEndArs>
+  <Size1Search   unit="128CCDpixel">4</Size1Search>
+  <Size2Search   unit="128CCDpixel">3</Size2Search>
+  <Size3Search   unit="128CCDpixel">2</Size3Search>
+</ARS_TBL>

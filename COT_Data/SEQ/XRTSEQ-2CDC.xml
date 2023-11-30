@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="TAKEDA, Aki" dateTime="2014-05-26T20:45:21Z" />
+  <name>Ti/poly 1024 ms and G-band 33ms - 256x256 - 1x1 - AEC0 - Q95 - shifted pnt-2</name>
+  <COT_info deleted="FALSE" lastUsed="2014-05-26T22:24:42Z" version="2CDC" locked="FALSE"
+    tag="B1510AC34938/2CDC" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>6</PARM_NO>
+    <COT_PARM>81F645A59856/386F</COT_PARM>
+    <REGN_NO>11</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1192" vcenter="776" width="256" height="256" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>37</PARM_NO>
+    <COT_PARM>1B2A2D5A6297/3895</COT_PARM>
+    <REGN_NO>11</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1192" vcenter="776" width="256" height="256" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

@@ -1,0 +1,58 @@
+Sequence name:	STOP and CAL (DIS-DIS-DIS) - low data rate (PART2 with focus recal)
+Version:	007B
+Start date:	2007/01/27 00:00
+End date:	2007/01/28 00:00
+Author last name:	MINOSHIMA
+Author first name:	Takashi
+Yesterday plan date:	2007/09/08
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/01/27 05:58:54
+Last modified:	2007/01/27 05:58:54
+Deleted:	No
+Locked:	No
+Unique tag:	87045B48685E/007B
+COT version:	2.0x39
+COT build:	1067
+	COM	=======================		
+	COM	For XRT calibration in 3 hours during EIS sensitivity check.		
+	COM	=======================		
+	COM			
+	COM	2007/11/26 RK: prepared		
+	COM	2007/11/28 RK: flip part-1 and -2		
+	COM			
+	COM	This SSQ stops previous obs, re-calibrates focus, moves to best-on-axis focus, takes diffusers and darks, and runs the multi-filter full-disk observtion.		
+	COM			
+	COM	Start this SSQ during non-SAA period.		
+	COM	It takes 3 hours to run this SSQ in total.		
+	COM			
+	COM			
+	COM	** Settings for MDP functions **		
+	COM	  ARS patrol: DIS		
+	COM	  FLD patrol: DIS		
+	COM	  FLRCTL: DIS		
+	COM			
+	COM			
+	COM			
+	COM			
+	COM			
+	COM			
+	COM			
+	COM	---- PART 2 ----		
+	COM	Run this part 2 hours and a half. (At least one orbit is necessaly.)		
+	COM			
+	I&T	OBSTITLE: CCD calibration		
+	I&T	OBS_DEC: Dark images and Diffuser images.		
+	I&T	JOIN_SB: X		
+	XRT	MDP_XRT_CTRL_MANU N		:01:38_00
+	XRT	XRT_FOCUS_RECALIBRATE P		
+	XRT	XRT_FOCUS_POSITION -361 N		
+	XOB	3776206691CA/1553 (Normal) P		
+	XRT	MDP_XRT_AEC_RESET P		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

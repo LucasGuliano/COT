@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="GRIGIS, Paolo" dateTime="2009-11-13T17:26:59Z" />
+  <name>Med-Al (Med-Al + Thick-Al) - 2x2 - 65536ms</name>
+  <COT_info deleted="FALSE" lastUsed="2009-12-15T03:39:20Z" version="3803" locked="FALSE"
+    tag="129B15844C79/3803" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>5</FltA_L1>
+  <FltB_L1>0</FltB_L1>
+  <FltA_L2>5</FltA_L2>
+  <FltB_L2>4</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>31</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>1</Resolution>
+</PARM>

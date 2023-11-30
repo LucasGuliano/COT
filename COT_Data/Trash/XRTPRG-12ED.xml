@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x19 (1067) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="LUNDQUIST, Loraine" dateTime="2007-01-08T05:06:31Z" />
+  <name>Polar Plume - loop multi - ROI North pole</name>
+  <COT_info deleted="FALSE" lastUsed="2007-01-08T05:06:31Z" version="12ED" locked="FALSE"
+    tag="884887875" COTversion="0.2x19" COTbuild="1067" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>45</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>subr</COT_SUBR>
+      <Repeat>10</Repeat>
+      <Interval>60</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>1</Call>
+      <COT_SUBR>subr-2</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>1</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>subr-2</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>0</Call>
+      <COT_SEQ>23C9</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>subr</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>0</Call>
+      <COT_SEQ>23C9</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

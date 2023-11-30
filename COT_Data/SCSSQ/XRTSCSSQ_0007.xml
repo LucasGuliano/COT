@@ -1,0 +1,19 @@
+Sequence name:	XRT_TCIB_XRT_S_HTR_A_ENA_407_OG
+Version:	0007
+Start date:	2023/09/16 00:00
+End date:	2023/09/17 00:00
+Author last name:	VELASQUEZ
+Author first name:	Joy
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	407
+Last used:	2023/11/17 09:15:19
+Last modified:	2023/09/16 02:12:17
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/0007
+COT version:	2.0x39
+COT build:	2080
+	XRT	TCIB_XRT_S_HTR_A_ENA N		:02:00:00_00
+	ESQ	End of sequence		

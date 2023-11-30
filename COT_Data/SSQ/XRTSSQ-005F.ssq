@@ -1,0 +1,21 @@
+Sequence name:	XRT_NGT_EXIT_old  (replaced by XTW_EXIT)
+Version:	005F
+Start date:	2007/05/05 00:00
+End date:	2007/05/06 00:00
+Author last name:	ISHIBASHI
+Author first name:	Bish
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/05/05 02:26:45
+Last modified:	2007/05/05 02:26:45
+Deleted:	Yes
+Locked:	No
+Unique tag:	6D52051752DF/005F
+COT version:	2.0x39
+COT build:	1277
+	COM	insert ctrl_auto upon NGT_EXIT		
+	XRT	Custom NULL_DUMMY_CMD P		:08:00_00
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

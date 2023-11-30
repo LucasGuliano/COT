@@ -1,0 +1,30 @@
+Sequence name:	Focus Recalibration 2
+Version:	003C
+Start date:	2006/06/19 00:00
+End date:	2006/06/20 00:00
+Author last name:	KENT
+Author first name:	Tom
+Sequence type:	OG Command plan
+S/C slot:	-01
+Last used:	2006/06/19 11:28:39
+Last modified:	2006/06/19 11:28:39
+AEC Table:	1447827847
+ARS Table:	1350594549
+CMP Table:	1332123528
+FLD Table:	165642366
+FLT Table:	1719485128
+ROI Table:	1498114067
+Deleted:	No
+Locked:	No
+Unique tag:	1486688271
+COT version:	0.2x22
+COT build:	1048
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+	XRT	XRT_SAFEHOLD P		
+	XRT	XRT_STANDBY P		
+	XRT	XRT_DIAGNOSTIC P		
+	XRT	XRT_FOCUS_RECALIBRATE P		
+	ESQ	End of sequence		

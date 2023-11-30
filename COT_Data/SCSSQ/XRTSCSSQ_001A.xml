@@ -1,0 +1,19 @@
+Sequence name:	XRT_PREFLR_STRT_426_OG
+Version:	001A
+Start date:	2023/11/21 00:00
+End date:	2023/11/22 00:00
+Author last name:	TANIGUCHI
+Author first name:	Ayatoshi
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	426
+Last used:	2023/11/21 02:50:46
+Last modified:	2023/11/21 02:50:45
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/001A
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_PREFLR_STRT P		:03:10_00
+	ESQ	End of sequence		

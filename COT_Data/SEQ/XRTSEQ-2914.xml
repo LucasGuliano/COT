@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="GRIGIS, Paolo" dateTime="2009-06-01T03:40:36Z" />
+  <name>Al/poly - Ti/poly - 1024x1024 - 2x2 - AEC 2 - Q98</name>
+  <COT_info deleted="FALSE" lastUsed="2009-07-29T03:41:31Z" version="2914" locked="FALSE"
+    tag="26F34A9B7906/2914" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>15</PARM_NO>
+    <COT_PARM>000061E0F260/3642</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="1024" height="1024" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>46</PARM_NO>
+    <COT_PARM>00002C991BB6/3618</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="1024" height="1024" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

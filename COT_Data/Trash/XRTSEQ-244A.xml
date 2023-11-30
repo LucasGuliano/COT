@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x19 (1067) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="BOBRA, Monica" dateTime="2007-04-01T02:38:56Z" />
+  <name>Sequence 2</name>
+  <COT_info deleted="FALSE" lastUsed="2007-04-01T02:38:56Z" version="244A" locked="FALSE"
+    tag="1931857538" COTversion="0.2x19" COTbuild="1067" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+</SEQN>

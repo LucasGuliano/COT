@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="CIRTAIN, Jonathan" dateTime="2008-03-13T02:57:27Z" />
+  <name>Ti-poly_8sec_ROI_Q1_1024x1024</name>
+  <COT_info deleted="FALSE" lastUsed="2009-01-10T00:20:11Z" version="3732" locked="FALSE"
+    tag="61EF321B96F3/3732" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>0</FltA_L1>
+  <FltB_L1>2</FltB_L1>
+  <FltA_L2>0</FltA_L2>
+  <FltB_L2>2</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>25</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

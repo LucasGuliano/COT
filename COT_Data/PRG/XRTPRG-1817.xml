@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="REEVES, Kathy" dateTime="2010-09-17T17:21:50Z" />
+  <name>Flare Obs for use with Ti-poly 1x1 PFB images (FW1=Open )</name>
+  <COT_info deleted="FALSE" lastUsed="2010-10-05T02:38:59Z" version="1817" locked="FALSE"
+    tag="85CE293BE8FD/1817" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>2</Repeat>
+      <Interval>1240</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>8</Repeat>
+      <Interval>1200</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="3">
+      <Call>3</Call>
+      <COT_SUBR>Subr-C</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>67</Call>
+      <COT_SEQ>B67F15B2E5F8/2ABF</COT_SEQ>
+      <Repeat>30</Repeat>
+      <Interval>40</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>90</Call>
+      <COT_SEQ>8F750E7933A4/2A8B</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>67</Call>
+      <COT_SEQ>B67F15B2E5F8/2ABF</COT_SEQ>
+      <Repeat>5</Repeat>
+      <Interval>240</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>90</Call>
+      <COT_SEQ>8F750E7933A4/2A8B</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>89</Call>
+      <COT_SEQ>13BF58ACEDF0/2A8D</COT_SEQ>
+      <Repeat>40</Repeat>
+      <Interval>1200</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>89</Call>
+      <COT_SEQ>13BF58ACEDF0/2A8D</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+</PROG>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="LUNDQUIST, WEBER" dateTime="2006-07-03T00:50:58Z" />
+  <name>Sims - AR Stress Buildup</name>
+  <COT_info deleted="FALSE" lastUsed="2006-08-29T04:48:32Z" version="121D" locked="FALSE"
+    tag="2067417066" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>7</COT_slot>
+  <COT_reserved>10</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-1</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>2</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-2</COT_SUBR>
+      <Repeat>9</Repeat>
+      <Interval>2</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-1</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>2</Call>
+      <COT_SEQ>231D</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>2</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-2</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SEQ>231C</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>2</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>16</Call>
+      <COT_SEQ>2322</COT_SEQ>
+      <Repeat>10</Repeat>
+      <Interval>2</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

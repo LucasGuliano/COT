@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SAVAGE, Sabrina" dateTime="2008-10-10T04:55:02Z" />
+  <name>Ti/poly 23s to Al/poly+Ti/poly 32s - 384x384 - Q95</name>
+  <COT_info deleted="FALSE" lastUsed="2008-10-17T10:17:58Z" version="280A" locked="FALSE"
+    tag="A4722437354F/280A" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>21</PARM_NO>
+    <COT_PARM>000078E166C9/360C</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1048" vcenter="1064" width="384" height="384" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>50</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>39</PARM_NO>
+    <COT_PARM>E4A83EA03A4C/3797</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1048" vcenter="1064" width="384" height="384" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>50</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

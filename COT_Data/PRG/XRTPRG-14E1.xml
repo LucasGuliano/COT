@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SHIMOJO, Masumi" dateTime="2008-02-28T03:34:42Z" />
+  <name>Comp Evaluation in QS - Al/poly, Ti/poly, Thin-Be - Q=92,85,65 - bin=1x1,2x2,4x4</name>
+  <COT_info deleted="FALSE" lastUsed="2008-02-25T05:16:45Z" version="14E1" locked="FALSE"
+    tag="2F254B366851/14E1" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="3">
+      <Call>3</Call>
+      <COT_SUBR>Subr-C</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>10</Call>
+      <COT_SEQ>528A57B20C3E/26A2</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>480</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>39</Call>
+      <COT_SEQ>E22545A56428/26A3</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>480</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>92</Call>
+      <COT_SEQ>21621EE35AE3/26A4</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>480</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>67</Call>
+      <COT_SEQ>3939389BFF45/26A8</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>480</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>25</Call>
+      <COT_SEQ>E76B28EDE961/26A9</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>480</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>72</Call>
+      <COT_SEQ>205C1B48A15F/26AA</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>480</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>41</Call>
+      <COT_SEQ>297C3CFFE9B1/26A5</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>480</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>21</Call>
+      <COT_SEQ>50F127FBE648/26A6</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>480</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>75</Call>
+      <COT_SEQ>71043D396CF2/26A7</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>480</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

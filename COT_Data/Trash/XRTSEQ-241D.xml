@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x19 (1067) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="BANDO, Takamasa" dateTime="2007-02-15T08:21:34Z" />
+  <name>Ti/Poly(Thick-Al) Thick/Al -512FOV-AEC2+3-2 cor_interval</name>
+  <COT_info deleted="FALSE" lastUsed="2007-02-15T08:21:34Z" version="241D" locked="FALSE"
+    tag="1113920881" COTversion="0.2x19" COTbuild="1067" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>19</PARM_NO>
+    <COT_PARM>352F</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>19</PARM_NO>
+    <COT_PARM>352F</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>120</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>10</PARM_NO>
+    <COT_PARM>3611</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

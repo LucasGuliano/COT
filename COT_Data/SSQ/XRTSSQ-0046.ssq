@@ -1,0 +1,48 @@
+Sequence name:	Table Upload Sequence with program start
+Version:	0046
+Start date:	2006/11/07 00:00
+End date:	2006/11/08 00:00
+Author last name:	REEVES
+Author first name:	Kathy
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	Real Sequence
+S/C slot:	-01
+Last used:	2006/11/07 09:31:46
+Last modified:	2011/07/29 04:27:25
+Deleted:	No
+Locked:	No
+Unique tag:	00001113DB3A/0046
+COT version:	2.0x39
+COT build:	1058
+	MSG	 (No pause)		
+	MSG	************ XRT Start ************ (No pause)		
+	MSG	 (No pause)		
+	XRT	MDP_XRT_CTRL_MANU P		
+	XRT	Custom MDP_XRT_MODE_STBY P		
+	MSG	---------- Success Verify ?                OK / NG____ (No pause)		
+	MSG	 (No pause)		
+	MSG	XRT Obs. Table Upload (No pause)		
+	XRT	MDP_UPLOAD_XRTTBL P		
+	MSG	 (No pause)		
+	XRT	MDP_DUMP_XRTTBL P		
+	MSG	----------- Comparison Check ?                           OK / ERR _____          (No pause)		
+	MSG	 (No pause)		
+	MSG	 (No pause)		
+	XOB	00004F2A5E2D/12EB (Normal) N		
+	XOB	00004F2A5E2D/12EB (Flare) P		
+	XRT	MDP_XRT_AEC_RESET P		
+	XRT	MDP_XRT_ARS_DIS P		
+	XRT	MDP_XRT_FLD_DIS P		
+	XRT	MDP_XRT_FLRCTRL_DIS P		
+	MSG	---------- Success Verify ?                OK / NG____ (No pause)		
+	MSG	 (No pause)		
+	MSG	 (No pause)		
+	MSG	All OK?    Yes--> Please Proceed.  / No --> Stop here.  (Pauses)		
+	MSG	 (No pause)		
+	XRT	Custom MDP_XRT_MODE_OBSV P		
+	XRT	MDP_XRT_CTRL_AUTO P		
+	MSG	---------- Success Verify ?                OK / NG____ (No pause)		
+	MSG	 (No pause)		
+	MSG	************ XRT End ************ (No pause)		
+	ESQ	End of sequence		

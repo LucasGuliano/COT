@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x20 (1072) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="REEVES, Kathy" dateTime="2006-11-15T07:16:55Z" />
+  <name>Program 2-2</name>
+  <COT_info deleted="FALSE" lastUsed="2006-11-15T07:16:55Z" version="12AA" locked="FALSE"
+    tag="781061753" COTversion="0.2x20" COTbuild="1072" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>5</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+  </MAIN>
+  <SUBR NO="1">
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

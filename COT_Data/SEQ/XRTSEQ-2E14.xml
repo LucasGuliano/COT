@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="YOSHIMURA, Keiji" dateTime="2016-12-21T16:37:59Z" />
+  <name>Thin-Be-(Med-Be)-Al/Poly-(Thin-Be)-1x1-512x512-AEC2-Q95-at_1240_984</name>
+  <COT_info deleted="FALSE" lastUsed="2017-06-12T17:23:46Z" version="2E14" locked="FALSE"
+    tag="648F000BA2EE/2E14" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>33</PARM_NO>
+    <COT_PARM>000056E04494/3531</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1240" vcenter="984" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>23</PARM_NO>
+    <COT_PARM>D1537534C1DF/37E3</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1240" vcenter="984" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>28</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

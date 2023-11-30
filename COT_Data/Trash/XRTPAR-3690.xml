@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x14 (1312) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="MCKENZIE, David" dateTime="2007-06-27T21:26:52Z" />
+  <name>Param-3690</name>
+  <COT_info deleted="FALSE" lastUsed="2007-06-27T21:26:52Z" version="3690" locked="FALSE"
+    tag="07F40D4C24DC/3690" COTversion="0.9x14" COTbuild="1312" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>0</FltA_L1>
+  <FltB_L1>0</FltB_L1>
+  <FltA_L2>0</FltA_L2>
+  <FltB_L2>0</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>0</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

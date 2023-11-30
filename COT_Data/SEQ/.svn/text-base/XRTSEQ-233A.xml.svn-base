@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="REEVES, Kathy" dateTime="2006-11-02T08:28:49Z" />
+  <name>PFL Check SEQ</name>
+  <COT_info deleted="FALSE" lastUsed="2006-11-04T03:43:01Z" version="233A" locked="FALSE"
+    tag="1044509080" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>35</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>12</PARM_NO>
+    <COT_PARM>3502</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>7</PARM_NO>
+    <COT_PARM>3503</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>12</PARM_NO>
+    <COT_PARM>3502</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>1</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>7</PARM_NO>
+    <COT_PARM>3503</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>1</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="5">
+    <PARM_NO>12</PARM_NO>
+    <COT_PARM>3502</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>2</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="6">
+    <PARM_NO>7</PARM_NO>
+    <COT_PARM>3503</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>2</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="7">
+    <PARM_NO>12</PARM_NO>
+    <COT_PARM>3502</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>3</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="8">
+    <PARM_NO>7</PARM_NO>
+    <COT_PARM>3503</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>3</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

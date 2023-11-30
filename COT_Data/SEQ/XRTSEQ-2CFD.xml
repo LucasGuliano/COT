@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SAVCHEVA, Antonia" dateTime="2014-09-19T19:44:33Z" />
+  <name>CH - Ti/Poly, Thin-Be - 1x1 - 256x256-AEC2</name>
+  <COT_info deleted="FALSE" lastUsed="2014-09-19T19:41:39Z" version="2CFD" locked="FALSE"
+    tag="A04024B27093/2CFD" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>71</PARM_NO>
+    <COT_PARM>19B753FC0C52/36B3</COT_PARM>
+    <REGN_NO>11</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="256" height="256" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>6</PARM_NO>
+    <COT_PARM>F11B5E474607/37DA</COT_PARM>
+    <REGN_NO>11</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="256" height="256" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

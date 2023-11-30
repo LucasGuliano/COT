@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x39 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="GULIANO, Lucas" dateTime="2019-10-07T16:31:45Z" />
+  <name>Al/poly short/long for QS Al/poly (256ms/4s) - 384FOV - Q90</name>
+  <COT_info deleted="FALSE" lastUsed="2023-04-08T02:20:58Z" version="2E79" locked="FALSE"
+    tag="982A1FB14D3C/2E79" COTversion="2.0x39" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>60</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>55</PARM_NO>
+    <COT_PARM>00005C0C0575/361E</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="384" height="384" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>64</PARM_NO>
+    <COT_PARM>8C347346E42E/3660</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="384" height="384" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

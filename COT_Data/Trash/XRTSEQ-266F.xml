@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x39 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="KORRECK, Kelly" dateTime="2010-03-05T08:12:16Z" />
+  <name>Sequence 3</name>
+  <COT_info deleted="FALSE" lastUsed="2008-02-04T09:43:16Z" version="266F" locked="FALSE"
+    tag="832D08DB8ABA/266F" COTversion="2.0x39" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+</SEQN>

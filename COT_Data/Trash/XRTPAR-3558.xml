@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x19 (1067) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="WEBER, Mark" dateTime="2006-11-16T18:12:32Z" />
+  <name>Al/poly - 1x1 - 1024ms - Dark - Obs</name>
+  <COT_info deleted="FALSE" lastUsed="2006-11-16T18:12:32Z" version="3558" locked="FALSE"
+    tag="1321075244" COTversion="0.2x19" COTbuild="1067" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>1</FltA_L1>
+  <FltB_L1>0</FltB_L1>
+  <FltA_L2>1</FltA_L2>
+  <FltB_L2>0</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>1</ImageType>
+  <Exposure>19</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

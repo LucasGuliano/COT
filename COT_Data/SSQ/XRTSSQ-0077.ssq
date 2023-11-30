@@ -1,0 +1,28 @@
+Sequence name:	CCD Heater Turn OFF for Bakeout--OP_SSQ
+Version:	0077
+Start date:	2008/03/03 00:00
+End date:	2008/03/04 00:00
+Author last name:	CIRTAIN
+Author first name:	Jonathan
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2008/03/03 01:05:03
+Last modified:	2020/09/14 19:55:50
+Deleted:	No
+Locked:	No
+Unique tag:	A40B6A8086E6/0077
+COT version:	2.0x39
+COT build:	1457
+	COM	=======================		
+	COM	 XRT Bakeout Heater OFF		
+	COM	=======================		
+	COM			
+	COM	Insert this SSQ 1 minutes prior to Bakeout OFF scheduled time. 		
+	COM	This SSQ will turn OFF the CCD Bakeout heater. Post-Bakeout Eval Imgs should be taken ~ 6 hours after Heater OFF		
+	I&T	INSTRUME: XRT		
+	I&T	OBSTITLE: XRT Bakeout END		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	TCIB_XRT_S_HTR_A_DIS N		
+	ESQ	End of sequence		

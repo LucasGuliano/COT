@@ -1,0 +1,59 @@
+Sequence name:	Table Upload Sequence with program start and focus position
+Version:	0047
+Start date:	2006/11/07 00:00
+End date:	2006/11/08 00:00
+Author last name:	REEVES
+Author first name:	Kathy
+Sequence type:	Real Command plan
+S/C slot:	-01
+Last used:	2006/11/07 09:31:46
+Last modified:	2006/11/07 09:31:46
+AEC Table:	1447827847
+ARS Table:	1350594549
+CMP Table:	1332123528
+FLD Table:	165642366
+FLT Table:	1719485128
+ROI Table:	1929727668
+Deleted:	No
+Locked:	No
+Unique tag:	78027479
+COT version:	0.2x22
+COT build:	1058
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+v	SEQ	XRT_TBL_Upload:  (Real)		
+	MSG	 (Pauses)		
+	MSG	***** XRT Start ******* (No pause)		
+	MSG	 (No pause)		
+	XRT	MDP_XRT_CTRL_MANU P		
+	MSG	----------- [MDP_XRT_CTRL_MODE] = MANU ?       OK / NG _____          (No pause)		
+	MSG	 (No pause)		
+	MSG	XRT Obs. Table Upload (No pause)		
+	XRT	MDP_UPLOAD_XRTTBL P		
+	MSG	 (No pause)		
+	XRT	MDP_DUMP_XRTTBL P		
+	MSG	----------- Comparison Check ?                           OK / ERR _____          (No pause)		
+	MSG	 (No pause)		
+	MSG	 (Pauses)		
+	MSG	 (Pauses)		
+	MSG	 (Pauses)		
+	MSG	 (Pauses)		
+	XRT	XRT_FOCUS_POSITION -321 P		
+	XOB	654401799 (Normal) N		
+	XOB	256806250 (Flare) P		
+	XRT	MDP_XRT_FLD_ENA P		
+	XRT	MDP_XRT_FLD_RESET P		
+	XRT	MDP_XRT_FLRCTRL_ENA P		
+	XRT	MDP_XRT_CTRL_AUTO P		
+	MSG	**************** (Pauses)		
+	MSG	 EMERGENCY CASE  (Pauses)		
+	MSG	**************** (Pauses)		
+	MSG	 (Pauses)		
+	XRT	Custom ENTRY: DCBC XRT_DIS_TABLE_OBS_SEQ P		
+	MSG	 (Pauses)		
+	MSG	***** XRT End ******* (No pause)		
+	MSG	 (No pause)		
+	ESQ	End of sequence		
+	ESQ	End of sequence		

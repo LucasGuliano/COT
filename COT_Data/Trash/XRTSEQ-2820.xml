@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x14 (1571) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="FARID, Samaiyah" dateTime="2008-11-03T22:39:10Z" />
+  <name>Flare Response Context Thin-Be 2x2-1024-AEC </name>
+  <COT_info deleted="FALSE" lastUsed="2008-11-03T22:34:49Z" version="2820" locked="FALSE"
+    tag="430E314C30EB/2820" COTversion="1.0x14" COTbuild="1571" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>1</PARM_NO>
+    <COT_PARM>E3FF700F0B94/379B</COT_PARM>
+    <REGN_NO>1</REGN_NO>
+    <COT_fov FOV_type="flare1" hcenter="1024" vcenter="1024" width="256" height="256" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>1</PARM_NO>
+    <COT_PARM>C8B56B249E8B/379A</COT_PARM>
+    <REGN_NO>1</REGN_NO>
+    <COT_fov FOV_type="flare1" hcenter="1024" vcenter="1024" width="256" height="256" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

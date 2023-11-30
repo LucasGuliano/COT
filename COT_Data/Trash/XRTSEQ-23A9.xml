@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x19 (1067) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="MCKENZIE, David" dateTime="2006-12-07T18:30:30Z" />
+  <name>Med Filter Flare Response-2</name>
+  <COT_info deleted="FALSE" lastUsed="2006-12-07T18:30:30Z" version="23A9" locked="FALSE"
+    tag="854231732" COTversion="0.2x19" COTbuild="1067" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>16444</PARM_NO>
+    <COT_PARM>3529</COT_PARM>
+    <REGN_NO>15</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>0</PARM_NO>
+    <COT_PARM>354D</COT_PARM>
+    <REGN_NO>15</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

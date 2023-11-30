@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="JIBBEN, Patricia" dateTime="2014-10-08T17:58:07Z" />
+  <name>Flare Response - Standard Core Flare - thin-Be med-Be 384FOV AEC1 Q95</name>
+  <COT_info deleted="FALSE" lastUsed="2014-10-20T04:03:41Z" version="2D07" locked="FALSE"
+    tag="45893FBDE0BA/2D07" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>39</PARM_NO>
+    <COT_PARM>06F46D3909AD/38E6</COT_PARM>
+    <REGN_NO>15</REGN_NO>
+    <COT_fov FOV_type="flare1" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>25</PARM_NO>
+    <COT_PARM>273871B1D0E9/37E6</COT_PARM>
+    <REGN_NO>15</REGN_NO>
+    <COT_fov FOV_type="flare1" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

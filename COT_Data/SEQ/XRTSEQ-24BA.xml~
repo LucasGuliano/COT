@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x13 (1307) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="KOTOKU, Junichi" dateTime="2007-05-26T08:05:55Z" />
+  <name>QS Limb Al/Mesh and Ti/Poly AEC1</name>
+  <COT_info deleted="FALSE" lastUsed="2007-05-26T09:02:39Z" version="24BA" locked="FALSE"
+    tag="C85E53FFE424/24BA" COTversion="0.9x13" COTbuild="1307" Mutable="TRUE" />
+  <COT_slot>25</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>94</PARM_NO>
+    <COT_PARM>0000388236B0/3539</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov preflare="false" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>63</PARM_NO>
+    <COT_PARM>00004A38DEAE/3613</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov preflare="false" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="KOBELSKI, Adam" dateTime="2010-09-29T07:28:28Z" />
+  <name>Flare observations - Al/Poly + (Al/Poly+Ti/Poly) (2x2 AEC 2) (Al/Poly+(Thick-Al + Thick-Be) (1x1 AEC 3)</name>
+  <COT_info deleted="FALSE" lastUsed="2010-10-07T03:38:37Z" version="2AC8" locked="FALSE"
+    tag="61A60D99D556/2AC8" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>52</PARM_NO>
+    <COT_PARM>84E02D18A6C5/3865</COT_PARM>
+    <REGN_NO>16</REGN_NO>
+    <COT_fov FOV_type="flare2" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>39</PARM_NO>
+    <COT_PARM>0000277AF1D7/35FD</COT_PARM>
+    <REGN_NO>16</REGN_NO>
+    <COT_fov FOV_type="flare2" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>34</PARM_NO>
+    <COT_PARM>D35262FC2781/3866</COT_PARM>
+    <REGN_NO>15</REGN_NO>
+    <COT_fov FOV_type="flare1" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>46</PARM_NO>
+    <COT_PARM>9AE23D698847/3867</COT_PARM>
+    <REGN_NO>15</REGN_NO>
+    <COT_fov FOV_type="flare1" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

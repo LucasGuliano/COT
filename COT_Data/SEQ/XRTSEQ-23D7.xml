@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="KANO, Ryouhei" dateTime="2009-01-21T07:52:26Z" />
+  <name>Polar Plume - Ti/poly - 1024x512 - ROI South Pole</name>
+  <COT_info deleted="FALSE" lastUsed="2007-01-17T06:13:23Z" version="23D7" locked="FALSE"
+    tag="0000486487C4/23D7" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+</SEQN>

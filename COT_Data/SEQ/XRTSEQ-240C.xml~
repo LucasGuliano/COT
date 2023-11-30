@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x8 (1274) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="BANDO, Takamasa" dateTime="2007-02-10T07:33:16Z" />
+  <name>Synoptic Dark Cal - Ti/poly</name>
+  <COT_info deleted="FALSE" lastUsed="2007-05-01T08:59:09Z" version="240C" locked="FALSE"
+    tag="00006D2ECFAE/240C" COTversion="0.9x8" COTbuild="1274" Mutable="TRUE" />
+  <COT_slot>85</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>17</PARM_NO>
+    <COT_PARM>000024AC565D/3604</COT_PARM>
+    <REGN_NO>0</REGN_NO>
+    <COT_fov preflare="false" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

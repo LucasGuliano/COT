@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x2 (1457) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="CIRTAIN, Jonathan" dateTime="2008-03-03T05:49:24Z" />
+  <name>Sequence 2</name>
+  <COT_info deleted="FALSE" lastUsed="2008-03-03T05:49:24Z" version="26C6" locked="FALSE"
+    tag="33B85432F6B6/26C6" COTversion="1.0x2" COTbuild="1457" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+</SEQN>

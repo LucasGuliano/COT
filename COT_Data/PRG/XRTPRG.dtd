@@ -1,0 +1,40 @@
+<!ELEMENT PROG (modified*, name, COT_info*, COT_slot*, COT_reserved*, MAIN_RPT, MAIN, SUBR, SUBR, SUBR, SUBR)>
+
+<!ELEMENT MAIN_RPT (#PCDATA)>
+<!ELEMENT MAIN (MAIN_ENTRY, (MAIN_ENTRY, (MAIN_ENTRY, (MAIN_ENTRY, (MAIN_ENTRY, (MAIN_ENTRY, (MAIN_ENTRY, (MAIN_ENTRY)?)?)?)?)?)?)?)?>
+<!ELEMENT MAIN_ENTRY (Call, COT_SUBR*, Repeat, Interval)>
+<!ATTLIST MAIN_ENTRY
+	POS (1 | 2 | 3 | 4 | 5 | 6 | 7 | 8) #REQUIRED
+>
+<!ELEMENT SUBR (COT_SUBR*, SUBR_ENTRY, (SUBR_ENTRY, (SUBR_ENTRY, (SUBR_ENTRY, (SUBR_ENTRY, (SUBR_ENTRY, (SUBR_ENTRY, (SUBR_ENTRY)?)?)?)?)?)?)?)?>
+<!ATTLIST SUBR
+	NO (1 | 2 | 3 | 4) #REQUIRED
+>
+<!ELEMENT SUBR_ENTRY (Call,COT_SEQ*, Repeat, Interval)>
+<!ATTLIST SUBR_ENTRY
+	POS (1 | 2 | 3 | 4 | 5 | 6 | 7 | 8) #REQUIRED
+>
+<!ELEMENT Call (#PCDATA)>
+<!ELEMENT COT_SUBR (#PCDATA)>
+<!ELEMENT COT_SEQ (#PCDATA)>
+<!ELEMENT Repeat (#PCDATA)>
+<!ELEMENT Interval (#PCDATA)>
+
+<!ELEMENT modified (#PCDATA)>
+<!ATTLIST modified
+	author CDATA #IMPLIED
+	dateTime CDATA #IMPLIED
+>
+
+<!ELEMENT name (#PCDATA)>
+
+<!ELEMENT COT_reserved (#PCDATA)>
+
+<!ELEMENT COT_info (#PCDATA)>
+<!ATTLIST COT_info
+    deleted CDATA #IMPLIED
+    lastUsed CDATA #IMPLIED
+    version CDATA #IMPLIED
+    locked CDATA #IMPLIED
+>
+<!ELEMENT COT_slot (#PCDATA)>

@@ -1,0 +1,19 @@
+Sequence name:	Stop
+Version:	0040
+Start date:	2006/06/29 00:00
+End date:	2006/06/30 00:00
+Author last name:	LUNDQUIST
+Author first name:	Loraine
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2006/06/29 15:14:21
+Last modified:	2022/06/08 04:45:48
+Deleted:	No
+Locked:	No
+Unique tag:	000041B5AC81/0040
+COT version:	2.0x39
+COT build:	1048
+	XRT	MDP_XRT_CTRL_MANU P		
+	ESQ	End of sequence		

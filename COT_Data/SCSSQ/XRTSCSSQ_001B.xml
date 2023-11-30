@@ -1,0 +1,19 @@
+Sequence name:	XRT_ARS_DIS_427_OG
+Version:	001B
+Start date:	2022/11/07 00:00
+End date:	2022/11/08 00:00
+Author last name:	SHIMOJO
+Author first name:	Masumi
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	427
+Last used:	2023/11/21 02:50:45
+Last modified:	2022/11/07 02:29:46
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/001B
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_ARS_DIS P		
+	ESQ	End of sequence		

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-09-30T14:03:09.545590Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/MVB"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   committed-rev="1"
+   name="XRTMVB-2004112652.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="fba00b1c0a81d9c4327e7bc57228b339"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="XRTMVB.rng.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="0ac258a3e01a76c7c3a5dc3c1d0362bb"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="XRTMVB.dtd"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="478f60a83e387b9420a5bbdffc55e849"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:23.000000Z"/>
+</wc-entries>

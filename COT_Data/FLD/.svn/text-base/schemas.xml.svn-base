@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+  <uri pattern="FGTBL-*.xml" uri="../../../conf/FGTBL.rnc"/>
+  <uri pattern="FGPRG-*.xml" uri="../../../conf/FGPRG.rnc"/>
+  <uri pattern="FGSEQ-*.xml" uri="../../../conf/FGSEQ.rnc"/>
+  <uri pattern="FGPAR-*.xml" uri="../../../conf/FGPAR.rnc"/>
+
+  <uri pattern="SPTBL-*.xml" uri="../../../conf/SPTBL.rnc"/>
+  <uri pattern="SPPRG-*.xml" uri="../../../conf/SPPRG.rnc"/>
+  <uri pattern="SPSEQ-*.xml" uri="../../../conf/SPSEQ.rnc"/>
+  <uri pattern="SPPAR-*.xml" uri="../../../conf/SPPAR.rnc"/>
+
+  <uri pattern="XRTTBL-*.xml" uri="../../../conf/XRTTBL.rnc"/>
+  <uri pattern="XRTPRG-*.xml" uri="../../../conf/XRTPRG.rnc"/>
+  <uri pattern="XRTSEQ-*.xml" uri="../../../conf/XRTSEQ.rnc"/>
+  <uri pattern="XRTPAR-*.xml" uri="../../../conf/XRTPAR.rnc"/>
+
+  <uri pattern="XRTAEC-*.xml" uri="../../../conf/XRTAEC.rnc"/>
+  <uri pattern="XRTFLT-*.xml" uri="../../../conf/XRTFLT.rnc"/>
+  <uri pattern="XRTARS-*.xml" uri="../../../conf/XRTARS.rnc"/>
+  <uri pattern="XRTFLD-*.xml" uri="../../../conf/XRTFLD.rnc"/>
+  <uri pattern="XRTMVB-*.xml" uri="../../../conf/XRTMVB.rnc"/>
+
+  <uri pattern="MDPDPL-*.xml" uri="../../../conf/MDPDPL.rnc"/>
+  <uri pattern="LUPTBL-*.xml" uri="../../../conf/LUPTBL.rnc"/>
+  <uri pattern="LUPPAR-*.xml" uri="../../../conf/LUPPAR.rnc"/>
+  <uri pattern="CMPTBL-*.xml" uri="../../../conf/CMPTBL.rnc"/>
+</locatingRules>

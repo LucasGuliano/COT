@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="REEVES, Kathy" dateTime="2006-11-02T09:08:53Z" />
+  <name>AEC Check SEQ</name>
+  <COT_info deleted="FALSE" lastUsed="2006-11-04T03:43:01Z" version="233D" locked="FALSE"
+    tag="2098293045" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>32</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>24</PARM_NO>
+    <COT_PARM>3500</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>70</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>8</PARM_NO>
+    <COT_PARM>3504</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>70</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>32</PARM_NO>
+    <COT_PARM>3501</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>5</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>70</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

@@ -1,0 +1,19 @@
+Sequence name:	XRT_QT_PROG_SET_404_OG
+Version:	0004
+Start date:	2023/09/16 00:00
+End date:	2023/09/17 00:00
+Author last name:	VELASQUEZ
+Author first name:	Joy
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	404
+Last used:	2023/11/08 02:46:12
+Last modified:	2023/09/16 02:12:17
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/0004
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_QT_PROG_SET 12 P		
+	ESQ	End of sequence		

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SHIMOJO, Masumi" dateTime="2014-04-04T03:42:33Z" />
+  <name>Al/Poly (Thin-Be), thin-Be (med-Be), 256x512FOV - AEC2 - 1064 1048 for TrEqLoop</name>
+  <COT_info deleted="FALSE" lastUsed="2014-04-04T05:20:20Z" version="2CC3" locked="FALSE"
+    tag="DABC1F10F219/2CC3" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>23</PARM_NO>
+    <COT_PARM>D1537534C1DF/37E3</COT_PARM>
+    <REGN_NO>11</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="256" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>35</PARM_NO>
+    <COT_PARM>55C80690BD7C/3880</COT_PARM>
+    <REGN_NO>11</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="256" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

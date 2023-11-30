@@ -1,0 +1,27 @@
+Sequence name:	Synoptics_Al/Poly_contingency
+Version:	004B
+Start date:	2007/01/22 00:00
+End date:	2007/01/23 00:00
+Author last name:	MCKENZIE
+Author first name:	David
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/01/22 07:26:31
+Last modified:	2007/01/22 07:26:31
+Deleted:	No
+Locked:	No
+Unique tag:	000056CC041D/004B
+COT version:	2.0x39
+COT build:	1067
+v	SEQ	Synoptics_Al/Poly_contingency:  (OP)		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XOB	0000065CF870/12DE (Normal) N		
+	XOB	0000065CF870/12DE (Flare) N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		
+	ESQ	End of sequence		

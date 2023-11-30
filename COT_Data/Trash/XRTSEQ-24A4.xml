@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x12 (1304) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="ISHIBASHI, Bish" dateTime="2007-05-12T07:01:02Z" />
+  <name>CH (Al/mesh - Ti/poly) - 60s cad - E-limb ROI - AEC1-2</name>
+  <COT_info deleted="FALSE" lastUsed="2007-05-12T07:01:02Z" version="24A4" locked="FALSE"
+    tag="AD07426D043B/24A4" COTversion="0.9x12" COTbuild="1304" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>23</PARM_NO>
+    <COT_PARM>0000263DDE30/360D</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov preflare="false" hcenter="1280" vcenter="1024" width="1536" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>32</PARM_NO>
+    <COT_PARM>000078E166C9/360C</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov preflare="false" hcenter="1280" vcenter="1024" width="1536" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

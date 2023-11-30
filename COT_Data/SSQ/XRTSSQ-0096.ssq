@@ -1,0 +1,56 @@
+Sequence name:	CCD Bakeout without Monitoring Images--OP_SSQ
+Version:	0096
+Start date:	2008/03/03 00:00
+End date:	2008/03/04 00:00
+Author last name:	MINOSHIMA
+Author first name:	Takashi
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2008/03/03 01:05:03
+Last modified:	2012/06/06 03:51:14
+Deleted:	No
+Locked:	No
+Unique tag:	1EA93622E7FE/0096
+COT version:	2.0x39
+COT build:	1457
+	COM	=======================		
+	COM	XRT CCD Bakeout by OP without Monitoring Images		
+	COM	=======================		
+	COM			
+	COM	History:		
+	COM	  2010-Feb-15 created from SSQ-008F by R.Kano		
+	COM	  2010-Feb-17 modified by T. Minoshima. Adjust intervals		
+	COM			
+	COM	********************		
+	COM	Insert this SSQ at 8 UT on Wednesday in the week to be scheduled for Bakeout. Then, the Bakeout heater is turned off at 20UT.		
+	COM	Be sure to perform the Four-Quadrant observations in the time between 2 UT on Thursday and the next Synoptic.		
+	COM	********************		
+	COM			
+	COM			
+	COM			
+	COM	--- Step1: CCD Bakeout Heater ON ---		
+	COM			
+	XRT	MDP_XRT_CTRL_MANU N		:30_00
+	XRT	TCIB_XRT_S_HTR_A_ENA N		:02:00:00_00
+	XRT	Custom NULL_DUMMY_CMD P		:02:00:00_00
+	XRT	Custom NULL_DUMMY_CMD P		:02:00:00_00
+	XRT	Custom NULL_DUMMY_CMD P		:02:00:00_00
+	XRT	Custom NULL_DUMMY_CMD P		
+	COM			
+	COM			
+	COM	--- Step2: No Operation ---		
+	COM			
+	XRT	Custom NULL_DUMMY_CMD P		:02:00:00_00
+	XRT	Custom NULL_DUMMY_CMD P		:01:59:38_00
+	XRT	Custom NULL_DUMMY_CMD P		
+	COM			
+	COM			
+	COM	--- Step3: CCD Bakeout Heater OFF ---		
+	COM			
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	TCIB_XRT_S_HTR_A_DIS N		
+	COM			
+	COM	End of SSQ		
+	ESQ	End of sequence		

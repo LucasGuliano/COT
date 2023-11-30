@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="MCKENZIE, David" dateTime="2012-02-27T04:07:15Z" />
+  <name>Synoptic 9 Filter- 1x1 Q98 Shorter exp 2 loop</name>
+  <COT_info deleted="FALSE" lastUsed="2012-03-16T20:07:08Z" version="18CB" locked="FALSE"
+    tag="207C237A5B32/18CB" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>2</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>360</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>720</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>47</Call>
+      <COT_SEQ>42AC3104EA02/2A19</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>50</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>25</Call>
+      <COT_SEQ>6C906E9B182D/2A1A</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>50</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>72</Call>
+      <COT_SEQ>B9484D6A8FF0/2B30</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>50</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>15</Call>
+      <COT_SEQ>4BDD28DB61A5/2958</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>50</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="5">
+      <Call>13</Call>
+      <COT_SEQ>3AF76D7D9298/2B2F</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>50</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="6">
+      <Call>32</Call>
+      <COT_SEQ>8D0D759C001D/295A</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>86</Call>
+      <COT_SEQ>5EB03FD508C6/295B</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>37</Call>
+      <COT_SEQ>398E7EAC1300/295C</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>23</Call>
+      <COT_SEQ>B2A631E73942/295D</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>4</Call>
+      <COT_SEQ>3C647339F452/27C6</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

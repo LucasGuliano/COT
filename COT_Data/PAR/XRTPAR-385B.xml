@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="MCKENZIE, David" dateTime="2010-08-17T05:57:37Z" />
+  <name>Med-Al+Ti/Poly - 1x1 - 16384 ms</name>
+  <COT_info deleted="FALSE" lastUsed="2010-11-18T02:33:51Z" version="385B" locked="FALSE"
+    tag="912F08991163/385B" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>5</FltA_L1>
+  <FltB_L1>2</FltB_L1>
+  <FltA_L2>5</FltA_L2>
+  <FltB_L2>4</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>27</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

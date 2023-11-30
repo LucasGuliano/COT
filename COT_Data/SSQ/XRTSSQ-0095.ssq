@@ -1,0 +1,26 @@
+Sequence name:	Dither_pointing_observation_with_2-filter_on_FW2_long_short_exp
+Version:	0095
+Start date:	2009/04/08 00:00
+End date:	2009/04/09 00:00
+Author last name:	MINOSHIMA
+Author first name:	Takashi
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2009/04/08 18:08:54
+Last modified:	2020/06/15 05:15:23
+Deleted:	No
+Locked:	No
+Unique tag:	B935101232A2/0095
+COT version:	2.0x39
+COT build:	1571
+	COM	For dither pointing observations with Ti-poly and Al-mesh filters		
+	XRT	MDP_XRT_CTRL_MANU N		:02:38_00
+	XRT	XRT_FOCUS_POSITION -86 N		
+	XOB	6192213A5237/177C (Normal) P		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

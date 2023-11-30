@@ -1,0 +1,20 @@
+Sequence name:	XRT_NGT_ENTRY_old  (replaced by XTW_ENTRY)
+Version:	005E
+Start date:	2007/05/05 00:00
+End date:	2007/05/06 00:00
+Author last name:	ISHIBASHI
+Author first name:	Bish
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/05/05 02:26:45
+Last modified:	2016/01/11 03:11:25
+Deleted:	Yes
+Locked:	No
+Unique tag:	111374DF60F1/005E
+COT version:	2.0x39
+COT build:	1277
+	COM	insert ctrl_manu upon NGT_ENTRY		
+	XRT	MDP_XRT_CTRL_MANU N		
+	ESQ	End of sequence		

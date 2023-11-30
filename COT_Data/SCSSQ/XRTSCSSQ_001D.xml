@@ -1,0 +1,19 @@
+Sequence name:	XRT_FLD_DIS_429_OG
+Version:	001D
+Start date:	2023/09/19 00:00
+End date:	2023/09/20 00:00
+Author last name:	VELASQUEZ
+Author first name:	Joy
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	429
+Last used:	2023/11/21 02:50:45
+Last modified:	2023/09/19 02:17:54
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/001D
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_FLD_DIS P		
+	ESQ	End of sequence		

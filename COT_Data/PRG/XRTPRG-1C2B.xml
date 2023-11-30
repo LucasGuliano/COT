@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="PRCHLIK, Jakub" dateTime="2019-02-11T15:52:22Z" />
+  <name>AR (Filter-Ratio with Al/poly and thin-Be long/short pairs) with PFB, 512x512 at 1064 1048, thick-Al context, with G-band (1ms/1ms leak), 90s cad</name>
+  <COT_info deleted="FALSE" lastUsed="2022-08-29T02:28:44Z" version="1C2B" locked="FALSE"
+    tag="30F37FA89DC7/1C2B" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>60</Repeat>
+      <Interval>180</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>92</Call>
+      <COT_SEQ>01A777F6249B/2E30</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>71</Call>
+      <COT_SEQ>CC3003D448EC/2E0F</COT_SEQ>
+      <Repeat>3</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>94</Call>
+      <COT_SEQ>D23B3702495B/2DE8</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>80</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>58</Call>
+      <COT_SEQ>63C01D4858C6/2E15</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>80</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>48</Call>
+      <COT_SEQ>32D20AE9CBBF/2E3C</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

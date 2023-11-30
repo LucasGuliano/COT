@@ -1,0 +1,27 @@
+Sequence name:	XRT_CTRL_MANU_400_OG
+Version:	0000
+Start date:	2006/11/02 00:00
+End date:	2006/11/03 00:00
+Author last name:	REEVES
+Author first name:	Kathy
+Sequence type:	OG Command plan
+S/C slot:	400
+Last used:	2006/11/05 23:48:09
+Last modified:	2006/11/02 11:37:57
+AEC Table:	0003
+ARS Table:	0004
+CMP Table:	0001
+FLD Table:	0004
+FLT Table:	0001
+ROI Table:	0002
+Deleted:	No
+Locked:	No
+Unique tag:	0
+COT version:	0.2x16
+COT build:	1048
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+	XRT	MDP_XRT_CTRL_MANU P		
+	ESQ	End of sequence		

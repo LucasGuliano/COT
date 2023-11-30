@@ -1,0 +1,26 @@
+Sequence name:	Dither_pointing_observation_with_4-filter_on_FW2
+Version:	008D
+Start date:	2009/04/08 00:00
+End date:	2009/04/09 00:00
+Author last name:	BANDO
+Author first name:	Takamasa
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2009/04/08 18:08:54
+Last modified:	2010/01/11 07:26:41
+Deleted:	No
+Locked:	No
+Unique tag:	CD0A457C2F54/008D
+COT version:	2.0x39
+COT build:	1571
+	COM	For dither pointing observations with all 4 of the X-ray filters on FW2		
+	XRT	MDP_XRT_CTRL_MANU N		:02:38_00
+	XRT	XRT_FOCUS_POSITION -86 N		
+	XOB	5ADD6994583B/175C (Normal) P		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

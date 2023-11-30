@@ -1,0 +1,27 @@
+Sequence name:	STOP and Synoptic Open+Al/mesh - Open+Ti/poly - Dark Cal - G-band
+Version:	0052
+Start date:	2007/01/27 00:00
+End date:	2007/01/28 00:00
+Author last name:	BANDO
+Author first name:	Takamasa
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/01/27 05:58:54
+Last modified:	2007/01/27 05:58:54
+Deleted:	No
+Locked:	No
+Unique tag:	000016F2014B/0052
+COT version:	2.0x39
+COT build:	1067
+	COM	Insert this SSQ for Synoptics 6 sec before Sun center poiting: stops previous obs, moves to compromise focus, takes synoptic images, one dark and one G-band.		
+	XRT	MDP_XRT_CTRL_MANU N		:01:38_00
+	XRT	XRT_FOCUS_POSITION -86 N		
+	XOB	0000237F5347/131C (Normal) P		
+	XOB	0000237F5347/131C (Flare) P		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

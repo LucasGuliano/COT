@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="KOBELSKI, Adam" dateTime="2010-09-29T09:25:18Z" />
+  <name>Al/poly+Thick-Al (Al/poly+Thick-Be) - 1x1 - 16384ms</name>
+  <COT_info deleted="FALSE" lastUsed="2010-09-30T02:05:32Z" version="3868" locked="FALSE"
+    tag="97FC6029B289/3868" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>1</FltA_L1>
+  <FltB_L1>4</FltB_L1>
+  <FltA_L2>1</FltA_L2>
+  <FltB_L2>5</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>27</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

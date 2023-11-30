@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="YOSHIMURA, Keiji" dateTime="2013-01-28T21:05:58Z" />
+  <name>Thin-Be (Med-Be) - 512FOV - AEC3 - 1112x984 - With PFB 384 FOV - 120s-cad</name>
+  <COT_info deleted="FALSE" lastUsed="2013-01-30T20:00:28Z" version="2C3E" locked="FALSE"
+    tag="4BAE53936CCE/2C3E" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>89</PARM_NO>
+    <COT_PARM>853E4A17E6F8/3676</COT_PARM>
+    <REGN_NO>11</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1112" vcenter="984" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>89</PARM_NO>
+    <COT_PARM>853E4A17E6F8/3676</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov FOV_type="preflare" hcenter="1160" vcenter="912" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>1</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>89</PARM_NO>
+    <COT_PARM>853E4A17E6F8/3676</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov FOV_type="preflare" hcenter="1160" vcenter="912" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>2</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>89</PARM_NO>
+    <COT_PARM>853E4A17E6F8/3676</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov FOV_type="preflare" hcenter="1160" vcenter="912" width="384" height="384" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>3</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

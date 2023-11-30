@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="GRIGIS, Paolo" dateTime="2009-02-06T04:00:18Z" />
+  <name>MHD Waves-Al/Poly(Thick-Al)-384FOV-20s cadence-AEC3+longexposures</name>
+  <COT_info deleted="FALSE" lastUsed="2009-02-06T05:09:16Z" version="287D" locked="FALSE"
+    tag="43290A98336E/287D" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>88</PARM_NO>
+    <COT_PARM>00002B67D1B7/35E8</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>3</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>40</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

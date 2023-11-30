@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x14 (1312) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="NISHIDA, Keisuke" dateTime="2007-10-12T03:30:52Z" />
+  <name>QS Limb (west or east) - C/poly - 512x1024 -dark-Gband - 11571ms</name>
+  <COT_info deleted="FALSE" lastUsed="2007-10-12T03:30:52Z" version="142F" locked="FALSE"
+    tag="31BF17A6ABEF/142F" COTversion="0.9x14" COTbuild="1312" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-1</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-1</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>47</Call>
+      <COT_SEQ>BE20484BD31F/2592</COT_SEQ>
+      <Repeat>15</Repeat>
+      <Interval>120</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>92</Call>
+      <COT_SEQ>934B6491CA9E/2591</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>32</Call>
+      <COT_SEQ>2C691C700EA6/2590</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

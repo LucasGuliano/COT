@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="WEBER, Mark" dateTime="2006-05-26T21:00:00Z" />
+  <name>Functional - Filter Cycle 1</name>
+  <COT_info deleted="FALSE" lastUsed="2006-06-29T14:39:05Z" version="1212" locked="FALSE"
+    tag="529582250" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-1</COT_SUBR>
+      <Repeat>5</Repeat>
+      <Interval>2</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-2</COT_SUBR>
+      <Repeat>5</Repeat>
+      <Interval>2</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-1</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>0</Call>
+      <COT_SEQ>2307</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>2</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>0</Call>
+      <COT_SEQ>2308</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>2</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-2</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>0</Call>
+      <COT_SEQ>2309</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>2</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>0</Call>
+      <COT_SEQ>230A</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>2</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

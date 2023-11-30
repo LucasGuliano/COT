@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2006-11-06T08:57:48.657211Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   name="CMP"
+   kind="dir"/>
+<entry
+   name="TBL"
+   kind="dir"/>
+<entry
+   name="PAR"
+   kind="dir"/>
+<entry
+   name="MVB"
+   kind="dir"/>
+<entry
+   name="ARS"
+   kind="dir"/>
+<entry
+   name="FLT"
+   kind="dir"/>
+<entry
+   name="AEC"
+   kind="dir"/>
+<entry
+   name="PRG"
+   kind="dir"/>
+<entry
+   name="SEQ"
+   kind="dir"/>
+<entry
+   name="ROI"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="Confirmations.txt"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-10-08T09:26:56.640802Z"
+   checksum="9c0d170964afdacac644dac6bfcf9330"
+   last-author="mweber"
+   kind="file"
+   prop-time="2006-11-04T08:33:29.000000Z"/>
+<entry
+   committed-rev="1"
+   name=".COT_pass"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="f421495851e33b103ce946c5b522e47c"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:29.000000Z"/>
+<entry
+   name="SCSSQ"
+   kind="dir"/>
+<entry
+   name="Tests"
+   kind="dir"/>
+<entry
+   name="FLD"
+   kind="dir"/>
+<entry
+   name="SSQ"
+   kind="dir"/>
+<entry
+   committed-rev="8"
+   name=".LOCK"
+   text-time="2006-11-04T11:01:09.000000Z"
+   committed-date="2006-11-06T08:57:48.657211Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   name="MEM"
+   kind="dir"/>
+</wc-entries>

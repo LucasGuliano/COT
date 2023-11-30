@@ -1,0 +1,24 @@
+Sequence name:	Synoptic - Al/poly fall to thick Al pair - Longer Exposure
+Version:	0043
+Start date:	2006/11/07 00:00
+End date:	2006/11/08 00:00
+Author last name:	LUNDQUIST
+Author first name:	Loraine
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	Real Sequence
+S/C slot:	-01
+Last used:	2006/11/07 09:28:54
+Last modified:	2006/11/07 09:28:54
+Deleted:	No
+Locked:	No
+Unique tag:	000004670053/0043
+COT version:	2.0x39
+COT build:	1058
+	XRT	MDP_XRT_CTRL_MANU P		
+	XRT	MDP_XRT_FLD_DIS P		
+	XRT	MDP_XRT_ARS_DIS P		
+	XOB	000002E5119D/12E9 (Normal) P		
+	XOB	000002E5119D/12E9 (Flare) N		
+	XRT	MDP_XRT_CTRL_AUTO P		
+	ESQ	End of sequence		

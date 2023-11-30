@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="YOSHIMURA, Keiji" dateTime="2012-03-05T21:28:16Z" />
+  <name>PFB-Thin-Be-Ti/Poly-2x2-768x768-AEC0-Q95-at_784_920</name>
+  <COT_info deleted="FALSE" lastUsed="2012-03-02T22:39:29Z" version="2BB2" locked="FALSE"
+    tag="5D2D4D570DA0/2BB2" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>95</PARM_NO>
+    <COT_PARM>8B7B6DE3E75E/371F</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="784" vcenter="920" width="768" height="768" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>93</PARM_NO>
+    <COT_PARM>21175EDBF59D/3783</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="784" vcenter="920" width="768" height="768" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>30</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>61</PARM_NO>
+    <COT_PARM>9255163BE083/3871</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov FOV_type="preflare" hcenter="784" vcenter="920" width="768" height="768" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>1</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>83</PARM_NO>
+    <COT_PARM>D347614BE5C1/3852</COT_PARM>
+    <REGN_NO>5</REGN_NO>
+    <COT_fov FOV_type="preflare" hcenter="784" vcenter="920" width="768" height="768" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>1</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>30</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

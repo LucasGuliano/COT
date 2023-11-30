@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="LUNDQUIST, Loraine" dateTime="2006-10-31T10:18:04Z" />
+  <name>Exposure Duration Check - Dark - SEQ C</name>
+  <COT_info deleted="FALSE" lastUsed="2006-11-01T11:27:37Z" version="232E" locked="FALSE"
+    tag="919976718" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>22</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>49</PARM_NO>
+    <COT_PARM>34A5</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x72a</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>50</PARM_NO>
+    <COT_PARM>34A6</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x72a</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>51</PARM_NO>
+    <COT_PARM>34A7</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x72a</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>52</PARM_NO>
+    <COT_PARM>34A8</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x72a</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="5">
+    <PARM_NO>53</PARM_NO>
+    <COT_PARM>34A9</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x72a</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="6">
+    <PARM_NO>54</PARM_NO>
+    <COT_PARM>34AA</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x72a</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="7">
+    <PARM_NO>55</PARM_NO>
+    <COT_PARM>34AB</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x72a</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="8">
+    <PARM_NO>56</PARM_NO>
+    <COT_PARM>34AC</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x72a</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

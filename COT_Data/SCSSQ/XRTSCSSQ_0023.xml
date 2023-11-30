@@ -1,0 +1,19 @@
+Sequence name:	XRT_ARS_DIS_435_OG
+Version:	0023
+Start date:	2023/07/17 00:00
+End date:	2023/07/18 00:00
+Author last name:	YOSHIMURA
+Author first name:	Keiji
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	435
+Last used:	2023/11/21 02:50:45
+Last modified:	2023/07/17 18:48:12
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/0023
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_ARS_DIS N		:02:36_00
+	ESQ	End of sequence		

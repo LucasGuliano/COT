@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SHIMOJO, Masumi" dateTime="2008-02-28T03:34:42Z" />
+  <name>Synoptic + Axion Search - Al/mesh (256/8192) + Al/poly (362/8192) + thin-Be (1444/46284) + Ti/poly(362/16384) + Dark cal (8192) + thin-Be(16384) + med-Be(23142) + dark</name>
+  <COT_info deleted="FALSE" lastUsed="2007-07-07T07:36:26Z" version="13C6" locked="FALSE"
+    tag="A89B0705AA8D/13C6" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>41</Call>
+      <COT_SEQ>357B6B543BD8/24F4</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>160</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>99</Call>
+      <COT_SEQ>81A334A86AEC/24A2</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>120</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>32</Call>
+      <COT_SEQ>F9B95A14DEEA/24F5</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>160</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>95</Call>
+      <COT_SEQ>07733A103C73/24F6</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>140</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="5">
+      <Call>86</Call>
+      <COT_SEQ>EBD47024F0A3/24F7</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>140</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>55</Call>
+      <COT_SEQ>0B272894216B/24F0</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

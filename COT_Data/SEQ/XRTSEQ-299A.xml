@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SAVAGE, Sabrina" dateTime="2009-10-07T07:20:43Z" />
+  <name>Polar Moitoring - Al/mesh (12s) and Ti/poly (23s) - 768x512 - Q95</name>
+  <COT_info deleted="FALSE" lastUsed="2010-05-31T06:11:44Z" version="299A" locked="FALSE"
+    tag="EB756943150B/299A" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>77</PARM_NO>
+    <COT_PARM>F2C953CF080D/36C6</COT_PARM>
+    <REGN_NO>12</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="768" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>76</PARM_NO>
+    <COT_PARM>000078E166C9/360C</COT_PARM>
+    <REGN_NO>12</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1024" vcenter="1024" width="768" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

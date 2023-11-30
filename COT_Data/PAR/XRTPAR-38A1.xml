@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="ISHIBASHI, Bish" dateTime="2012-10-29T06:46:20Z" />
+  <name>C/poly - 2x2 - 88ms</name>
+  <COT_info deleted="FALSE" lastUsed="2021-05-19T19:31:59Z" version="38A1" locked="FALSE"
+    tag="E7C5090AEE22/38A1" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>2</FltA_L1>
+  <FltB_L1>0</FltB_L1>
+  <FltA_L2>2</FltA_L2>
+  <FltB_L2>0</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>12</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>1</Resolution>
+</PARM>

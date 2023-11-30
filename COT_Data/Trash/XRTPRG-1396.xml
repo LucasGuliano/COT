@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x13 (1307) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="ISHIBASHI, Bish" dateTime="2007-05-19T07:08:37Z" />
+  <name>G-Band Alignment with East limb - ROI for Limb Alignment - Ti/poly 30s cadence (512FOV + AEC1) - shifted</name>
+  <COT_info deleted="FALSE" lastUsed="2007-05-19T07:08:37Z" version="1396" locked="FALSE"
+    tag="5B120E397375/1396" COTversion="0.9x13" COTbuild="1307" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>subr</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>720</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>subr</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>58</Call>
+      <COT_SEQ>00001CB18D6C/2418</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>360</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>75</Call>
+      <COT_SEQ>7CEF4F2B2FD9/2492</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

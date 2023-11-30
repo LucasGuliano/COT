@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x39 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="TAKEDA, Aki" dateTime="2016-05-11T21:00:56Z" />
+  <name>Med-Al - 2x2 - 2897ms</name>
+  <COT_info deleted="FALSE" lastUsed="2023-05-02T03:53:55Z" version="391D" locked="FALSE"
+    tag="9D970935ADAC/391D" COTversion="2.0x39" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>77</COT_slot>
+  <FltA_L1>5</FltA_L1>
+  <FltB_L1>0</FltB_L1>
+  <FltA_L2>5</FltA_L2>
+  <FltB_L2>0</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>22</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>1</Resolution>
+</PARM>

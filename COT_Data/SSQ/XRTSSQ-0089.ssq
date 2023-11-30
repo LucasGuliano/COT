@@ -1,0 +1,37 @@
+Sequence name:	CCD Heater Turn On for Bakeout--OP_SSQ - for future use
+Version:	0089
+Start date:	2008/03/03 00:00
+End date:	2008/03/04 00:00
+Author last name:	BANDO
+Author first name:	Takamasa
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2008/03/03 01:05:03
+Last modified:	2012/01/27 05:45:22
+Deleted:	No
+Locked:	No
+Unique tag:	1C344E605052/0089
+COT version:	2.0x39
+COT build:	1457
+	COM	=======================		
+	COM	XRT Bakeout Heater ON by OP		
+	COM	=======================		
+	COM			
+	COM	History:		
+	COM	  Written 3-Mar-08 by Jonathan CIRTAIN		
+	COM	  1-Oct-09 (Takamasa BANDO)		
+	COM			
+	COM	********************		
+	COM	Insert this SSQ at 8 UT on Wednesday in the week to be scheduled for Bakeout.		
+	COM	********************		
+	COM			
+	XRT	MDP_XRT_CTRL_MANU N		
+	XOB	A8E07214284E/1563 (Normal) N		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	XRT	TCIB_XRT_S_HTR_A_ENA N		
+	ESQ	End of sequence		

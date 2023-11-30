@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x2 (1457) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="CIRTAIN, Jonathan" dateTime="2008-03-03T04:48:49Z" />
+  <name>Program 2</name>
+  <COT_info deleted="FALSE" lastUsed="2008-03-03T04:48:49Z" version="14EC" locked="FALSE"
+    tag="A17C4084611E/14EC" COTversion="1.0x2" COTbuild="1457" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+  </MAIN>
+  <SUBR NO="1">
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

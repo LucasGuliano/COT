@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x39 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="FREED, Michael" dateTime="2014-02-12T04:29:05Z" />
+  <name>Sequence 4</name>
+  <COT_info deleted="FALSE" lastUsed="2014-02-12T04:01:07Z" version="2CB6" locked="FALSE"
+    tag="9D2E2C7E9AB4/2CB6" COTversion="2.0x39" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+</SEQN>

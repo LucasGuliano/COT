@@ -1,0 +1,31 @@
+Sequence name:	Synoptic Al/Poly+open - Al/Poly+Ti/Poly - Dark Cal
+Version:	0050
+Start date:	2007/01/27 00:00
+End date:	2007/01/28 00:00
+Author last name:	BANDO
+Author first name:	Takamasa
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/01/27 05:58:54
+Last modified:	2021/08/02 05:31:15
+Deleted:	No
+Locked:	No
+Unique tag:	000015E9A9D0/0050
+COT version:	2.0x39
+COT build:	1067
+v	SEQ	SEQ:  (OP)		
+	COM	Use this for Synoptics: stops previous obs, moves to compromise focus, takes synoptic  images and one dark, then stops and RETURNS to best on-axis focus.		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	XRT_FOCUS_POSITION -86 N		
+	XOB	00001B316566/1317 (Normal) P		
+	XOB	00001B316566/1317 (Flare) P		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	XRT_FOCUS_POSITION -361 N		
+	ESQ	End of sequence		
+	ESQ	End of sequence		

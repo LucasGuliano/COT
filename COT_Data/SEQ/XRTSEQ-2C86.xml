@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="MCCAULEY, Patrick" dateTime="2013-09-16T17:28:43Z" />
+  <name>Be/thin - 2x2 - 1064x1048 - AEC</name>
+  <COT_info deleted="FALSE" lastUsed="2013-10-30T04:40:51Z" version="2C86" locked="FALSE"
+    tag="D17F7D9B1A26/2C86" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>84</PARM_NO>
+    <COT_PARM>765120B90AC4/371E</COT_PARM>
+    <REGN_NO>12</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1064" vcenter="1048" width="1024" height="1024" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

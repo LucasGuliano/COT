@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x39 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="TESTA, Paola" dateTime="2011-10-31T17:04:04Z" />
+  <name>Flare Al-poly (1024x1024) 512x512 - 2x2</name>
+  <COT_info deleted="FALSE" lastUsed="2023-11-27T10:43:59Z" version="2B90" locked="FALSE"
+    tag="A9BA65CB999C/2B90" COTversion="2.0x39" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>11</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>19</PARM_NO>
+    <COT_PARM>65AD3D73D528/3721</COT_PARM>
+    <REGN_NO>16</REGN_NO>
+    <COT_fov FOV_type="flare2" hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x72c</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

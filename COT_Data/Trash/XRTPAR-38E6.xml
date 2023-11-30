@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x39 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="FREED, Michael" dateTime="2014-09-08T17:51:38Z" />
+  <name>Ti/Poly - 1x1 - 88ms-2</name>
+  <COT_info deleted="FALSE" lastUsed="2014-09-08T15:46:29Z" version="38E6" locked="FALSE"
+    tag="27307C50D41E/38E6" COTversion="2.0x39" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>0</FltA_L1>
+  <FltB_L1>2</FltB_L1>
+  <FltA_L2>0</FltA_L2>
+  <FltB_L2>2</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>12</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

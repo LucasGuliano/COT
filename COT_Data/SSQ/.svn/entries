@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2006-11-06T08:57:48.657211Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/SSQ"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   committed-rev="3"
+   name="XRTSSQ-003F.ssq"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T07:15:39.983213Z"
+   checksum="6899a2326b4ba155a60d899b245d5c7c"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+<entry
+   committed-rev="3"
+   name="XRTSSQ-003A.ssq"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T07:15:39.983213Z"
+   checksum="57ff353c56afaab39e3dcac0f625f08f"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+<entry
+   committed-rev="3"
+   name="XRTSSQ-0040.ssq"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-03T07:15:39.983213Z"
+   checksum="65da81ea324ff5084d9ed7ce394d8cee"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+<entry
+   committed-rev="3"
+   name="XRTSSQ-003B.ssq"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T07:15:39.983213Z"
+   checksum="65d3fc2ddc44a82c2cc470f293dd0892"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+<entry
+   committed-rev="3"
+   name="XRTSSQ-0041.ssq"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-03T07:15:39.983213Z"
+   checksum="682da4e6374cbd00c3c2cdbed8e00404"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+<entry
+   committed-rev="3"
+   name="XRTSSQ-003C.ssq"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T07:15:39.983213Z"
+   checksum="543e0fa293ff75be7246f9c427ae739f"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+<entry
+   committed-rev="8"
+   name="XRTSSQ-0042.ssq"
+   text-time="2006-11-06T08:52:18.000000Z"
+   committed-date="2006-11-06T08:57:48.657211Z"
+   checksum="6deb4924c26799646613e7fd359d9cb2"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="3"
+   name="XRTSSQ-003D.ssq"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T07:15:39.983213Z"
+   checksum="b4c0dedc83dc65e1c1adee216cb256db"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+<entry
+   committed-rev="3"
+   name="XRTSSQ-003E.ssq"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T07:15:39.983213Z"
+   checksum="6ddbaa7c244ebdc9c2dec6d7326ef871"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:30.000000Z"/>
+</wc-entries>

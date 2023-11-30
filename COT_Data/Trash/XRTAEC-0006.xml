@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x19 (1067) -->
+<!DOCTYPE AEC_TBL SYSTEM "XRTAEC.dtd">
+<AEC_TBL>
+  <modified author="KOTOKU, Junichi" dateTime="2007-01-18T04:38:39Z" />
+  <name>AEC_table_test-2</name>
+  <COT_info deleted="FALSE" lastUsed="2007-01-18T04:38:39Z" version="0006" locked="FALSE"
+    tag="1731939100" COTversion="0.2x19" COTbuild="1067" />
+  <COT_slot>-1</COT_slot>
+  <AEC_CTRL>
+    <SE unit="MdpExposureNumber">0</SE>
+    <LE unit="MdpExposureNumber">27</LE>
+    <EP1 unit="MdpExposureNumber">11</EP1>
+    <EP2 unit="MdpExposureNumber">15</EP2>
+    <MES unit="MdpExposureNumber">4</MES>
+    <MES_CHG unit="MdpExposureNumber">2</MES_CHG>
+  </AEC_CTRL>
+  <AEC_THRS NO="1" RB="NM">
+    <ULT>  40</ULT><LLT>  10</LLT><UFR>   0</UFR><LFR>1000</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="2" RB="NM">
+    <ULT> 100</ULT><LLT>  50</LLT><UFR>   0</UFR><LFR>1000</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="3" RB="NM">
+    <ULT>  40</ULT><LLT>  10</LLT><UFR>  10</UFR><LFR>1000</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="4" RB="NM">
+    <ULT> 400</ULT><LLT> 300</LLT><UFR>  10</UFR><LFR>1000</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="5" RB="NM">
+    <ULT>2000</ULT><LLT> 650</LLT><UFR>  10</UFR><LFR> 500</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="6" RB="NM">
+    <ULT> 950</ULT><LLT> 650</LLT><UFR>  10</UFR><LFR> 500</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="7" RB="NM">
+    <ULT> 400</ULT><LLT> 300</LLT><UFR>  10</UFR><LFR>1000</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="1" RB="RB">
+    <ULT>2000</ULT><LLT>1500</LLT><UFR> 100</UFR><LFR>1000</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="2" RB="RB">
+    <ULT>2000</ULT><LLT>1500</LLT><UFR> 100</UFR><LFR>1000</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="3" RB="RB">
+    <ULT>2000</ULT><LLT> 650</LLT><UFR>  10</UFR><LFR> 500</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="4" RB="RB">
+    <ULT> 950</ULT><LLT> 650</LLT><UFR>  10</UFR><LFR> 500</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="5" RB="RB">
+    <ULT>  40</ULT><LLT>  10</LLT><UFR>  10</UFR><LFR>1000</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="6" RB="RB">
+    <ULT> 400</ULT><LLT> 300</LLT><UFR>  10</UFR><LFR>1000</LFR>
+  </AEC_THRS>
+  <AEC_THRS NO="7" RB="RB">
+    <ULT> 950</ULT><LLT> 650</LLT><UFR>  10</UFR><LFR> 500</LFR>
+  </AEC_THRS>
+</AEC_TBL>

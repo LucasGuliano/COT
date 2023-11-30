@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x19 (1067) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="BANDO, Takamasa" dateTime="2007-02-15T06:30:35Z" />
+  <name>G-Band-2x2-12ms-2</name>
+  <COT_info deleted="FALSE" lastUsed="2007-02-15T06:30:35Z" version="3614" locked="FALSE"
+    tag="1090424084" COTversion="0.2x19" COTbuild="1067" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>0</FltA_L1>
+  <FltB_L1>3</FltB_L1>
+  <FltA_L2>0</FltA_L2>
+  <FltB_L2>3</FltB_L2>
+  <AspectShutter>1</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>6</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>1</Resolution>
+</PARM>

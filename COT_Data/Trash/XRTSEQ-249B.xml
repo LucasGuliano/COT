@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x12 (1304) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="ISHIBASHI, Bish" dateTime="2007-05-11T09:01:58Z" />
+  <name>Synoptic Al-mesh short (181ms)/long (5795ms) pair</name>
+  <COT_info deleted="FALSE" lastUsed="2007-05-11T09:01:58Z" version="249B" locked="FALSE"
+    tag="177F3B46E8AB/249B" COTversion="0.9x12" COTbuild="1304" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>66</PARM_NO>
+    <COT_PARM>B286155AB9D8/364A</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov preflare="false" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>99</PARM_NO>
+    <COT_PARM>000023E90DEB/358F</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov preflare="false" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

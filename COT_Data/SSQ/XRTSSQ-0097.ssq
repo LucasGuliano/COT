@@ -1,0 +1,74 @@
+Sequence name:	CCD Bakeout with Monitoring Images--OP_SSQ
+Version:	0097
+Start date:	2008/03/03 00:00
+End date:	2008/03/04 00:00
+Author last name:	MINOSHIMA
+Author first name:	Takashi
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2008/03/03 01:05:03
+Last modified:	2011/10/14 05:29:33
+Deleted:	No
+Locked:	No
+Unique tag:	2202021D5E34/0097
+COT version:	2.0x39
+COT build:	1457
+	COM	=======================		
+	COM	XRT CCD Bakeout by OP with Monitoring Images		
+	COM	=======================		
+	COM			
+	COM	History:		
+	COM	  2010-Feb-15 Combined from SSQ-008E and SSQ-008A by R.Kano		
+	COM	  2010-Feb-17 modified by T. Minoshima, adjust intervals.		
+	COM			
+	COM	********************		
+	COM	Insert this SSQ at 8 UT on Wednesday in the week to be scheduled for Bakeout. Then, the Bakeout heater is turned off at 20UT.		
+	COM	Be sure to perform the Four-Quadrant observations in the time between 2 UT on Thursday and the next Synoptic.		
+	COM	Continue the G-band monitor even in SAA & HLA periods.		
+	COM	********************		
+	COM			
+	COM			
+	COM	--- Step1: CCD Bakeout Heater ON with G-band monitor ---		
+	COM			
+	I&T	OBSTITLE: CCD Monitoring during CCD bakeout		
+	I&T	TARGET: FS		
+	I&T	OBS_DEC: CCD Monitor During Bakeout - G-band + dark - wide FOV (1563)		
+	I&T	JOIN_SB: X		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XOB	A8E07214284E/1563 (Normal) N		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		:20_00
+	XRT	TCIB_XRT_S_HTR_A_ENA N		:02:00:00_00
+	XRT	Custom NULL_DUMMY_CMD P		:02:00:00_00
+	XRT	Custom NULL_DUMMY_CMD P		:02:00:00_00
+	XRT	Custom NULL_DUMMY_CMD P		:02:00:00_00
+	XRT	Custom NULL_DUMMY_CMD P		
+	COM			
+	COM			
+	COM	--- Step2: Switch to the low cadence G-band monitor ---		
+	COM			
+	I&T	OBSTITLE: CCD Monitoring run 8h after bake heater ON		
+	I&T	TARGET: FS		
+	I&T	OBS_DEC: CCD Monitor During Bakeout - G-band + dark - wide FOV - lower cadence (30min)  (1565)		
+	I&T	JOIN_SB: X		
+	XRT	MDP_XRT_CTRL_MANU P		
+	XOB	AE0A1A9FE561/1565 (Normal) P		:02:58_00
+	XRT	MDP_XRT_ARS_DIS P		
+	XRT	MDP_XRT_FLD_DIS P		
+	XRT	MDP_XRT_FLRCTRL_DIS P		
+	XRT	MDP_XRT_CTRL_AUTO P		:02:00:00_00
+	XRT	Custom NULL_DUMMY_CMD P		:01:56:32_00
+	XRT	Custom NULL_DUMMY_CMD P		
+	COM			
+	COM			
+	COM	--- Step3: CCD Bakeout Heater OFF ---		
+	COM			
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	TCIB_XRT_S_HTR_A_DIS N		
+	COM			
+	COM	End of SSQ		
+	ESQ	End of sequence		

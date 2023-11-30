@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x14 (1312) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="JIBBEN, Patricia" dateTime="2007-06-16T05:08:08Z" />
+  <name>QS Ti/Poly full sun High Data Rate</name>
+  <COT_info deleted="FALSE" lastUsed="2007-06-16T05:08:08Z" version="13B4" locked="FALSE"
+    tag="7FCB18A9F139/13B4" COTversion="0.9x14" COTbuild="1312" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-1</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-1</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>4</Call>
+      <COT_SEQ>25A452D59619/24D4</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>600</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

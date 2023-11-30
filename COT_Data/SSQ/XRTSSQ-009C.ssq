@@ -1,0 +1,50 @@
+Sequence name:	CCD Bakeout without Monitoring Images and NO HTR-OFF --OP_SSQ
+Version:	009C
+Start date:	2008/03/03 00:00
+End date:	2008/03/04 00:00
+Author last name:	KOBELSKI
+Author first name:	Adam
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2008/03/03 01:05:03
+Last modified:	2021/09/24 16:56:38
+Deleted:	No
+Locked:	No
+Unique tag:	A25B2E79C332/009C
+COT version:	2.0x39
+COT build:	1457
+	COM	=======================		
+	COM	XRT CCD Bakeout by OP without Monitoring Images --NO HEATER-OFF COMMAND		
+	COM	=======================		
+	COM			
+	COM	History:		
+	COM	  2010-Feb-15 created from SSQ-008F by R.Kano		
+	COM	  2010-Feb-17 modified by T. Minoshima. Adjust intervals		
+	COM	2010-Apr-19 removed heater off and NULL_DUMMY_CMD and a ctrl_manu.  A. Kobelski		
+	COM			
+	COM	********************		
+	COM	Insert this SSQ at 8 UT on Wednesday in the week to be scheduled for Bakeout. Then, the Bakeout heater is turned off at 20UT.		
+	COM	Be sure to perform the Four-Quadrant observations in the time between 2 UT on Thursday and the next Synoptic.		
+	COM	REMEMBER THIS SSQ HAS NO HEATER-OFF COMMAND.  You will need to manually add that at the desired time.		
+	COM	********************		
+	COM			
+	COM			
+	COM			
+	COM	--- Step1: CCD Bakeout Heater ON ---		
+	COM			
+	XRT	MDP_XRT_CTRL_MANU N		:30_00
+	XRT	TCIB_XRT_S_HTR_A_ENA N		:02:00:00_00
+	COM			
+	COM	--- Step2: No Operation ---		
+	COM			
+	COM	use NULL_DUMMY_CMD to extend the length within an SSQ		
+	COM			
+	COM	--- Step3: CCD Bakeout Heater OFF ---		
+	COM			
+	COM	remember a MDP_XRT_CNTRL_MANU		
+	COM	and a TCIB_XRT_S_HTR_A_DIS		
+	COM	Suggest SSQ 008A for heater-off command		
+	COM	End of SSQ		
+	ESQ	End of sequence		

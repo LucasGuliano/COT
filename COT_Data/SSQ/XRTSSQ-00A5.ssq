@@ -1,0 +1,19 @@
+Sequence name:	Untitled-4
+Version:	00A5
+Start date:	2022/12/26 00:00
+End date:	2022/12/27 00:00
+Author last name:	ISHIBASHI
+Author first name:	Bish
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2022/12/26 04:25:02
+Last modified:	2022/12/26 04:25:02
+Deleted:	No
+Locked:	No
+Unique tag:	89F00EA2B2EB/00A5
+COT version:	2.0x39
+COT build:	2080
+	COM			
+	ESQ	End of sequence		

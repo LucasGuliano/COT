@@ -1,0 +1,19 @@
+Sequence name:	XRT_Custom_430_OG
+Version:	001E
+Start date:	2013/03/28 00:00
+End date:	2013/03/29 00:00
+Author last name:	SHIMOJO
+Author first name:	Masumi
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	430
+Last used:	2023/11/21 02:50:45
+Last modified:	2013/03/28 03:11:03
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/001E
+COT version:	2.0x39
+COT build:	2080
+	XRT	Custom NULL_DUMMY_CMD P		:01:00_00
+	ESQ	End of sequence		

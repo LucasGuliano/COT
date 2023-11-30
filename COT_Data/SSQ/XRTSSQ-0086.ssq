@@ -1,0 +1,20 @@
+Sequence name:	XRT_XTW_EXIT
+Version:	0086
+Start date:	2007/05/05 00:00
+End date:	2007/05/06 00:00
+Author last name:	BANDO
+Author first name:	Takamasa
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/05/05 02:26:45
+Last modified:	2007/05/05 02:26:45
+Deleted:	No
+Locked:	No
+Unique tag:	827564890BD3/0086
+COT version:	2.0x39
+COT build:	1277
+	COM	insert ctrl_auto upon XTW_EXIT		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x35 (2050) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="FARID, Samaiyah" dateTime="2010-07-07T22:03:30Z" />
+  <name>Thick-Al - 1x1 - 16384 ms-2</name>
+  <COT_info deleted="FALSE" lastUsed="2010-07-07T22:02:01Z" version="3853" locked="FALSE"
+    tag="C9CC113F47D7/3853" COTversion="2.0x35" COTbuild="2050" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>0</FltA_L1>
+  <FltB_L1>4</FltB_L1>
+  <FltA_L2>0</FltA_L2>
+  <FltB_L2>4</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>27</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

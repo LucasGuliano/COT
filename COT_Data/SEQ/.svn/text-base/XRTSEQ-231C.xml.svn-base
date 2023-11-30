@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="WEBER, Mark" dateTime="2006-06-11T20:01:06Z" />
+  <name>Sims - XR Point Cal SEQ</name>
+  <COT_info deleted="FALSE" lastUsed="2006-08-30T10:36:01Z" version="231C" locked="FALSE"
+    tag="573355911" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>65535</PARM_NO>
+    <COT_PARM>3405</COT_PARM>
+    <REGN_NO>6</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x072B</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>30</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

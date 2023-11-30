@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x14 (1312) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="NISHIDA, Keisuke" dateTime="2007-08-11T04:11:42Z" />
+  <name>Sequence 2</name>
+  <COT_info deleted="FALSE" lastUsed="2007-08-11T04:11:42Z" version="2519" locked="FALSE"
+    tag="DE68169521C0/2519" COTversion="0.9x14" COTbuild="1312" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+</SEQN>

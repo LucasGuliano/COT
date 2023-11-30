@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FGTBL.rng
+    2005/05/13 version fm2.4 by MATSUZAKI Keiichi (ISAS) --><rng:grammar xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns:htm="http://www.w3.org/1999/xhtml" xmlns:tmpl="http://ums.isas.jaxa.jp/sample/tmpl/" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+
+  
+  
+
+  <rng:include href="common.rng"/>
+  <rng:include href="mvbContent.rng"/>
+
+  <rng:start>
+    <rng:element ns="" name="MVB_TBL">
+      <rng:ref name="mvbContent"/>
+    </rng:element>
+  </rng:start>
+
+</rng:grammar>

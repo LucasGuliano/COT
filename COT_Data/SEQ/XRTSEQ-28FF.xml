@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="LEE, Jin-Yi" dateTime="2009-05-13T11:47:31Z" />
+  <name>DEM analysis DPCM Thick filters + G-band 1x1 384x384 offsets</name>
+  <COT_info deleted="FALSE" lastUsed="2009-05-13T12:51:27Z" version="28FF" locked="FALSE"
+    tag="ACD24A1D4BBC/28FF" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>31</PARM_NO>
+    <COT_PARM>23245E83F1F7/36BB</COT_PARM>
+    <REGN_NO>14</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1176" vcenter="1088" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>53</PARM_NO>
+    <COT_PARM>F11B5E474607/37DA</COT_PARM>
+    <REGN_NO>14</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1176" vcenter="1088" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>76</PARM_NO>
+    <COT_PARM>2F810739FED9/3711</COT_PARM>
+    <REGN_NO>14</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1176" vcenter="1088" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>57</PARM_NO>
+    <COT_PARM>CEFC1E1504B6/365B</COT_PARM>
+    <REGN_NO>14</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1176" vcenter="1088" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="5">
+    <PARM_NO>3</PARM_NO>
+    <COT_PARM>CA527EC2D2AD/37DB</COT_PARM>
+    <REGN_NO>14</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1176" vcenter="1088" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="6">
+    <PARM_NO>78</PARM_NO>
+    <COT_PARM>4FA516D03501/37DC</COT_PARM>
+    <REGN_NO>14</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1176" vcenter="1088" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="7">
+    <PARM_NO>14</PARM_NO>
+    <COT_PARM>00007CE10EC0/3605</COT_PARM>
+    <REGN_NO>14</REGN_NO>
+    <COT_fov FOV_type="normal" hcenter="1176" vcenter="1088" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

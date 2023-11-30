@@ -1,0 +1,31 @@
+Sequence name:	DebuggingTest
+Version:	003D
+Start date:	2006/06/02 00:00
+End date:	2006/06/03 00:00
+Author last name:	KENT
+Author first name:	Tom
+Sequence type:	OP Command plan
+S/C slot:	-01
+Last used:	2006/06/02 23:27:28
+Last modified:	2005/10/17 00:00:00
+AEC Table:	0002
+ARS Table:	0003
+CMP Table:	0001
+FLD Table:	0003
+FLT Table:	0002
+ROI Table:	0002
+Deleted:	No
+Locked:	No
+Unique tag:	1630275597
+COT version:	0.2x16
+COT build:	1048
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+	XRT	XRT_STANDBY P		
+	XRT	XRT_DIAGNOSTIC P		
+	XRT	XRT_FOCUS_RECALIBRATE P		
+	XRT	XRT_DIAGNOSTIC P		
+	XRT	XRT_FOCUS_POSITION 120 P		
+	ESQ	End of sequence		

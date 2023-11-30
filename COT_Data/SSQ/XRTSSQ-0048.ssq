@@ -1,0 +1,44 @@
+Sequence name:	Table Upload Sequence with ROI upload
+Version:	0048
+Start date:	2006/11/21 00:00
+End date:	2006/11/22 00:00
+Author last name:	LUNDQUIST
+Author first name:	Loraine
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	Real Sequence
+S/C slot:	-01
+Last used:	2006/11/21 05:34:44
+Last modified:	2010/01/11 06:18:35
+Deleted:	Yes
+Locked:	No
+Unique tag:	000079D4A908/0048
+COT version:	2.0x39
+COT build:	1067
+	MSG	 (Pauses)		
+	MSG	***** XRT Start ******* (No pause)		
+	MSG	 (No pause)		
+	XRT	MDP_XRT_CTRL_MANU P		
+	MSG	----------- [MDP_XRT_CTRL_MODE] = MANU ?       OK / NG _____          (No pause)		
+	MSG	 (No pause)		
+	MSG	XRT Obs. Table Upload (No pause)		
+	XRT	MDP_UPLOAD_XRTTBL P		
+	MSG	 (No pause)		
+	XRT	MDP_DUMP_XRTTBL P		
+	MSG	----------- Comparison Check ?                           OK / ERR _____          (No pause)		
+	MSG	 (No pause)		
+	MSG	 (Pauses)		
+	MSG	 (Pauses)		
+	MSG	 (Pauses)		
+	ROI			
+	MSG	----------- Success Verify ?                   OK / NG (No pause)		
+	MSG	 (Pauses)		
+	MSG	**************** (Pauses)		
+	MSG	 EMERGENCY CASE  (Pauses)		
+	MSG	**************** (Pauses)		
+	MSG	 (Pauses)		
+	XRT	Custom ENTRY: DCBC XRT_DIS_TABLE_OBS_SEQ P		
+	MSG	 (Pauses)		
+	MSG	***** XRT End ******* (No pause)		
+	MSG	 (No pause)		
+	ESQ	End of sequence		

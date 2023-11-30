@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="SHIMOJO, Masumi" dateTime="2008-02-28T03:34:43Z" />
+  <name>Med-Be (Med-Be + Ti/poly) - 1x1 - 46284ms</name>
+  <COT_info deleted="FALSE" lastUsed="2008-01-07T03:08:22Z" version="3659" locked="FALSE"
+    tag="75DA1953001E/3659" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>4</FltA_L1>
+  <FltB_L1>0</FltB_L1>
+  <FltA_L2>4</FltA_L2>
+  <FltB_L2>2</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>30</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

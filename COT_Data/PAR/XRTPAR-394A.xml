@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="TAKEDA, Aki" dateTime="2018-05-21T20:59:27Z" />
+  <name>G-band - CAL - 1024ms - dark</name>
+  <COT_info deleted="FALSE" lastUsed="2019-10-15T02:23:57Z" version="394A" locked="FALSE"
+    tag="0ABD081F919E/394A" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>0</FltA_L1>
+  <FltB_L1>3</FltB_L1>
+  <FltA_L2>0</FltA_L2>
+  <FltB_L2>3</FltB_L2>
+  <AspectShutter>1</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>1</ImageType>
+  <Exposure>19</Exposure>
+  <Calibration>1</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

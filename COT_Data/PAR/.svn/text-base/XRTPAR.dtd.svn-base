@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT PARM (modified*, name, COT_info*, COT_slot*, FltA_L1, FltB_L1, FltA_L2, FltB_L2, AspectShutter, ShutterMode, ImageType, Exposure, Calibration, Resolution)>
+
+<!ELEMENT FltA_L1 (#PCDATA)>
+<!ELEMENT FltA_L2 (#PCDATA)>
+<!ELEMENT FltB_L1 (#PCDATA)>
+<!ELEMENT FltB_L2 (#PCDATA)>
+<!ELEMENT AspectShutter (#PCDATA)>
+<!ELEMENT ShutterMode (#PCDATA)>
+<!ELEMENT ImageType (#PCDATA)>
+<!ELEMENT Exposure (#PCDATA)>
+<!ELEMENT Calibration (#PCDATA)>
+<!ELEMENT Resolution (#PCDATA)>
+
+<!ELEMENT modified (#PCDATA)>
+<!ATTLIST modified
+	author CDATA #IMPLIED
+	dateTime CDATA #IMPLIED
+>
+
+<!ELEMENT modified (#PCDATA)>
+<!ATTLIST modified
+	author CDATA #IMPLIED
+	dateTime CDATA #IMPLIED
+>
+
+<!ELEMENT name (#PCDATA)>
+
+<!ELEMENT COT_info (#PCDATA)>
+<!ATTLIST COT_info
+    deleted CDATA #IMPLIED
+    lastUsed CDATA #IMPLIED
+    version CDATA #IMPLIED
+>
+<!ELEMENT COT_slot (#PCDATA)>

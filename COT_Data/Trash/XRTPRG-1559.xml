@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x11 (1551) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="NISHIDA, Keisuke" dateTime="2008-05-26T05:59:01Z" />
+  <name>Pre-Bakeout_Eval_IMGS with Q98 Dark</name>
+  <COT_info deleted="FALSE" lastUsed="2008-05-26T05:57:16Z" version="1559" locked="FALSE"
+    tag="15620AC7E637/1559" COTversion="1.0x11" COTbuild="1551" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>1</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-1</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-1</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>96</Call>
+      <COT_SEQ>70CB7E8EA836/26C7</COT_SEQ>
+      <Repeat>2</Repeat>
+      <Interval>32</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>45</Call>
+      <COT_SEQ>000057006C90/240D</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>51</Call>
+      <COT_SEQ>B8F7628F4610/26C8</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>8</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

@@ -1,0 +1,23 @@
+Sequence name:	XRT_BAD_PHOTO_ENTRY
+Version:	009A
+Start date:	2007/05/05 00:00
+End date:	2007/05/06 00:00
+Author last name:	JIBBEN
+Author first name:	Patricia
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/05/05 02:26:45
+Last modified:	2023/11/20 03:12:27
+Deleted:	No
+Locked:	No
+Unique tag:	8A1172EA2823/009A
+COT version:	2.0x39
+COT build:	1277
+	COM	insert ctrl_manu upon BAD_PHOTO_ENTRY		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	MDP_XRT_FLD_RESET P		
+	XRT	MDP_XRT_PREFLR_STRT P		:03:10_00
+	XRT	MDP_XRT_PREFLR_STOP P		
+	ESQ	End of sequence		

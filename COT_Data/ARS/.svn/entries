@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7"
+   name=""
+   committed-date="2006-11-06T08:46:08.763605Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/ARS"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   committed-rev="4"
+   name="XRTARS-0001.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="726d852665f98e078f92b02681413b7b"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="5"
+   name="XRTARS-0002.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-04T11:05:27.952620Z"
+   checksum="d49b7c7e7c0c3bfda8fa3184e6541e1a"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTARS-0003.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="d4c2fb608cb6f29b0269dee382711e03"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schemas.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="f4a0bb9da5c3c08a9857a6b2e76fc0a1"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTARS-0004.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="2438ce1013800a34e3814c36073f44cd"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="XRTARS.dtd"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="6a097a784b1633bae7445b735543d003"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:24.000000Z"/>
+</wc-entries>

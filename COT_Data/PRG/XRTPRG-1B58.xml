@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="YOSHIMURA, Keiji" dateTime="2016-11-14T17:08:27Z" />
+  <name>AR Standard-A(Filter-Ratio with Al/poly and thin-Be) with PFB, 384x384 at 1064 1048, thin-Be, thick-Al, Al/Poly context, with G-band (3ms/3ms leak), 45s cad</name>
+  <COT_info deleted="FALSE" lastUsed="2016-11-15T02:17:00Z" version="1B58" locked="FALSE"
+    tag="C38C4301DC1A/1B58" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>56</Call>
+      <COT_SEQ>D19729CD92B2/2D88</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>42</Call>
+      <COT_SEQ>E40501258C6C/2CA2</COT_SEQ>
+      <Repeat>4</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>25</Call>
+      <COT_SEQ>D432450722D7/2E0A</COT_SEQ>
+      <Repeat>80</Repeat>
+      <Interval>90</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

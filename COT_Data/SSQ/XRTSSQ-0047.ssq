@@ -1,0 +1,51 @@
+Sequence name:	Table Upload Sequence with program start and focus position
+Version:	0047
+Start date:	2006/11/07 00:00
+End date:	2006/11/08 00:00
+Author last name:	REEVES
+Author first name:	Kathy
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	Real Sequence
+S/C slot:	-01
+Last used:	2006/11/07 09:31:46
+Last modified:	2010/04/23 03:51:17
+Deleted:	Yes
+Locked:	No
+Unique tag:	000004A69AD7/0047
+COT version:	2.0x39
+COT build:	1058
+v	SEQ	XRT_TBL_Upload:  (Real)		
+	MSG	 (Pauses)		
+	MSG	***** XRT Start ******* (No pause)		
+	MSG	 (No pause)		
+	XRT	MDP_XRT_CTRL_MANU P		
+	MSG	----------- [MDP_XRT_CTRL_MODE] = MANU ?       OK / NG _____          (No pause)		
+	MSG	 (No pause)		
+	MSG	XRT Obs. Table Upload (No pause)		
+	XRT	MDP_UPLOAD_XRTTBL P		
+	MSG	 (No pause)		
+	XRT	MDP_DUMP_XRTTBL P		
+	MSG	----------- Comparison Check ?                           OK / ERR _____          (No pause)		
+	MSG	 (No pause)		
+	MSG	 (Pauses)		
+	MSG	 (Pauses)		
+	MSG	 (Pauses)		
+	MSG	 (Pauses)		
+	XRT	XRT_FOCUS_POSITION -321 P		
+	XOB	000027016107/1298 (Normal) N		
+	XOB	00000F4E8D6A/1299 (Flare) P		
+	XRT	MDP_XRT_FLD_ENA P		
+	XRT	MDP_XRT_FLD_RESET P		
+	XRT	MDP_XRT_FLRCTRL_ENA P		
+	XRT	MDP_XRT_CTRL_AUTO P		
+	MSG	**************** (Pauses)		
+	MSG	 EMERGENCY CASE  (Pauses)		
+	MSG	**************** (Pauses)		
+	MSG	 (Pauses)		
+	XRT	Custom ENTRY: DCBC XRT_DIS_TABLE_OBS_SEQ P		
+	MSG	 (Pauses)		
+	MSG	***** XRT End ******* (No pause)		
+	MSG	 (No pause)		
+	ESQ	End of sequence		
+	ESQ	End of sequence		

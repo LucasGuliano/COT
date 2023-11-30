@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="REEVES, Kathy" dateTime="2006-08-30T08:44:00Z" />
+  <name>Sims2 - Loop Thermal Structure - SEQ B</name>
+  <COT_info deleted="FALSE" lastUsed="2006-08-30T10:36:01Z" version="232A" locked="FALSE"
+    tag="1575145279" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>18</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>65535</PARM_NO>
+    <COT_PARM>3425</COT_PARM>
+    <REGN_NO>8</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="1024" height="1024" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>2</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>65535</PARM_NO>
+    <COT_PARM>340E</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>2</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>65535</PARM_NO>
+    <COT_PARM>340F</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>2</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>65535</PARM_NO>
+    <COT_PARM>3410</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x729</COMP_CODE>
+    <AEC_NO>2</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>2</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

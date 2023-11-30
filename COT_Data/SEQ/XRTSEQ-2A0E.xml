@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="MULU-MOORE, Fana" dateTime="2010-02-26T08:44:51Z" />
+  <name>G-Band Alignment - 1x1 - 512x1024-FOV-for Flare Response</name>
+  <COT_info deleted="FALSE" lastUsed="2010-02-27T00:07:22Z" version="2A0E" locked="FALSE"
+    tag="846A1DA782C1/2A0E" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>11</PARM_NO>
+    <COT_PARM>00007CE10EC0/3605</COT_PARM>
+    <REGN_NO>16</REGN_NO>
+    <COT_fov FOV_type="flare2" hcenter="512" vcenter="1280" width="512" height="512" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

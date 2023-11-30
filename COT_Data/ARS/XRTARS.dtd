@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT ARS_TBL (modified*, name*, COT_info*, COT_slot*, PARM_NO_ARS,COT_PARM, COMP_CODE_ARS, IntervalArs, GB, HStartArs, VStartArs, HEndArs, VEndArs, Size1Search, Size2Search, Size3Search)>
+
+<!ELEMENT PARM_NO_ARS (#PCDATA)>
+<!ATTLIST PARM_NO_ARS unit CDATA #IMPLIED>
+<!ELEMENT COT_PARM (#PCDATA)>
+<!ELEMENT COMP_CODE_ARS (#PCDATA)>
+<!ATTLIST COMP_CODE_ARS unit CDATA #IMPLIED>
+<!ELEMENT IntervalArs (#PCDATA)>
+<!ATTLIST IntervalArs unit CDATA #IMPLIED>
+<!ELEMENT GB (#PCDATA)>
+<!ATTLIST GB unit CDATA #IMPLIED>
+<!ELEMENT HStartArs (#PCDATA)>
+<!ATTLIST HStartArs unit CDATA #IMPLIED>
+<!ELEMENT VStartArs (#PCDATA)>
+<!ATTLIST VStartArs unit CDATA #IMPLIED>
+<!ELEMENT HEndArs (#PCDATA)>
+<!ATTLIST HEndArs unit CDATA #IMPLIED>
+<!ELEMENT VEndArs (#PCDATA)>
+<!ATTLIST VEndArs unit CDATA #IMPLIED>
+<!ELEMENT Size1Search (#PCDATA)>
+<!ATTLIST Size1Search unit CDATA #IMPLIED>
+<!ELEMENT Size2Search (#PCDATA)>
+<!ATTLIST Size2Search unit CDATA #IMPLIED>
+<!ELEMENT Size3Search (#PCDATA)>
+<!ATTLIST Size3Search unit CDATA #IMPLIED>
+
+<!ELEMENT modified (#PCDATA)>
+<!ATTLIST modified
+	author CDATA #IMPLIED
+	dateTime CDATA #IMPLIED
+>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT COT_info (#PCDATA)>
+<!ATTLIST COT_info
+    deleted CDATA #IMPLIED
+    lastUsed CDATA #IMPLIED
+    version CDATA #IMPLIED
+    locked CDATA #IMPLIED
+>
+<!ELEMENT COT_slot (#PCDATA)>

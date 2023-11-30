@@ -1,0 +1,33 @@
+Sequence name:	CCD Heater Turn OFF for Bakeout--OP_SSQ - for future use
+Version:	008A
+Start date:	2008/03/03 00:00
+End date:	2008/03/04 00:00
+Author last name:	BANDO
+Author first name:	Takamasa
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2008/03/03 01:05:03
+Last modified:	2020/09/14 19:55:31
+Deleted:	No
+Locked:	No
+Unique tag:	9F4D43E99219/008A
+COT version:	2.0x39
+COT build:	1457
+	COM	=======================		
+	COM	 XRT Bakeout Heater OFF by OP		
+	COM	=======================		
+	COM			
+	COM	History:		
+	COM	  Written 3-Mar-08 by Jonathan CIRTAIN		
+	COM	  1-Oct-09 (Takamasa BANDO)		
+	COM			
+	COM	********************		
+	COM	Insert this SSQ at 20UT on Wednesday in the week to be scheduled for Bakeout.		
+	COM	Be sure to perform the Four-Quadrant observations in the time between 2 UT on Thursday and the next Synoptic.		
+	COM	********************		
+	COM			
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	TCIB_XRT_S_HTR_A_DIS N		
+	ESQ	End of sequence		

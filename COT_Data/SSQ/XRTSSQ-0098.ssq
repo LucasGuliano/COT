@@ -1,0 +1,29 @@
+Sequence name:	XRT_TI_FOR_OPOG
+Version:	0098
+Start date:	2009/05/18 00:00
+End date:	2009/05/19 00:00
+Author last name:	KANO
+Author first name:	Ryouhei
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2009/05/18 23:58:45
+Last modified:	2019/02/04 03:15:28
+Deleted:	No
+Locked:	No
+Unique tag:	C8AD157B67FF/0098
+COT version:	2.0x39
+COT build:	1571
+	COM	HISTORY:		
+	COM	2010-Mar-17 RK: created		
+	COM			
+	COM			
+	MSG	 (No pause)		
+	MSG	************ XRT START *********** (No pause)		
+	MSG	Execute, after the success of OP upload. (No pause)		
+	XRT	Custom TIME_CMD : MDP_XRT_MODE_STBY AT XRT_MODE_STBY_POINT P		
+	MSG	                     [   ]  [HK1_TI_CMD_NUM]     EQ    1COUNTUP (Pauses)		
+	MSG	 (No pause)		
+	MSG	************ XRT END *********** (No pause)		
+	ESQ	End of sequence		

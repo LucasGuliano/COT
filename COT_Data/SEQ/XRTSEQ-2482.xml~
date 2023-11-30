@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x7 (1272) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SAVAGE, Sabrina" dateTime="2007-04-27T01:25:17Z" />
+  <name>Synoptic Ti-poly short (1024ms) /long (8192ms) pair</name>
+  <COT_info deleted="FALSE" lastUsed="2007-04-27T01:25:17Z" version="2482" locked="FALSE"
+    tag="596110FE7B3B/2482" COTversion="0.9x7" COTbuild="1272" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>5</PARM_NO>
+    <COT_PARM>96D81CFD50B8/3647</COT_PARM>
+    <REGN_NO>0</REGN_NO>
+    <COT_fov preflare="false" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>52</PARM_NO>
+    <COT_PARM>0000425A56C4/3603</COT_PARM>
+    <REGN_NO>0</REGN_NO>
+    <COT_fov preflare="false" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT XRT-TABLE (modified*, title, COT_info*, COT_slot*, PROG_TBL, SEQN_TBL, PARM_TBL, AEC_TBL, FLT_TBL, ARS_TBL, FLD_TBL, MVB_TBL)>
+<!ELEMENT title (#PCDATA)>
+
+<!ELEMENT COT_info (#PCDATA)>
+<!ATTLIST COT_info
+    deleted CDATA #IMPLIED
+    lastUsed CDATA #IMPLIED
+    version CDATA #IMPLIED
+>
+<!ELEMENT COT_slot (#PCDATA)>
+
+<!ELEMENT PROG_TBL ((PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include), (PROG|include))>
+<!ELEMENT PROG (VER, modified*, name, MAIN_RPT, MAIN, SUBR, SUBR, SUBR, SUBR)?>
+<!ATTLIST PROG
+	NO (1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 2 | 20 | 3 | 4 | 5 | 6 | 7 | 8 | 9) #IMPLIED
+	version CDATA #IMPLIED
+>
+<!ELEMENT MAIN_RPT (#PCDATA)>
+<!ELEMENT MAIN (MAIN_ENTRY, MAIN_ENTRY, MAIN_ENTRY, MAIN_ENTRY, MAIN_ENTRY, MAIN_ENTRY, MAIN_ENTRY, MAIN_ENTRY)>
+<!ELEMENT MAIN_ENTRY (Call, Repeat, Interval)>
+<!ATTLIST MAIN_ENTRY
+	POS (1 | 2 | 3 | 4 | 5 | 6 | 7 | 8) #REQUIRED
+>
+<!ELEMENT SUBR (SUBR_ENTRY, SUBR_ENTRY, SUBR_ENTRY, SUBR_ENTRY, SUBR_ENTRY, SUBR_ENTRY, SUBR_ENTRY, SUBR_ENTRY)>
+<!ATTLIST SUBR
+	NO (1 | 2 | 3 | 4) #REQUIRED
+>
+<!ELEMENT SUBR_ENTRY (Call, Repeat, Interval)>
+<!ATTLIST SUBR_ENTRY
+	POS (1 | 2 | 3 | 4 | 5 | 6 | 7 | 8) #REQUIRED
+>
+<!ELEMENT Call (#PCDATA)>
+<!ELEMENT Repeat (#PCDATA)>
+<!ELEMENT Interval (#PCDATA)>
+<!ELEMENT SEQN_TBL ((SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include), (SEQN|include))>
+<!ELEMENT SEQN (VER, modified*, name, SEQN_ENTRY, SEQN_ENTRY, SEQN_ENTRY, SEQN_ENTRY, SEQN_ENTRY, SEQN_ENTRY, SEQN_ENTRY, SEQN_ENTRY)?>
+<!ATTLIST SEQN
+	NO (1 | 10 | 100 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 2 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 3 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 4 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 5 | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 6 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 7 | 70 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 8 | 80 | 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 9 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99) #IMPLIED
+	version CDATA #IMPLIED
+>
+<!ELEMENT SEQN_ENTRY (CMD_ID, PARM_NO, REGN_NO, COMP_CODE, AEC_NO, BUF_NO, DMF, SEQN_INT)>
+<!ATTLIST SEQN_ENTRY
+	POS (1 | 2 | 3 | 4 | 5 | 6 | 7 | 8) #IMPLIED
+>
+<!ELEMENT CMD_ID (#PCDATA)>
+<!ELEMENT DMF (#PCDATA)>
+<!ELEMENT COMP_CODE (#PCDATA)>
+<!ELEMENT PARM_NO (#PCDATA)>
+<!ELEMENT REGN_NO (#PCDATA)>
+<!ELEMENT AEC_NO (#PCDATA)>
+<!ELEMENT BUF_NO (#PCDATA)>
+<!ELEMENT SEQN_INT (#PCDATA)>
+<!ELEMENT PARM_TBL ((PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include), (PARM|include))>
+<!ELEMENT PARM (VER, modified*, name, FltA_L1, FltB_L1, FltA_L2, FltB_L2, AspectShutter, ShutterMode, ImageType, Exposure, Caliblation, Resolution)?>
+<!ATTLIST PARM
+	NO (1 | 10 | 100 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 2 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 3 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 4 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 5 | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 6 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 7 | 70 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 8 | 80 | 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 9 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99) #IMPLIED
+	version CDATA #IMPLIED
+>
+<!ELEMENT FltA_L1 (#PCDATA)>
+<!ELEMENT FltB_L1 (#PCDATA)>
+<!ELEMENT FltA_L2 (#PCDATA)>
+<!ELEMENT FltB_L2 (#PCDATA)>
+<!ELEMENT AspectShutter (#PCDATA)>
+<!ELEMENT ShutterMode (#PCDATA)>
+<!ELEMENT ImageType (#PCDATA)>
+<!ELEMENT Exposure (#PCDATA)>
+<!ELEMENT Caliblation (#PCDATA)>
+<!ELEMENT Resolution (#PCDATA)>
+<!ELEMENT AEC_TBL (AEC_CTRL, AEC_THRS, AEC_THRS, AEC_THRS, AEC_THRS, AEC_THRS, AEC_THRS, AEC_THRS, AEC_THRS, AEC_THRS, AEC_THRS, AEC_THRS, AEC_THRS, AEC_THRS, AEC_THRS)?>
+<!ATTLIST AEC_TBL version CDATA #IMPLIED>
+
+<!ELEMENT AEC_CTRL (SE, LE, EP1, EP2, MES, MES_CHG)>
+<!ELEMENT SE (#PCDATA)>
+<!ATTLIST SE unit CDATA #IMPLIED>
+<!ELEMENT LE (#PCDATA)>
+<!ATTLIST LE unit CDATA #IMPLIED>
+<!ELEMENT EP1 (#PCDATA)>
+<!ATTLIST EP1 unit CDATA #IMPLIED>
+<!ELEMENT EP2 (#PCDATA)>
+<!ATTLIST EP2 unit CDATA #IMPLIED>
+<!ELEMENT MES (#PCDATA)>
+<!ATTLIST MES unit CDATA #IMPLIED>
+<!ELEMENT MES_CHG (#PCDATA)>
+<!ATTLIST MES_CHG unit CDATA #IMPLIED>
+<!ELEMENT ULT (#PCDATA)>
+<!ATTLIST ULT unit CDATA #IMPLIED>
+<!ELEMENT LLT (#PCDATA)>
+<!ATTLIST LLT unit CDATA #IMPLIED>
+<!ELEMENT UFR (#PCDATA)>
+<!ATTLIST UFR unit CDATA #IMPLIED>
+<!ELEMENT LFR (#PCDATA)>
+<!ATTLIST LFR unit CDATA #IMPLIED>
+
+<!ELEMENT FLT_TBL (RD, RD, RD, RD, RD, RD, RD, RD, RD, RD, RD, RD)?>
+<!ATTLIST FLT_TBL version CDATA #IMPLIED>
+
+<!ELEMENT RD (#PCDATA)>
+<!ATTLIST RD
+	NO (A1 | A2 | A3 | A4 | A5 | A6 | B1 | B2 | B3 | B4 | B5 | B6) #IMPLIED
+	name CDATA #IMPLIED
+	unit CDATA #IMPLIED
+>
+
+<!ELEMENT AEC_THRS (ULT, LLT, UFR, LFR)>
+<!ATTLIST AEC_THRS
+	NO (1 | 2 | 3 | 4 | 5 | 6 | 7) #REQUIRED
+	RB (NM | RB) #REQUIRED
+>
+
+<!ELEMENT ARS_TBL (PARM_NO_ARS, COMP_CODE_ARS, IntervalArs, GB, HStartArs, VStartArs, HEndArs, VEndArs, Size1Search, Size2Search, Size3Search)?>
+<!ATTLIST ARS_TBL version CDATA #IMPLIED>
+
+<!ELEMENT PARM_NO_ARS (#PCDATA)>
+<!ATTLIST PARM_NO_ARS unit CDATA #IMPLIED>
+<!ELEMENT COMP_CODE_ARS (#PCDATA)>
+<!ATTLIST COMP_CODE_ARS unit CDATA #IMPLIED>
+<!ELEMENT IntervalArs (#PCDATA)>
+<!ATTLIST IntervalArs unit CDATA #IMPLIED>
+<!ELEMENT GB (#PCDATA)>
+<!ATTLIST GB unit CDATA #IMPLIED>
+<!ELEMENT HStartArs (#PCDATA)>
+<!ATTLIST HStartArs unit CDATA #IMPLIED>
+<!ELEMENT VStartArs (#PCDATA)>
+<!ATTLIST VStartArs unit CDATA #IMPLIED>
+<!ELEMENT HEndArs (#PCDATA)>
+<!ATTLIST HEndArs unit CDATA #IMPLIED>
+<!ELEMENT VEndArs (#PCDATA)>
+<!ATTLIST VEndArs unit CDATA #IMPLIED>
+<!ELEMENT Size1Search (#PCDATA)>
+<!ATTLIST Size1Search unit CDATA #IMPLIED>
+<!ELEMENT Size2Search (#PCDATA)>
+<!ATTLIST Size2Search unit CDATA #IMPLIED>
+<!ELEMENT Size3Search (#PCDATA)>
+<!ATTLIST Size3Search unit CDATA #IMPLIED>
+
+<!ELEMENT FLD_TBL (QTIntervalFld, FLIntervalFld, PARM_NO_FLD, COMP_CODE_FLD, InitialLevel, RBHPosition, RBVPosition, RbThrsh, NmThrsh, UpperLevel, Weight, FLThNm, QTThNm, FLThRb, QTThRb, OffsetNm, OffsetRb)?>
+<!ATTLIST FLD_TBL version CDATA #IMPLIED>
+
+<!ELEMENT QTIntervalFld (#PCDATA)>
+<!ATTLIST QTIntervalFld unit CDATA #IMPLIED>
+<!ELEMENT FLIntervalFld (#PCDATA)>
+<!ATTLIST FLIntervalFld unit CDATA #IMPLIED>
+<!ELEMENT PARM_NO_FLD (#PCDATA)>
+<!ATTLIST PARM_NO_FLD unit CDATA #IMPLIED>
+<!ELEMENT COMP_CODE_FLD (#PCDATA)>
+<!ATTLIST COMP_CODE_FLD unit CDATA #IMPLIED>
+<!ELEMENT InitialLevel (#PCDATA)>
+<!ATTLIST InitialLevel unit CDATA #IMPLIED>
+<!ELEMENT RBHPosition (#PCDATA)>
+<!ATTLIST RBHPosition unit CDATA #IMPLIED>
+<!ELEMENT RBVPosition (#PCDATA)>
+<!ATTLIST RBVPosition unit CDATA #IMPLIED>
+<!ELEMENT RbThrsh (#PCDATA)>
+<!ATTLIST RbThrsh unit CDATA #IMPLIED>
+<!ELEMENT NmThrsh (#PCDATA)>
+<!ATTLIST NmThrsh unit CDATA #IMPLIED>
+<!ELEMENT UpperLevel (#PCDATA)>
+<!ATTLIST UpperLevel unit CDATA #IMPLIED>
+<!ELEMENT Weight (#PCDATA)>
+<!ATTLIST Weight unit CDATA #IMPLIED>
+<!ELEMENT FLThNm (#PCDATA)>
+<!ATTLIST FLThNm unit CDATA #IMPLIED>
+<!ELEMENT QTThNm (#PCDATA)>
+<!ATTLIST QTThNm unit CDATA #IMPLIED>
+<!ELEMENT FLThRb (#PCDATA)>
+<!ATTLIST FLThRb unit CDATA #IMPLIED>
+<!ELEMENT QTThRb (#PCDATA)>
+<!ATTLIST QTThRb unit CDATA #IMPLIED>
+<!ELEMENT OffsetNm (#PCDATA)>
+<!ATTLIST OffsetNm unit CDATA #IMPLIED>
+<!ELEMENT OffsetRb (#PCDATA)>
+<!ATTLIST OffsetRb unit CDATA #IMPLIED>
+
+<!ELEMENT modified (#PCDATA)>
+<!ATTLIST modified
+	author CDATA #IMPLIED
+	dateTime CDATA #IMPLIED
+>
+
+<!ELEMENT VER (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT include EMPTY>
+<!ATTLIST include filename CDATA #REQUIRED
+  NO CDATA #IMPLIED
+  num CDATA #IMPLIED >
+
+<!ELEMENT MVB_TBL (DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR, DUR)?>
+<!ATTLIST MVB_TBL version CDATA #IMPLIED>
+
+<!ELEMENT DUR (#PCDATA)>
+<!ATTLIST DUR
+  apat CDATA #IMPLIED
+  bpat CDATA #IMPLIED >

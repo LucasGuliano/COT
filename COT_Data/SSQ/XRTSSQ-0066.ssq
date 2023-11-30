@@ -1,0 +1,39 @@
+Sequence name:	STOP and Synoptic (default-B, even longer C/poly(16384ms)
+Version:	0066
+Start date:	2007/09/26 00:00
+End date:	2007/09/27 00:00
+Author last name:	FARID
+Author first name:	Samaiyah
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/09/26 22:07:54
+Last modified:	2007/09/26 22:07:54
+Deleted:	No
+Locked:	No
+Unique tag:	7FA527E25FBA/0066
+COT version:	2.0x39
+COT build:	1312
+	COM	=======================		
+	COM	For Synoptic around 06UT and 18UT.		
+	COM	=======================		
+	COM			
+	COM	Insert this SSQ 6 sec before Sun center poiting.		
+	COM	This SSQ stops previous obs, moves to compromise focus, takes synoptic images, one dark and one G-band.		
+	COM	The difference with default-A is to take C/poly instead of thin-Be.		
+	COM	This version makes longer C/poly images than the other Synoptic-B SSQ.		
+	COM			
+	I&T	OBSTITLE: Synoptic		
+	I&T	TARGET: FS		
+	I&T	SCI_OBJ: FS, SYN		
+	I&T	OBS_DEC: STOP and Synoptic - Al/mesh(512/8192) + G-band(64) + Ti/poly(1024/16384) + dark cal(8192) + Al/poly(512/11571) + C/poly(1024/16384)		
+	I&T	JOIN_SB: X		
+	XRT	MDP_XRT_CTRL_MANU N		:01:38_00
+	XRT	XRT_FOCUS_POSITION -86 N		
+	XOB	51674848517F/143B (Normal) P		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

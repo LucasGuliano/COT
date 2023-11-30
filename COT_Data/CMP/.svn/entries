@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2006-11-03T13:45:22.598862Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/CMP"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   committed-rev="1"
+   name="XRTCMP.dtd"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="9ba6d91b79abb0387e9c4ca2d65a8b9a"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:19.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTCMP-0001.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="9a7cce5eb5ac2adf2e04889138f4da80"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:19.000000Z"/>
+</wc-entries>

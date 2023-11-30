@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE FLD_TBL SYSTEM "XRTFLD.dtd">
+<FLD_TBL>
+  <modified author="REEVES, Kathy" dateTime="2009-04-30T02:46:46Z" />
+  <name>2006070151-2</name>
+  <COT_info deleted="FALSE" lastUsed="2006-11-07T05:11:51Z" version="0003" locked="FALSE"
+    tag="000018CE66ED/0003" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_RBDfov hcenter="1024" vcenter="1024" width="512" height="512" />
+  <COT_FLDfov hcenter="1024" vcenter="1024" width="512" height="512" />
+  <QTIntervalFld unit="10sec">3</QTIntervalFld>
+  <FLIntervalFld unit="10sec">4</FLIntervalFld>
+  <PARM_NO_FLD unit="ParameterNo">1</PARM_NO_FLD>
+  <COT_PARM>852821A1F4F8/36E9</COT_PARM>
+  <COMP_CODE_FLD unit="CompCode">0x72b</COMP_CODE_FLD>
+  <InitialLevel unit="DNin8x8CCDpixel">4095</InitialLevel>
+  <RBHPosition unit="128CCDpixel">0</RBHPosition>
+  <RBVPosition unit="128CCDpixel">0</RBVPosition>
+  <RbThrsh unit="DNin128x128CCDpixel">0xffffffff</RbThrsh>
+  <NmThrsh unit="DNin128x128CCDpixel">0xffffffff</NmThrsh>
+  <UpperLevel unit="DNin128x128CCDpixel">700000</UpperLevel>
+  <Weight unit="1/256">2</Weight>
+  <FLThNm unit="DNin128x128CCDpixel">0x384</FLThNm>
+  <QTThNm unit="DNin128x128CCDpixel">0x190</QTThNm>
+  <FLThRb unit="DNin128x128CCDpixel">0x0</FLThRb>
+  <QTThRb unit="DNin128x128CCDpixel">0x0</QTThRb>
+  <OffsetNm unit="DNin128x128CCDpixel">1</OffsetNm>
+  <OffsetRb unit="DNin128x128CCDpixel">1</OffsetRb>
+</FLD_TBL>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x14 (1571) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="SHIMOJO, Masumi" dateTime="2009-05-20T03:00:10Z" />
+  <name>Dark  cal - Al/mesh - 1x1 -512 - Q98 - </name>
+  <COT_info deleted="FALSE" lastUsed="2009-05-20T02:58:20Z" version="2907" locked="FALSE"
+    tag="049634BC0D02/2907" COTversion="1.0x14" COTbuild="1571" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+</SEQN>

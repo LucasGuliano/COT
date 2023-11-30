@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SHIMOJO, Masumi" dateTime="2008-02-28T03:34:42Z" />
+  <name>AR DEM multi-filter program (version IIa) pls Wide FOV + 2048x512FOV strip - 1.5min cadence - frequent G-band + dark</name>
+  <COT_info deleted="FALSE" lastUsed="2008-01-10T03:29:56Z" version="149E" locked="FALSE"
+    tag="C952341CA1FB/149E" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>2</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="3">
+      <Call>3</Call>
+      <COT_SUBR>Subr-C</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="4">
+      <Call>4</Call>
+      <COT_SUBR>Subr-D</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>21</Call>
+      <COT_SEQ>6FC36F3B2093/24E5</COT_SEQ>
+      <Repeat>8</Repeat>
+      <Interval>180</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>71</Call>
+      <COT_SEQ>B43A4FE5FB6F/25ED</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>30</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>25</Call>
+      <COT_SEQ>2AE43AB3D972/24E7</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>76</Call>
+      <COT_SEQ>CD8A2EC6349A/24E8</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>80</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="5">
+      <Call>57</Call>
+      <COT_SEQ>01356961E5E7/25EB</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>50</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="6">
+      <Call>60</Call>
+      <COT_SEQ>032B73263F33/24E9</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>50</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="7">
+      <Call>14</Call>
+      <COT_SEQ>40F346845D7C/2609</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="8">
+      <Call>44</Call>
+      <COT_SEQ>D41F65F65023/25EC</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>47</Call>
+      <COT_SEQ>F58F7C105404/25DC</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>97</Call>
+      <COT_SEQ>AF801F6E4295/2643</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>18</Call>
+      <COT_SEQ>99C1393B1FC2/263C</COT_SEQ>
+      <Repeat>8</Repeat>
+      <Interval>120</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SEQ>56E757ED4A69/263D</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>30</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>1</Call>
+      <COT_SEQ>9208269D18F2/263E</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>82</Call>
+      <COT_SEQ>878849EBEDF3/263F</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>80</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="5">
+      <Call>84</Call>
+      <COT_SEQ>601B7FB3E566/2640</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>50</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="6">
+      <Call>73</Call>
+      <COT_SEQ>C9C004299110/2641</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>50</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="7">
+      <Call>90</Call>
+      <COT_SEQ>F90869EF6DB8/2642</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+</PROG>

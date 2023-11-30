@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="ISHIBASHI, Bish" dateTime="2022-03-04T08:15:52Z" />
+  <name>Al/poly+Ti/Poly (Al/poly+Thick Al) - 1x1 - 5795ms</name>
+  <COT_info deleted="FALSE" lastUsed="2022-03-14T19:49:58Z" version="3957" locked="FALSE"
+    tag="3E91064B816F/3957" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>1</FltA_L1>
+  <FltB_L1>2</FltB_L1>
+  <FltA_L2>1</FltA_L2>
+  <FltB_L2>4</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>24</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

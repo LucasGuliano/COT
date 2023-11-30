@@ -1,0 +1,31 @@
+Sequence name:	Synoptic Al/Poly(thick-Al) w/compromise focus+Dark+FLD
+Version:	004C
+Start date:	2007/01/25 00:00
+End date:	2007/01/26 00:00
+Author last name:	MCKENZIE
+Author first name:	David
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/01/25 00:47:00
+Last modified:	2007/01/25 00:47:00
+Deleted:	No
+Locked:	No
+Unique tag:	0000711272A8/004C
+COT version:	2.0x39
+COT build:	1067
+v	SEQ	SEQ:  (OP)		
+	COM	Use this for Synoptics: stops previous obs, moves to compromise focus, takes synoptic  images (and FLD test image), then stops and RETURNS to best on-axis focus.		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	XRT_FOCUS_POSITION -86 P		
+	XOB	00000675720D/1305 (Normal) N		
+	XOB	00000675720D/1305 (Flare) P		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	XRT_FOCUS_POSITION -361 P		
+	ESQ	End of sequence		
+	ESQ	End of sequence		

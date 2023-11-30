@@ -1,0 +1,24 @@
+Sequence name:	Synoptic - 3 long/short pairs
+Version:	0049
+Start date:	2006/11/22 00:00
+End date:	2006/11/23 00:00
+Author last name:	LUNDQUIST
+Author first name:	Loraine
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2006/11/22 06:15:38
+Last modified:	2006/11/22 06:15:38
+Deleted:	Yes
+Locked:	No
+Unique tag:	000011C06B98/0049
+COT version:	2.0x39
+COT build:	1067
+	XRT	MDP_XRT_CTRL_MANU P		
+	XRT	MDP_XRT_FLD_DIS P		
+	XRT	MDP_XRT_ARS_DIS P		
+	XOB	0000324ADC64/12A7 (Normal) N		
+	XOB	0000324ADC64/12A7 (Flare) P		
+	XRT	MDP_XRT_CTRL_AUTO P		
+	ESQ	End of sequence		

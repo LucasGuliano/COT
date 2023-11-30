@@ -1,0 +1,19 @@
+Sequence name:	XRT_FLD_RESET_434_OG
+Version:	0022
+Start date:	2019/02/06 00:00
+End date:	2019/02/07 00:00
+Author last name:	PRCHLIK
+Author first name:	Jakub
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	434
+Last used:	2023/11/21 02:50:45
+Last modified:	2019/02/06 02:21:54
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/0022
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_FLD_RESET P		:02:30_00
+	ESQ	End of sequence		

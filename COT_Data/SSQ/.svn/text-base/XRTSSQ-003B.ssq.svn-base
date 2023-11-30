@@ -1,0 +1,30 @@
+Sequence name:	Focus Recalibration
+Version:	003B
+Start date:	2006/06/20 00:00
+End date:	2006/06/21 00:00
+Author last name:	LUNDQUIST
+Author first name:	Loraine
+Sequence type:	OG Command plan
+S/C slot:	-01
+Last used:	2006/06/20 15:25:49
+Last modified:	2006/06/20 15:25:49
+AEC Table:	0002
+ARS Table:	0003
+CMP Table:	0001
+FLD Table:	0003
+FLT Table:	0002
+ROI Table:	0002
+Deleted:	No
+Locked:	No
+Unique tag:	1353840192
+COT version:	0.2x16
+COT build:	1048
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+	XRT	XRT_SAFEHOLD P		
+	XRT	XRT_STANDBY P		
+	XRT	XRT_DIAGNOSTIC P		
+	XRT	XRT_FOCUS_RECALIBRATE P		
+	ESQ	End of sequence		

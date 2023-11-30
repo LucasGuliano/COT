@@ -1,0 +1,34 @@
+Sequence name:	Focus Recal and Set Wide-FOV Focus
+Version:	007D
+Start date:	2007/01/27 00:00
+End date:	2007/01/28 00:00
+Author last name:	SAKAO
+Author first name:	Taro
+Yesterday plan date:	2007/09/08
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/01/27 05:58:54
+Last modified:	2017/12/11 17:28:34
+Deleted:	No
+Locked:	No
+Unique tag:	C5410A3634F5/007D
+COT version:	2.0x39
+COT build:	1067
+	COM	=======================		
+	COM	Perform Focus Recalibration followed by Wide-Field Focus Set by OP		
+	COM	=======================		
+	COM			
+	COM	2008/10/17 T.Sakao prepared		
+	COM			
+	COM	This SSQ stops previous obs, re-calibrates focus, then move to Wide-FOV (optimized) focus position.		
+	COM			
+	I&T	OBSTITLE: Focus Recal + Wide-FOV Focus		
+	I&T	OBS_DEC: Focus Recal + Wide-FOV Focus Setting		
+	I&T	JOIN_SB: X		
+	COM			
+	XRT	MDP_XRT_CTRL_MANU N		:10_00
+	XRT	XRT_FOCUS_RECALIBRATE P		
+	XRT	XRT_FOCUS_POSITION -86 N		
+	ESQ	End of sequence		

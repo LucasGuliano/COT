@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SCHANCHE, Nicole" dateTime="2014-12-11T04:15:48Z" />
+  <name>HOP221 FOXSI - multi-filter FW1 / FW2 - 4x4 - in flight use- with darks</name>
+  <COT_info deleted="FALSE" lastUsed="2014-12-11T04:14:42Z" version="1A69" locked="FALSE"
+    tag="3348495AF171/1A69" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>0</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>3</Call>
+      <COT_SUBR>Subr-C</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="3">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>600</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>22</Call>
+      <COT_SEQ>04065FD53EB2/2C0D</COT_SEQ>
+      <Repeat>2</Repeat>
+      <Interval>80</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>56</Call>
+      <COT_SEQ>DE904C40ECE3/2C0E</COT_SEQ>
+      <Repeat>2</Repeat>
+      <Interval>50</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>95</Call>
+      <COT_SEQ>CEEF481D82B0/2C0F</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>120</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>84</Call>
+      <COT_SEQ>4E456115BD5C/2C10</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>30</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="5">
+      <Call>13</Call>
+      <COT_SEQ>C2361C654CD4/2C11</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>30</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>47</Call>
+      <COT_SEQ>740147263E04/2C12</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>30</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>45</Call>
+      <COT_SEQ>4DA621F6569F/2C13</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>30</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>73</Call>
+      <COT_SEQ>7F722BE0C107/2C14</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>30</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>44</Call>
+      <COT_SEQ>876F7F25C553/2C15</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>20</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="5">
+      <Call>50</Call>
+      <COT_SEQ>59856F8DE5D4/2C16</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>40</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="6">
+      <Call>32</Call>
+      <COT_SEQ>D1886AF83255/2C17</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="7">
+      <Call>18</Call>
+      <COT_SEQ>6A076D9A5938/2C18</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>60</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="8">
+      <Call>64</Call>
+      <COT_SEQ>7D883FC9680B/2C19</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>20</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>8</Call>
+      <COT_SEQ>D3BA5D92AA08/2C77</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>24</Call>
+      <COT_SEQ>B66F5305AB48/2C37</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

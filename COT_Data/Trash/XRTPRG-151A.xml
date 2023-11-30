@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 1.0x8 (1533) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="SHIN, Junho" dateTime="2008-04-07T05:04:04Z" />
+  <name>Comp Evaluation in AR - Al/poly, Ti/poly, Thin-Be - Q=90,75,50 - bin=1x1,2x2,4x4 -- loop=5-2</name>
+  <COT_info deleted="FALSE" lastUsed="2008-04-07T05:02:59Z" version="151A" locked="FALSE"
+    tag="F97237D87A89/151A" COTversion="1.0x8" COTbuild="1533" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>5</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-1</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-1</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>94</Call>
+      <COT_SEQ>5E7D5E19CE31/26AC</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>240</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>0</Call>
+      <COT_SEQ>75733AF65A6E</COT_SEQ>
+      <Repeat>0</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>70</Call>
+      <COT_SEQ>AB6A2291A6FF/26AD</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>240</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="4">
+      <Call>83</Call>
+      <COT_SEQ>AA2A6C460CFF/26AE</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>240</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  </SUBR>
+  <SUBR NO="3">
+  </SUBR>
+  <SUBR NO="4">
+  </SUBR>
+</PROG>

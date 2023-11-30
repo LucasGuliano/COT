@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE FLD_TBL SYSTEM "XRTFLD.dtd">
+<FLD_TBL>
+  <modified author="SAVCHEVA, Antonia" dateTime="2009-06-11T02:49:22Z" />
+  <name>Pre-flare buffer test with Thin-Be</name>
+  <COT_info deleted="FALSE" lastUsed="2009-06-11T02:48:40Z" version="000E" locked="FALSE"
+    tag="FAB2027FCE55/000E" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_RBDfov hcenter="1024" vcenter="1024" width="384" height="384" />
+  <COT_FLDfov hcenter="1024" vcenter="1024" width="1024" height="1024" />
+  <QTIntervalFld unit="10sec">12</QTIntervalFld>
+  <FLIntervalFld unit="10sec">12</FLIntervalFld>
+  <PARM_NO_FLD unit="ParameterNo">43</PARM_NO_FLD>
+  <COT_PARM>852821A1F4F8/36E9</COT_PARM>
+  <COMP_CODE_FLD unit="CompCode">0x328</COMP_CODE_FLD>
+  <InitialLevel unit="DNin8x8CCDpixel">400</InitialLevel>
+  <RBHPosition unit="128CCDpixel">15</RBHPosition>
+  <RBVPosition unit="128CCDpixel">0</RBVPosition>
+  <RbThrsh unit="DNin128x128CCDpixel">0x31510</RbThrsh>
+  <NmThrsh unit="DNin128x128CCDpixel">0x31128</NmThrsh>
+  <UpperLevel unit="DNin128x128CCDpixel">2200000</UpperLevel>
+  <Weight unit="1/256">32</Weight>
+  <FLThNm unit="DNin128x128CCDpixel">0x9c40</FLThNm>
+  <QTThNm unit="DNin128x128CCDpixel">0x2710</QTThNm>
+  <FLThRb unit="DNin128x128CCDpixel">0x9c40</FLThRb>
+  <QTThRb unit="DNin128x128CCDpixel">0x2710</QTThRb>
+  <OffsetNm unit="DNin128x128CCDpixel">1</OffsetNm>
+  <OffsetRb unit="DNin128x128CCDpixel">1</OffsetRb>
+</FLD_TBL>

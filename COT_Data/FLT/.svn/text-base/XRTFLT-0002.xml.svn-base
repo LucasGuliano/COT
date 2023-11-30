@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE FLT_TBL SYSTEM "XRTFLT.dtd">
+<FLT_TBL>
+  <modified author="WEBER, Mark" dateTime="2006-06-16T14:30:08Z" />
+  <name>2006070151-2</name>
+  <COT_info deleted="FALSE" lastUsed="2006-08-30T10:36:01Z" version="0002" locked="FALSE"
+    tag="1075215139" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>-1</COT_slot>
+  <RD name="A1" unit="(1/16)MdpExposureNumber">0</RD>
+  <RD name="A2" unit="(1/16)MdpExposureNumber">8</RD>
+  <RD name="A3" unit="(1/16)MdpExposureNumber">24</RD>
+  <RD name="A4" unit="(1/16)MdpExposureNumber">60</RD>
+  <RD name="A5" unit="(1/16)MdpExposureNumber">128</RD>
+  <RD name="A6" unit="(1/16)MdpExposureNumber">179</RD>
+  <RD name="B1" unit="(1/16)MdpExposureNumber">0</RD>
+  <RD name="B2" unit="(1/16)MdpExposureNumber">1</RD>
+  <RD name="B3" unit="(1/16)MdpExposureNumber">51</RD>
+  <RD name="B4" unit="(1/16)MdpExposureNumber">0</RD>
+  <RD name="B5" unit="(1/16)MdpExposureNumber">265</RD>
+  <RD name="B6" unit="(1/16)MdpExposureNumber">371</RD>
+</FLT_TBL>

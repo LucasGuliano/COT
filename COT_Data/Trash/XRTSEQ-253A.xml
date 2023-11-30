@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x14 (1312) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="MASUDA, Satoshi" dateTime="2007-09-03T06:57:42Z" />
+  <name>Polar Plume - Al/Poly - 1024x384 - ROI-polar - 16s </name>
+  <COT_info deleted="FALSE" lastUsed="2007-09-03T06:57:42Z" version="253A" locked="FALSE"
+    tag="4D6014DAADEA/253A" COTversion="0.9x14" COTbuild="1312" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>89</PARM_NO>
+    <COT_PARM>00001AB99241/351E</COT_PARM>
+    <REGN_NO>9</REGN_NO>
+    <COT_fov preflare="false" hcenter="1024" vcenter="1024" width="1024" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>60</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

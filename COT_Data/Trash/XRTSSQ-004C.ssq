@@ -1,0 +1,33 @@
+Sequence name:	Synoptic Al/poly(thick-Al) w/compromise focus+Dark+FLD
+Version:	004C
+Start date:	2006/12/05 00:00
+End date:	2006/12/06 00:00
+Author last name:	MCKENZIE
+Author first name:	David
+Sequence type:	OP Command plan
+S/C slot:	-01
+Last used:	2006/12/05 05:37:59
+Last modified:	2006/12/05 05:37:59
+AEC Table:	1187191162
+ARS Table:	1350594549
+CMP Table:	1332123528
+FLD Table:	617280709
+FLT Table:	1075215139
+ROI Table:	1835803070
+Deleted:	No
+Locked:	No
+Unique tag:	649833131
+COT version:	0.2x19
+COT build:	1067
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+	XRT	MDP_XRT_CTRL_MANU P		
+	COM			
+	XOB	108360205 (Normal) N		
+	XOB	108360205 (Normal) N		
+	XRT	MDP_XRT_FLD_DIS P		
+	XRT	MDP_XRT_ARS_DIS P		
+	XRT	MDP_XRT_CTRL_AUTO P		
+	ESQ	End of sequence		

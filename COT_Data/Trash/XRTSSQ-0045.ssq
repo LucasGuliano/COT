@@ -1,0 +1,30 @@
+Sequence name:	IT for Synoptics
+Version:	0045
+Start date:	2006/11/14 00:00
+End date:	2006/11/15 00:00
+Author last name:	LUNDQUIST
+Author first name:	Loraine
+Sequence type:	OP Command plan
+S/C slot:	-01
+Last used:	2006/11/14 12:33:20
+Last modified:	2006/11/14 12:33:20
+AEC Table:	1187191162
+ARS Table:	1350594549
+CMP Table:	1332123528
+FLD Table:	165642366
+FLT Table:	1075215139
+ROI Table:	1835803070
+Deleted:	No
+Locked:	No
+Unique tag:	1612367636
+COT version:	0.2x22
+COT build:	1067
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+	I&T	OBSTITLE: Short Synoptic		
+	I&T	TARGET: QR		
+	I&T	JOIN_SB: X		
+	I&T	OBS_DEC: Full sun images taken twice daily.		
+	ESQ	End of sequence		

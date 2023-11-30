@@ -1,0 +1,58 @@
+Sequence name:	STOP and CAL (DIS-DIS-DIS) - low data rate (PART1 with focus recal)
+Version:	0070
+Start date:	2007/01/27 00:00
+End date:	2007/01/28 00:00
+Author last name:	FARID
+Author first name:	Samaiyah
+Yesterday plan date:	2007/09/08
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/01/27 05:58:54
+Last modified:	2007/01/27 05:58:54
+Deleted:	No
+Locked:	No
+Unique tag:	A2F97EB36363/0070
+COT version:	2.0x39
+COT build:	1067
+	COM	=======================		
+	COM	For XRT calibration in 3 hours during EIS sensitivity check.		
+	COM	=======================		
+	COM			
+	COM	2007/11/26 RK: prepared		
+	COM	2007/11/28 RK: flip part-1 and -2		
+	COM	2008/01/19 ARS is disabled and the synoptic is simplified in order to save the data rate		
+	COM	2008/01/26 DONOT USE FOR NORMAL EIS CALIBRATION		
+	COM	This SSQ stops previous obs, re-calibrates focus, moves to best-on-axis focus, takes diffusers and darks, and runs the multi-filter full-disk observtion.		
+	COM			
+	COM	Start this SSQ during non-SAA period.		
+	COM	It takes 3 hours to run this SSQ in total.		
+	COM			
+	COM			
+	COM	** Settings for MDP functions **		
+	COM	  ARS patrol: DIS		
+	COM	  FLD patrol: DIS		
+	COM	  FLRCTL: DIS		
+	COM			
+	COM			
+	COM			
+	COM			
+	COM	---- PART 1 ----		
+	COM	It takes 20 minutes to run this part, based on an experience.		
+	COM			
+	I&T	OBSTITLE: Focus recalibration and Synoptic with multi-filters in FW1 and FW2		
+	I&T	TARGET: FS		
+	I&T	SCI_OBJ: FS, SYN		
+	I&T	OBS_DEC: Synoptic - Al/mesh (256/4096) + G-band(64) + Ti/poly (512/8192) + Dark cal (8192) + Al/poly(256/5796) + C/poly(512/8192) (147B)		
+	I&T	JOIN_SB: X		
+	XRT	MDP_XRT_CTRL_MANU P		:01:38_00
+	XRT	XRT_FOCUS_RECALIBRATE P		
+	XRT	XRT_FOCUS_POSITION -86 P		
+	XOB	864005509CC6/147B (Normal) P		
+	XRT	MDP_XRT_ARS_DIS P		
+	XRT	MDP_XRT_FLD_DIS P		
+	XRT	MDP_XRT_FLRCTRL_DIS P		
+	XRT	MDP_XRT_CTRL_AUTO P		:20:00_00
+	COM			
+	ESQ	End of sequence		

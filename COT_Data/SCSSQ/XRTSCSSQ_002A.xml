@@ -1,0 +1,19 @@
+Sequence name:	XRT_FOCUS_POSITION_442_OG
+Version:	002A
+Start date:	2023/11/08 00:00
+End date:	2023/11/09 00:00
+Author last name:	VELASQUEZ
+Author first name:	Joy
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	442
+Last used:	2023/11/08 02:46:12
+Last modified:	2023/11/08 02:46:12
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/002A
+COT version:	2.0x39
+COT build:	2080
+	XRT	XRT_FOCUS_POSITION -361 P		
+	ESQ	End of sequence		

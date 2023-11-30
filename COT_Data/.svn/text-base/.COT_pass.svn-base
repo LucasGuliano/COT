@@ -1,0 +1,37 @@
+// Password file for XRT COT application. At the time of this writing, no username/
+// password enables all privileges, but this will change later to allow only
+// viewing, as shown in the commented line. The passwords can be changed to
+// something more appropriate.
+//
+// Username	Lastname	Firstname	Passwd	Loc		Privileges
+,			,			,			,		SAO,	TLEditLocked+ObsEditLocked	// Turn on everything for debug
+//,			,			,			,		SAO,							// Default is view only
+edeluca,	DELUCA,		Ed,			sao,	SAO,	TLEditLocked+ObsEditLocked
+mweber,		WEBER,		Mark,		sao,	SAO,	TLEditLocked+ObsEditLocked
+jcirtain,	CIRTAIN,	Jonathan,	sao,	SAO,	TLEditLocked+ObsEditLocked
+llundquist,	LUNDQUIST,	Loraine,	sao,	SAO,	TLEditLocked+ObsEditLocked
+kreeves,	REEVES,		Kathy,		sao,	SAO,	TLEditLocked+ObsEditLocked
+tkent,		KENT,		Tom,		sao,	SAO,	TLEditLocked+ObsEditLocked
+gguth,		GUTH,		Giora,		sao,	SAO,	TLEditLocked+ObsEditLocked
+gguthrw,	GUTH,		Giora,		sao,	SAO,	TLEditUnlocked+ObsEditUnlocked // For debug
+nnarukage,	NARUKAGE,	Noriyuki,	isas,	ISAS,	TLEditLocked+ObsEditLocked
+tsakao,		SAKAO,		Taro,		isas,	ISAS,	TLEditLocked+ObsEditLocked
+rkano,		KANO,		Ryouhei,	isas,	ISAS,	TLEditLocked+ObsEditLocked
+// The following are examples of users who have the privileges to edit timelines
+// only or observation tables only
+timeline,	,			,			,		SAO,	TLEditLocked		// Timelines only
+obstable,	,			,			,		SAO,	ObsEditLocked		// Obs tables only
+//
+// The Lastname and Firstname fields are used to set the author of an object when it
+// is edited. The Loc field is set in new command plans to indicate the original
+// location at which the plan was created.
+//
+// Defs:
+// (No TL):         Timelines (command plans and saved sequences) may be viewed,
+//                  but not edited.
+// TLEditUnlocked:  User can edit unlocked timelines.
+// TLEditLocked:    User can unlock and edit all timelines.
+// (No Obs):        Observation tables may be viewed, but not edited
+// ObsEditUnlocked: User can edit unlocked obs tables
+// ObsEditLocked:   User can unlock and edit all obs tables
+

@@ -1,0 +1,28 @@
+Sequence name:	Dither_obs_defocused_Al-mesh_Ti-poly_long-short_3min-completion
+Version:	009D
+Start date:	2009/04/08 00:00
+End date:	2009/04/09 00:00
+Author last name:	MCKENZIE
+Author first name:	David
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2009/04/08 18:08:54
+Last modified:	2020/06/15 05:14:39
+Deleted:	No
+Locked:	No
+Unique tag:	49756F9FF37B/009D
+COT version:	2.0x39
+COT build:	1571
+	COM	For dither pointing observations with Ti-poly and Al-mesh filters.  Defocused, and with minimal wait-time.		
+	COM	The SSQ starts the observations just 1m38s after the initial CTRL_MANU.  Start to finish, completes in less than 3 minutes.		
+	XRT	MDP_XRT_CTRL_MANU N		:02_00
+	COM	Now change the focus, to make the coronal features less sharp than the contamination spots		
+	XRT	XRT_FOCUS_POSITION -2002 N		:01:28_00
+	XOB	6192213A5237/177C (Normal) P		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

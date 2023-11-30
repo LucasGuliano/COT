@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="ISHIBASHI, Bish" dateTime="2008-11-26T06:13:59Z" />
+  <name>Med-Be - 1x1 - 8192ms</name>
+  <COT_info deleted="FALSE" lastUsed="2008-11-26T06:13:31Z" version="37A6" locked="FALSE"
+    tag="C62219F7E09E/37A6" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>4</FltA_L1>
+  <FltB_L1>0</FltB_L1>
+  <FltA_L2>4</FltA_L2>
+  <FltB_L2>0</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>0</ImageType>
+  <Exposure>25</Exposure>
+  <Calibration>0</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

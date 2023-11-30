@@ -1,0 +1,19 @@
+Sequence name:	XRT_FOCUS_POSITION_417_OG
+Version:	0011
+Start date:	2023/09/19 00:00
+End date:	2023/09/20 00:00
+Author last name:	VELASQUEZ
+Author first name:	Joy
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	417
+Last used:	2023/11/21 02:50:45
+Last modified:	2023/09/19 02:17:54
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/0011
+COT version:	2.0x39
+COT build:	2080
+	XRT	XRT_FOCUS_POSITION -86 N		:02:56_00
+	ESQ	End of sequence		

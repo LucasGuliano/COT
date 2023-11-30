@@ -1,0 +1,21 @@
+Sequence name:	XRT_BAD_PHOTO_EXIT
+Version:	009B
+Start date:	2007/05/05 00:00
+End date:	2007/05/06 00:00
+Author last name:	KOBELSKI
+Author first name:	Adam
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/05/05 02:26:45
+Last modified:	2023/07/17 02:28:45
+Deleted:	No
+Locked:	No
+Unique tag:	B8172B2BDB5D/009B
+COT version:	2.0x39
+COT build:	1277
+	COM	insert ctrl_auto upon BAD_PHOTO_EXIT		
+	XRT	Custom NULL_DUMMY_CMD P		:01:00_00
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

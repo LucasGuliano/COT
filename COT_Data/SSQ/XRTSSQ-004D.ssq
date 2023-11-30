@@ -1,0 +1,22 @@
+Sequence name:	STOP and Return to best on-axis focus
+Version:	004D
+Start date:	2007/01/25 00:00
+End date:	2007/01/26 00:00
+Author last name:	MCKENZIE
+Author first name:	David
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/01/25 00:53:42
+Last modified:	2007/01/25 00:53:42
+Deleted:	No
+Locked:	No
+Unique tag:	00007251ECD3/004D
+COT version:	2.0x39
+COT build:	1067
+v	SEQ	SEQ:  (OP)		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	XRT_FOCUS_POSITION -361 N		
+	ESQ	End of sequence		
+	ESQ	End of sequence		

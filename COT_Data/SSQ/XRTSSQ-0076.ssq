@@ -1,0 +1,39 @@
+Sequence name:	CCD Heater Turn On for Bakeout--OP_SSQ-old
+Version:	0076
+Start date:	2008/03/03 00:00
+End date:	2008/03/04 00:00
+Author last name:	CIRTAIN
+Author first name:	Jonathan
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2008/03/03 01:05:03
+Last modified:	2009/10/01 09:56:41
+Deleted:	No
+Locked:	No
+Unique tag:	BB3326E78BFB/0076
+COT version:	2.0x39
+COT build:	1457
+	COM	=======================		
+	COM	Pre-Bakeout IMGS and XRT Bakeout Heater ON		
+	COM	=======================		
+	COM			
+	COM	Insert this SSQ 3 minutes prior to Bakeout ON scheduled time and during a Sun center poiting.		
+	COM	The following XOB will take 2 Al-mesh + 1 G-band Evaluation images prior to the bakeout heater ON. The final position for the filters is FW1=0; FW2=5.		
+	I&T	INSTRUME: XRT		
+	I&T	SCI_OBJ: FS		
+	I&T	TARGET: FS		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	XRT_FOCUS_POSITION -86 N		
+	XOB	A14369634183/14EF (Normal) N		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		:04:00_00
+	I&T	INSTRUME: XRT		
+	I&T	OBSTITLE: XRT Bakeout START		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	XRT_STANDBY N		
+	XRT	TCIB_XRT_S_HTR_A_ENA N		
+	ESQ	End of sequence		

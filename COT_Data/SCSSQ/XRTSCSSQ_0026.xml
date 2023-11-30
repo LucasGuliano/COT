@@ -1,0 +1,19 @@
+Sequence name:	XRT_QT_PROG_SET_438_OG
+Version:	0026
+Start date:	2023/09/30 00:00
+End date:	2023/10/01 00:00
+Author last name:	GULIANO
+Author first name:	Lucas
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	438
+Last used:	2023/11/21 02:50:45
+Last modified:	2023/09/30 02:02:10
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/0026
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_QT_PROG_SET 6 P		
+	ESQ	End of sequence		

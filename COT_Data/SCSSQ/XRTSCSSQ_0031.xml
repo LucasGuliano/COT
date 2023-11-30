@@ -1,0 +1,19 @@
+Sequence name:	XRT_FLRCTRL_DIS_449_OG
+Version:	0031
+Start date:	2022/04/23 00:00
+End date:	2022/04/24 00:00
+Author last name:	SUAREZ
+Author first name:	Crisel
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	449
+Last used:	2023/11/21 02:50:45
+Last modified:	2022/04/23 04:06:13
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/0031
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_FLRCTRL_DIS P		
+	ESQ	End of sequence		

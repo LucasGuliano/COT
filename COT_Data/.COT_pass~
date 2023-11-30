@@ -1,0 +1,61 @@
+// Password file for XRT COT application. At the time of this writing, no username/
+// password enables all privileges, but this will change later to allow only
+// viewing, as shown in the commented line. The passwords can be changed to
+// something more appropriate.
+//
+// Username	Lastname	Firstname	Passwd	Loc		Privileges
+,			,			,			,		SAO,	TLEditLocked+ObsEditLocked	// Turn on everything for debug
+//,			,			,			,		SAO,							// Default is view only
+edeluca,	DELUCA,		Ed,			sao,	SAO,	TLEditLocked+ObsEditLocked
+mweber,		WEBER,		Mark,		sao,	SAO,	TLEditLocked+ObsEditLocked
+kreeves,	REEVES,		Kathy,		sao,	SAO,	TLEditLocked+ObsEditLocked
+tkent,		KENT,		Tom,		sao,	SAO,	TLEditLocked+ObsEditLocked
+gguth,		GUTH,		Giora,		sao,	SAO,	TLEditLocked+ObsEditLocked
+gguthrw,	GUTH,		Giora,		sao,	SAO,	TLEditUnlocked+ObsEditUnlocked // For debug
+nnarukage,	NARUKAGE,	Noriyuki,	isas,	ISAS,	TLEditLocked+ObsEditLocked
+tsakao,		SAKAO,		Taro,		isas,	ISAS,	TLEditLocked+ObsEditLocked
+rkano,		KANO,		Ryouhei,	isas,	ISAS,	TLEditLocked+ObsEditLocked
+mshimojo,	SHIMOJO,	Masumi,		isas,	ISAS,	TLEditLocked+ObsEditLocked
+tbando,		BANDO,		Takamasa,	isas,	ISAS,	TLEditLocked+ObsEditLocked
+knishida,	NISHIDA,	Keisuke,	kyoto,	KYOTO,	TLEditLocked+ObsEditLocked
+tmatsumoto,	MATSUMOTO,	Takuma,		kyoto,	KYOTO,	TLEditLocked+ObsEditLocked
+bish,		Ishibashi,	Bish,		sao,	NWRA,	TLEditLocked+ObsEditLocked
+masuda,		Masuda, 	Satoshi,	ste,	NAGOYA, TLEditLocked+ObsEditLocked
+minoshim,	Minoshima,	Takashi,	ste,	NAGOYA,	TLEditLocked+ObsEditLocked
+ptesta,         TESTA,          Paola,          sao,    SAO,    TLEditLocked+ObsEditLocked
+atakeda,	Takeda,		Aki,		msu,    MSU,    TLEditLocked+ObsEditLocked
+kyoshimura,	Yoshimura,	Keiji,		msu,    MSU,    TLEditLocked+ObsEditLocked
+tgoto,          Goto,           Tomoko,         ste,    NAGOYA, TLEditLocked+ObsEditLocked
+tyasuda,	YASUDA,		Tatsuki,	isas,	ISAS,	TLEditLocked+ObsEditLocked
+sishikawa,      ISHIKAWA,       Shin-nosuke,    isas,   ISAS,   TLEditLocked+ObsEditLocked
+kkaneda,        KANEDA,         Kazutaka,       isas,   ISAS,   TLEditLocked+ObsEditLocked
+kiwai,          IWAI,           Kazumasa,       isas,   ISAS,   TLEditLocked+ObsEditLocked
+jprchlik,       PRCHLIK,        Jakub,          sao,    SAO,    TLEditLocked+ObsEditLocked
+sfarid,         FARID,          Samaiyah,       sao,    SAO,    TLEditLocked+ObsEditLocked
+cmoore,         MOORE,          Christopher,    sao,    SAO,    TLEditLocked+ObsEditLocked
+lguliano,       GULIANO,        Lucas,          sao,    SAO,    TLEditLocked+ObsEditLocked
+hyoshitake,     YOSHITAKE,      Harunobu,       isas,   ISAS,   TLEditLocked+ObsEditLocked
+jvelasquez,     VELASQUEZ,      Joy,            sao,    SAO,    TLEditLocked+ObsEditLocked
+csuarez,        SUAREZ,         Crisel,         sao,    SAO,    TLEditLocked+ObsEditLocked
+ytezuka,	TEZUKA,		Yuuki,		isas,	ISAS,	TLEditLocked+ObsEditLocked
+yakura,		YAKURA,		Masaya,		ste,	NAGOYA,	TLEditLocked+ObsEditLocked
+keitaro,	MATSUMOTO,	Keitaro,	ste,	NAGOYA,	TLEditLocked+ObsEditLocked
+rfleming,       FLEMING,        Rhiannon,       msu,    MSU,    TLEditLocked+ObsEditLocked
+// The following are examples of users who have the privileges to edit timelines
+// only or observation tables only
+timeline,	,			,			,		SAO,	TLEditLocked		// Timelines only
+obstable,	,			,			,		SAO,	ObsEditLocked		// Obs tables only
+//
+// The Lastname and Firstname fields are used to set the author of an object when it
+// is edited. The Loc field is set in new command plans to indicate the original
+// location at which the plan was created.
+//
+// Defs:
+// (No TL):         Timelines (command plans and saved sequences) may be viewed,
+//                  but not edited.
+// TLEditUnlocked:  User can edit unlocked timelines.
+// TLEditLocked:    User can unlock and edit all timelines.
+// (No Obs):        Observation tables may be viewed, but not edited
+// ObsEditUnlocked: User can edit unlocked obs tables
+// ObsEditLocked:   User can unlock and edit all obs tables
+

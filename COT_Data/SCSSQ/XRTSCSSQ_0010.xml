@@ -1,0 +1,19 @@
+Sequence name:	XRT_QT_PROG_SET_416_OG
+Version:	0010
+Start date:	2023/04/06 00:00
+End date:	2023/04/07 00:00
+Author last name:	FLEMING
+Author first name:	Rhiannon
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	416
+Last used:	2023/11/21 02:50:45
+Last modified:	2023/04/06 02:52:19
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/0010
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_QT_PROG_SET 17 P		
+	ESQ	End of sequence		

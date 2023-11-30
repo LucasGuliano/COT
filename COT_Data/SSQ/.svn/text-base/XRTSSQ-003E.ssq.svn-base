@@ -1,0 +1,60 @@
+Sequence name:	XRT Commands List
+Version:	003E
+Start date:	2006/05/23 00:00
+End date:	2006/05/24 00:00
+Author last name:	KENT
+Author first name:	Tom
+Sequence type:	OP Command plan
+S/C slot:	-01
+Last used:	2006/06/12 12:56:06
+Last modified:	2006/06/12 12:56:06
+AEC Table:	0001
+ARS Table:	0001
+CMP Table:	0001
+FLD Table:	0001
+FLT Table:	0001
+ROI Table:	0002
+Deleted:	No
+Locked:	No
+Unique tag:	2061561292
+COT version:	0.2x16
+COT build:	1048
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+	I&T	INSTRUME: XRT		
+v	SEQ	: XRT Commands (Real)		
+	XRT	XRT_DOOR_ENABLE P		
+	XRT	XRT_DOOR_OPERATE_A 207 P		
+	XRT	XRT_DOOR_OPERATE_B 205 P		
+	XRT	XRT_FOCUS_ENA/DIS Enable P		
+	XRT	XRT_FOCUS_POSITION 444 P		
+	XRT	XRT_FOCUS_RECALIBRATE P		
+	XRT	XRT_FOCUS_STEPS -5000 P		
+	XRT	XRT_MEMORY_DUMP 0 256 P		
+	XRT	XRT_VLS_ENA/DIS Enable P		
+	XRT	XRT_VLS_STEPS 34 P		
+	XRT	XRT_STATUS_MODE_SET Normal P		
+	XRT	XRT_S/W_SEL_&_RESET SoftwareEEPROMSlot2 DataEEPROMSlot3 P		
+	XRT	XRT_S/W_SET_DEFAULT SoftwareEEPROMSlot3 DataEEPROMSlot1 P		
+	XRT	XRT_STANDBY P		
+	XRT	XRT_OPERATIONS P		
+	XRT	XRT_DIAGNOSTIC P		
+	XRT	XRT_CRITICALCMD P		
+	XRT	XRT_SAFEHOLD P		
+	XRT	XRT_MAINTENANCE P		
+	XRT	XRT_BAKEOUT P		
+	XRT	MDP_XRT_CTRL_MANU P		
+	XRT	MDP_UPLOAD_XRTTBL P		
+	XRT	MDP_DUMP_XRTTBL 0 0 0 0 0 P		
+	XRT	MDP_XRT_ROI_SET 1 4 4 8 8 P		
+	XRT	MDP_XRT_QT_PROG_SET 7 P		
+	XRT	MDP_XRT_FL_PROG_SET 5 P		
+	XRT	MDP_XRT_AEC_RESET P		
+	XRT	MDP_XRT_ARS_ENA P		
+	XRT	MDP_XRT_ARS_DIS P		
+	COM			
+	ESQ	End of sequence		
+	COM			
+	ESQ	End of sequence		

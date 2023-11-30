@@ -1,0 +1,32 @@
+Sequence name:	STOP and Synoptic Al/Poly+open - Al/Poly+Ti/Poly - Dark Cal long exp
+Version:	0055
+Start date:	2007/04/21 00:00
+End date:	2007/04/22 00:00
+Author last name:	REEVES
+Author first name:	Kathy
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/04/21 06:26:53
+Last modified:	2010/12/01 07:41:51
+Deleted:	No
+Locked:	No
+Unique tag:	00006101A8C5/0055
+COT version:	2.0x39
+COT build:	1067
+	COM	Insert this SSQ for Synoptics 6 sec before Sun center poiting: stops previous obs, moves to compromise focus, takes synoptic  images and one dark.		
+	I&T	OBSTITLE: Synoptic		
+	I&T	TARGET: FS		
+	I&T	SCI_OBJ: FS, SYN		
+	I&T	OBS_DEC: Synoptic Al/Poly+open - Al/Poly+Ti/Poly - Dark cal- long exp		
+	I&T	JOIN_SB: X		
+	XRT	MDP_XRT_CTRL_MANU N		:01:38_00
+	XRT	XRT_FOCUS_POSITION -86 N		
+	XOB	000036E9B94E/136A (Normal) P		
+	XOB	000036E9B94E/136A (Flare) N		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

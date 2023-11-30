@@ -1,0 +1,37 @@
+Sequence name:	STOP and Synoptic (default Q50)
+Version:	0073
+Start date:	2007/01/27 00:00
+End date:	2007/01/28 00:00
+Author last name:	BANDO
+Author first name:	Takamasa
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/01/27 05:58:54
+Last modified:	2007/01/27 05:58:54
+Deleted:	No
+Locked:	No
+Unique tag:	426D349C6D10/0073
+COT version:	2.0x39
+COT build:	1067
+	COM	=======================		
+	COM	For low rate Synoptic with Q=50.		
+	COM	=======================		
+	COM			
+	COM	Insert this SSQ 6 sec before Sun center poiting.		
+	COM	This SSQ stops previous obs, moves to compromise focus, takes synoptic images, no dark and no G-band.		
+	COM			
+	I&T	OBSTITLE: Synoptic		
+	I&T	TARGET: FS		
+	I&T	SCI_OBJ: FS, SYN		
+	I&T	OBS_DEC: STOP and Synoptic - Ti/poly(1024/11571) + Al/poly(512/11571)		
+	I&T	JOIN_SB: X		
+	XRT	MDP_XRT_CTRL_MANU N		:01:38_00
+	XRT	XRT_FOCUS_POSITION -86 N		
+	XOB	A493308FFE2E/14CC (Normal) P		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

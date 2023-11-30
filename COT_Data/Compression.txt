@@ -1,0 +1,104 @@
+// This table expresses compression table average values as a function of Q,
+// filter, and observation target. It is used to improve the accuracy of the
+// size estimate for exposures. DO NOT CHANGE these values unless you are
+// sure about what you are doing.
+//
+// This table has a line for each observation target (AR, CH, QR, or FS) and
+// each filter. Missing target/filter combinations default to the current CMP
+// table. Each line specifies the average compression for each Q value. A value of
+// 0 defaults to the CMP table value. Values are tab-separated.
+//
+// Example:
+// //T 	Filter 	100	DPCM 98	95	92	90	85	75	65	50
+// AR	Thin-Al/Polyimide	12.	6.0	4.7	3.4	2.7	2.4	1.9	1.3	0	0
+// specifies that an active region target and an Thin-Al/Polyimide filter should use the
+// specified values for Q=100, 98, 95, 92, 90, 95 or 75, and should use the CMP
+// table values for Q=65 or 50.
+// 
+// Rather than specifying a row of compression values, they may be expressed as
+// a filter followed by a sum of products of the form:
+// f t*w+t*w ...
+// where f is a filter name, t is a target or 'CMP' for the CMP table value, and w is
+// a weighting factor of 0-1. f is optional, and defaults to the current filter.
+//
+// For example:
+// FS	Thick-Be	Medium-Be AR * 0.75 + QR * 0.25
+// calculates the compression for each full sun Thick-Be Q value using 75% of the
+// corresponding Medium-Be AR value plus 25% of the Medium-Be QR value. The 'CMP'
+// target uses the value from the CMP table. E.g.
+// FS	Thin-Be	CMP
+// Uses the CMP table values for the full sun thin-Be filter.
+// or
+// FS	Thin-Be	CMP * 0.9 + QR * 0.1
+// takes 90% from the CMP table and 10% from the Thin-Be filter's QR value.
+//
+// If you specify a sum-of-products expression for a target/filter, it applies to
+// ALL Q values for that combination.
+//
+// The parser is simplistic, and will only recognize a sum-of-products format.
+// If you supply a filter type without weighting, values are copied:
+// FS	Thick-Be	Thin-Be
+// uses the same compression values for thick-Be as for thin-Be
+// 
+// If you omit a target/filter combination, the CMP values are used.
+//
+// IMPORTANT: Values for filters that are derived from other values must follow
+// the values they are derived from.
+//
+//T Filter 				100		DPCM 98	95	92	90	85	75	65	50
+
+AR	Thin-Al/Polyimide	12.0	6.0	4.7	3.4	2.7	2.4	1.9	1.3	1.1	0.8
+CH	Thin-Al/Polyimide	12.0	5.2	3.5	2.3	1.6	1.4	1.0	0.7	0.5	0.3
+QR	Thin-Al/Polyimide	12.0	5.3	3.8	2.6	1.8	1.6	1.2	0.8	0.6	0.4
+FS	Thin-Al/Polyimide	AR * 0.75 + QR * 0.25
+
+AR	C/Poly	12.0	6.0	4.7	3.4	2.7	2.4	1.9	1.3	1.1	0.8
+CH	C/Poly	12.0	5.1	3.5	2.3	1.6	1.4	1.0	0.6	0.5	0.3
+QR	C/Poly	12.0	5.2	3.7	2.5	1.7	1.5	1.1	0.7	0.6	0.4
+FS	C/Poly	AR * 0.75 + QR * 0.25
+
+AR	Medium-Be	12.0	5.5	3.9	2.7	2.0	1.8	1.3	0.9	0.7	0.5
+CH	Medium-Be	12.0	4.9	2.6	1.5	1.1	1.0	0.6	0.3	0.2	0.2
+QR	Medium-Be	12.0	4.9	2.6	1.5	1.1	1.0	0.6	0.3	0.2	0.2
+FS	Medium-Be	AR * 0.75 + QR * 0.25
+
+AR	Thin-Be	12.0	6.0	4.5	3.3	2.6	2.3	1.8	1.3	1.0	0.7
+CH	Thin-Be	12.0	5.0	3.1	1.9	1.3	1.2	0.8	0.5	0.3	0.2
+QR	Thin-Be	12.0	5.0	3.1	1.9	1.4	1.2	0.8	0.5	0.3	0.2
+FS	Thin-Be	AR * 0.75 + QR * 0.25
+
+// Open slots aren't yet specified; default to CMP table
+AR	Open	CMP
+CH	Open	CMP
+QR	Open	CMP
+FS	Open	CMP
+
+AR	Medium-Al	Medium-Be	AR
+CH	Medium-Al	Medium-Be	CH
+QR	Medium-Al	Medium-Be	QR
+FS	Medium-Al	Medium-Be	FS
+
+AR	Thin-Al/Mesh	Thin-Al/Polyimide	AR
+CH	Thin-Al/Mesh	Thin-Al/Polyimide	CH
+QR	Thin-Al/Mesh	Thin-Al/Polyimide	QR
+FS	Thin-Al/Mesh	Thin-Al/Polyimide	FS
+
+AR	Ti/Polyimide	C/Poly	AR
+CH	Ti/Polyimide	C/Poly	CH
+QR	Ti/Polyimide	C/Poly	QR
+FS	Ti/Polyimide	C/Poly	FS
+
+AR	G-band	Thin-Al/Polyimide	AR
+CH	G-band	Thin-Al/Polyimide	CH
+QR	G-band	Thin-Al/Polyimide	QR
+FS	G-band	Thin-Al/Polyimide	FS
+
+AR	Thick-Al	Medium-Be	AR
+CH	Thick-Al	Medium-Be	CH
+QR	Thick-Al	Medium-Be	QR
+FS	Thick-Al	Medium-Be	FS
+
+AR	Thick-Be	Medium-Be	AR
+CH	Thick-Be	Medium-Be	CH
+QR	Thick-Be	Medium-Be	QR
+FS	Thick-Be	Medium-Be	FS

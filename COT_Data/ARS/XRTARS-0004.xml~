@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x16 (1048) -->
+<!DOCTYPE ARS_TBL SYSTEM "XRTARS.dtd">
+<ARS_TBL>
+  <modified author="REEVES, Kathy" dateTime="2006-11-02T06:45:51Z" />
+  <name>ARS_table_test</name>
+  <COT_info deleted="FALSE" lastUsed="2006-11-02T06:45:51Z" version="0004" locked="FALSE"
+    tag="1350594549" COTversion="0.2x16" COTbuild="1048" />
+  <COT_slot>-1</COT_slot>
+  <PARM_NO_ARS   unit="ParameterNo">0</PARM_NO_ARS>
+  <COT_PARM >349B</COT_PARM>
+  <COMP_CODE_ARS unit="CompCode">0x0328</COMP_CODE_ARS>
+  <IntervalArs   unit="20sec">6</IntervalArs>
+  <GB            unit="DNin128x128CCDpixel">2560</GB>
+  <HStartArs     unit="128CCDpixel">0</HStartArs>
+  <VStartArs     unit="128CCDpixel">0</VStartArs>
+  <HEndArs       unit="128CCDpixel">0</HEndArs>
+  <VEndArs       unit="128CCDpixel">0</VEndArs>
+  <Size1Search   unit="128CCDpixel">0</Size1Search>
+  <Size2Search   unit="128CCDpixel">0</Size2Search>
+  <Size3Search   unit="128CCDpixel">0</Size3Search>
+</ARS_TBL>

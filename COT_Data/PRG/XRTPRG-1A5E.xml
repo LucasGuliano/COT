@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PROG SYSTEM "XRTPRG.dtd">
+<PROG>
+  <modified author="FREED, Michael" dateTime="2014-11-19T03:07:50Z" />
+  <name>Flare - multifilter 7 sec cadence (Be/thin, Be/med, Al/thick), AEC 2, 384x384 and 512x512 + context (med-Al,thick-Be -384x384 + Al-poly 512x512 2x2) + Gband (45ms) + Darks - 30 loops</name>
+  <COT_info deleted="FALSE" lastUsed="2022-10-12T07:41:03Z" version="1A5E" locked="FALSE"
+    tag="63487517F7E7/1A5E" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <COT_reserved>0</COT_reserved>
+  <MAIN_RPT>30</MAIN_RPT>
+  <MAIN>
+    <MAIN_ENTRY POS="1">
+      <Call>1</Call>
+      <COT_SUBR>Subr-A</COT_SUBR>
+      <Repeat>10</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+    <MAIN_ENTRY POS="2">
+      <Call>2</Call>
+      <COT_SUBR>Subr-B</COT_SUBR>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </MAIN_ENTRY>
+  </MAIN>
+  <SUBR NO="1">
+  <COT_SUBR>Subr-A</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>80</Call>
+      <COT_SEQ>978F33BB83E3/2D1F</COT_SEQ>
+      <Repeat>2</Repeat>
+      <Interval>14</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>84</Call>
+      <COT_SEQ>6BC83A3F4FF1/2D21</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>14</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="2">
+  <COT_SUBR>Subr-B</COT_SUBR>
+    <SUBR_ENTRY POS="1">
+      <Call>31</Call>
+      <COT_SEQ>DB1C19351DBA/2D20</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="2">
+      <Call>11</Call>
+      <COT_SEQ>A9BA65CB999C/2B90</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+    <SUBR_ENTRY POS="3">
+      <Call>3</Call>
+      <COT_SEQ>B29876BC5234/2BE7</COT_SEQ>
+      <Repeat>1</Repeat>
+      <Interval>4</Interval>
+    </SUBR_ENTRY>
+  </SUBR>
+  <SUBR NO="3">
+  <COT_SUBR>Subr-C</COT_SUBR>
+  </SUBR>
+  <SUBR NO="4">
+  <COT_SUBR>Subr-D</COT_SUBR>
+  </SUBR>
+</PROG>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 2.0x40 (2080) -->
+<!DOCTYPE PARM SYSTEM "XRTPAR.dtd">
+<PARM>
+  <modified author="SAKAO, Taro" dateTime="2017-07-31T05:29:34Z" />
+  <name>G-band Diffuser - CAL - 1ms - dark</name>
+  <COT_info deleted="FALSE" lastUsed="2017-07-31T08:56:40Z" version="3945" locked="FALSE"
+    tag="E1664445489F/3945" COTversion="2.0x40" COTbuild="2080" Mutable="TRUE" />
+  <COT_slot>-1</COT_slot>
+  <FltA_L1>0</FltA_L1>
+  <FltB_L1>3</FltB_L1>
+  <FltA_L2>0</FltA_L2>
+  <FltB_L2>3</FltB_L2>
+  <AspectShutter>0</AspectShutter>
+  <ShutterMode>0</ShutterMode>
+  <ImageType>1</ImageType>
+  <Exposure>0</Exposure>
+  <Calibration>1</Calibration>
+  <Resolution>0</Resolution>
+</PARM>

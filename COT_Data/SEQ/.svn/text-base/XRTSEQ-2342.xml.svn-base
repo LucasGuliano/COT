@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="REEVES, Kathy" dateTime="2006-11-04T10:53:26Z" />
+  <name>AR Thermal Structure (PFI) - SEQ B</name>
+  <COT_info deleted="FALSE" lastUsed="2006-11-06T00:34:44Z" version="2342" locked="FALSE"
+    tag="1316662699" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>38</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>19</PARM_NO>
+    <COT_PARM>3509</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>120</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>20</PARM_NO>
+    <COT_PARM>350A</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>120</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>21</PARM_NO>
+    <COT_PARM>350B</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>120</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>22</PARM_NO>
+    <COT_PARM>350C</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>120</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="5">
+    <PARM_NO>23</PARM_NO>
+    <COT_PARM>350D</COT_PARM>
+    <REGN_NO>10</REGN_NO>
+    <COT_fov hcenter="1024" vcenter="1024" width="512" height="512" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>1</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>120</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

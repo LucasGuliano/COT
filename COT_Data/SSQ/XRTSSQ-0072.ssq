@@ -1,0 +1,37 @@
+Sequence name:	STOP and Synoptic (default Q90)
+Version:	0072
+Start date:	2007/01/27 00:00
+End date:	2007/01/28 00:00
+Author last name:	BANDO
+Author first name:	Takamasa
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/01/27 05:58:54
+Last modified:	2007/01/27 05:58:54
+Deleted:	No
+Locked:	No
+Unique tag:	44AA1A5D219C/0072
+COT version:	2.0x39
+COT build:	1067
+	COM	=======================		
+	COM	For low rate Synoptic with Q=90.		
+	COM	=======================		
+	COM			
+	COM	Insert this SSQ 6 sec before Sun center poiting.		
+	COM	This SSQ stops previous obs, moves to compromise focus, takes synoptic images, one dark and one G-band.		
+	COM			
+	I&T	OBSTITLE: Synoptic		
+	I&T	TARGET: FS		
+	I&T	SCI_OBJ: FS, SYN		
+	I&T	OBS_DEC: STOP and Synoptic - G-band(64) + Ti/poly(1024/11571) + dark cal(8192) + Al/poly(512/11571)		
+	I&T	JOIN_SB: X		
+	XRT	MDP_XRT_CTRL_MANU N		:01:38_00
+	XRT	XRT_FOCUS_POSITION -86 N		
+	XOB	A5D470208B2C/14CB (Normal) P		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		

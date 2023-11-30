@@ -1,0 +1,19 @@
+Sequence name:	XRT_FLD_DIS_440_OG
+Version:	0028
+Start date:	2023/11/08 00:00
+End date:	2023/11/09 00:00
+Author last name:	VELASQUEZ
+Author first name:	Joy
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OG Sequence
+S/C slot:	440
+Last used:	2023/11/08 02:46:12
+Last modified:	2023/11/08 02:46:12
+Deleted:	No
+Locked:	No
+Unique tag:	000000000000/0028
+COT version:	2.0x39
+COT build:	2080
+	XRT	MDP_XRT_FLD_DIS P		:14:36_00
+	ESQ	End of sequence		

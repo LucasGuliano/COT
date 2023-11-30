@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2006-11-06T08:57:48.657211Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/PRG"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1287.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="fe8c8ba05ed5c287f1ba5418171a111b"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1288.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="e1fa402fbcc35b2357a9851375beb68e"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1289.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="077286c7bcf4c0348fab52603ac45080"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-128A.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="0b55c5360158ff82ba89dc9247f6adb7"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-128B.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="c7dbf35e6f2bc1ef8a12f7389ef4277b"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="3"
+   name="XRTPRG.dtd"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-03T07:15:39.983213Z"
+   checksum="6b186d183fcc064771fd6afc9eefacc0"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-128C.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="51b684b88a04fc1043526490c2cc9b1a"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-128D.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="4693d69a196dbdf292248482dd6a565a"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-128E.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="a2539497f22a1ec5f3e03b3b5eb3e14c"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-0000.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="4d49ac89a68725ce596034e696220380"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-128F.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="c8cd69ca659eb205f1523b96f1a7a6cc"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1211.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="7b15a75aa8bfc8cf9988527ff768cfc6"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1212.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="18dadb407a502f5a9c599071c46a4312"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1213.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="8f11013358ad6f318b83403ccb66eea1"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1214.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="3b6289f92f93fbf5f7f2d8bf4ba8b3bd"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1215.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="36b011e26b7d31381c7114b4e416a99d"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1216.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="39f29269094443e59c18117c5d00751d"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1217.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="9928f9ea09049f015b08cfb56a75e8ce"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1290.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="4296a39180eab35c06cde6ed87a1a329"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1218.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="dc3c8dff65e11fd9003243171ab626f7"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1291.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="925d8ffb49300123e559e10104d3bb2b"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1219.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="e57ba4a36da230ce6378ed4b4bb18ce6"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1292.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="d28dfa8df494aa38d116ee6edcf071ad"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1293.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="a443c6aeab8296affafe164ae0a53a71"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1294.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="ddeb6712fa6fd9eb01d2c91565560c00"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="schemas.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="f4a0bb9da5c3c08a9857a6b2e76fc0a1"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1295.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="410c37bd7848ec7dad5fe5d066804317"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-1296.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="893b0be50e3bf986d26ddce2c1365474"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="8"
+   name="XRTPRG-1297.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:57:48.657211Z"
+   checksum="2f46504b0583eea6e923fda1c742b869"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-121A.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="ebcf6bd9b340915b9b42e70aff7f1f70"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-121B.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="5ae668f2191e70d0bdcae7dc23c8deb0"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-121C.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="88e498ff98cf132671590b1f38a29b2e"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-121D.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="dac54b814eb0ce9e6c085e1dd9e4a9f1"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-123C.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="53a0d2515fe8961c9cfd4bce3b1cb06b"
+   last-author="solarb"
+   kind="file"/>
+<entry
+   committed-rev="7"
+   name="XRTPRG-121E.xml"
+   text-time="2006-11-06T08:52:17.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="b8dfdc20e37dc4295a3a5e428e0e8879"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:27.000000Z"/>
+</wc-entries>

@@ -1,0 +1,29 @@
+Sequence name:	Saved Sequence 0010
+Version:	0040
+Start date:	2006/06/29 00:00
+End date:	2006/06/30 00:00
+Author last name:	LUNDQUIST
+Author first name:	Loraine
+Sequence type:	OP Command plan
+S/C slot:	-01
+Last used:	2006/06/29 15:14:21
+Last modified:	2006/06/29 15:14:21
+AEC Table:	1447827847
+ARS Table:	1350594549
+CMP Table:	1332123528
+FLD Table:	165642366
+FLT Table:	1719485128
+ROI Table:	1498114067
+Deleted:	No
+Locked:	No
+Unique tag:	1102425217
+COT version:	0.2x19
+COT build:	1048
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+	XRT	MDP_XRT_QT_PROG_SET 22 P		
+	COM	This is a comment		
+	XRT	XRT_SAFEHOLD P		
+	ESQ	End of sequence		

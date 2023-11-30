@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.2x17 (1058) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="REEVES, Kathy" dateTime="2006-11-06T08:39:50Z" />
+  <name>QS Magnetic Carpet - SEQ A</name>
+  <COT_info deleted="FALSE" lastUsed="2006-11-06T08:39:50Z" version="234F" locked="FALSE"
+    tag="1435925141" COTversion="0.2x17" COTbuild="1058" />
+  <COT_slot>-1</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>0</PARM_NO>
+    <COT_PARM>351C</COT_PARM>
+    <REGN_NO>1</REGN_NO>
+    <COT_fov hcenter="64" vcenter="64" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>0</PARM_NO>
+    <COT_PARM>351D</COT_PARM>
+    <REGN_NO>1</REGN_NO>
+    <COT_fov hcenter="64" vcenter="64" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="3">
+    <PARM_NO>2598</PARM_NO>
+    <COT_PARM>351E</COT_PARM>
+    <REGN_NO>1</REGN_NO>
+    <COT_fov hcenter="64" vcenter="64" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="4">
+    <PARM_NO>0</PARM_NO>
+    <COT_PARM>351F</COT_PARM>
+    <REGN_NO>1</REGN_NO>
+    <COT_fov hcenter="64" vcenter="64" width="384" height="384" />
+    <COMP_CODE>0x328</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

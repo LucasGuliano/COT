@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with XRT Chief Observer Tool version 0.9x8 (1274) -->
+<!DOCTYPE SEQN SYSTEM "XRTSEQ.dtd">
+<SEQN>
+  <modified author="MCKENZIE, David" dateTime="2006-12-13T19:47:02Z" />
+  <name>Synoptic Al-poly(ThickAl) pair</name>
+  <COT_info deleted="FALSE" lastUsed="2007-04-30T07:42:12Z" version="23BE" locked="FALSE"
+    tag="0000028B9983/23BE" COTversion="0.9x8" COTbuild="1274" Mutable="TRUE" />
+  <COT_slot>36</COT_slot>
+  <COT_AEC>NOT USED</COT_AEC>
+  <COT_ROI>NOT USED</COT_ROI>
+  <COT_CMP>NOT USED</COT_CMP>
+  <SEQN_ENTRY POS="1">
+    <PARM_NO>83</PARM_NO>
+    <COT_PARM>00000B0058B9/35D2</COT_PARM>
+    <REGN_NO>0</REGN_NO>
+    <COT_fov preflare="false" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>1</SEQN_INT>
+  </SEQN_ENTRY>
+  <SEQN_ENTRY POS="2">
+    <PARM_NO>44</PARM_NO>
+    <COT_PARM>00007E1195B5/35D3</COT_PARM>
+    <REGN_NO>0</REGN_NO>
+    <COT_fov preflare="false" hcenter="1024" vcenter="1024" width="2048" height="2048" />
+    <COMP_CODE>0x728</COMP_CODE>
+    <AEC_NO>0</AEC_NO>
+    <BUF_NO>0</BUF_NO>
+    <DMF>0</DMF>
+    <SEQN_INT>4</SEQN_INT>
+  </SEQN_ENTRY>
+</SEQN>

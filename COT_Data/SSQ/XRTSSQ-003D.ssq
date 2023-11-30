@@ -1,0 +1,23 @@
+Sequence name:	DebuggingTest
+Version:	003D
+Start date:	2006/06/02 00:00
+End date:	2006/06/03 00:00
+Author last name:	KENT
+Author first name:	Tom
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2006/06/02 23:27:28
+Last modified:	2005/10/17 00:00:00
+Deleted:	Yes
+Locked:	No
+Unique tag:	0000612C080D/003D
+COT version:	2.0x39
+COT build:	1048
+	XRT	XRT_STANDBY P		
+	XRT	XRT_DIAGNOSTIC P		
+	XRT	XRT_FOCUS_RECALIBRATE P		
+	XRT	XRT_DIAGNOSTIC P		
+	XRT	XRT_FOCUS_POSITION 120 P		
+	ESQ	End of sequence		

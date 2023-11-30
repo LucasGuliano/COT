@@ -1,0 +1,50 @@
+Sequence name:	CCD Heater Turn On for Bakeout with Monitoring Images--REAL_SSQ
+Version:	007A
+Start date:	2008/03/03 00:00
+End date:	2008/03/04 00:00
+Author last name:	TESTA
+Author first name:	Paola
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	Real Sequence
+S/C slot:	-01
+Last used:	2008/03/03 01:05:03
+Last modified:	2010/01/27 09:23:58
+Deleted:	No
+Locked:	No
+Unique tag:	2EAA73E96DA3/007A
+COT version:	2.0x39
+COT build:	1457
+	I&T	OBSTITLE: XRT_Bakeout_START		
+	I&T	INSTRUME: XRT		
+	MSG	**************************************************** (No pause)		
+	MSG	 START of XRT_CCD_HEATER_ON operation (No pause)		
+	MSG	**************************************************** (No pause)		
+	MSG	 (No pause)		
+	XRT	MDP_XRT_CTRL_MANU P		
+	MSG	---------- Success Verify ?           OK / NG; (No pause)		
+	MSG	 (No pause)		
+	XOB	A8E07214284E/1563 (Normal) P		
+	XRT	MDP_XRT_FLD_DIS N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_ARS_DIS N		
+	MSG	---------- Success Verify ?            OK / NG ____ (No pause)		
+	MSG	 (No pause)		
+	MSG	 (No pause)		
+	MSG	All OK?   Yes--> Please Proceed. / No --> Stop here. (No pause)		
+	MSG	 (No pause)		
+	XRT	MDP_XRT_CTRL_AUTO P		
+	MSG	---------- Success Verify ?           OK / NG; (No pause)		
+	MSG	 (No pause)		
+	XRT	TCIB_XRT_S_HTR_A_ENA P		
+	MSG	---------- Success Verify ?           OK / NG; (No pause)		
+	MSG	 (No pause)		
+	MSG	--------------------------------------- (No pause)		
+	MSG	If anomalous situation appeared, execute TCIB_XRT_S_HTR_A_DIS using DCBC-441 (line 24) (No pause)		
+	MSG	--------------------------------------- (No pause)		
+	MSG	**************************************************** (No pause)		
+	MSG	 END of XRT_CCD_HEATER_ON operation (No pause)		
+	MSG	**************************************************** (No pause)		
+	MSG	 (No pause)		
+	MSG	 (No pause)		
+	ESQ	End of sequence		

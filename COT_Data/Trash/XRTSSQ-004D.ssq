@@ -1,0 +1,30 @@
+Sequence name:	STOP and Return to best on-axis focus
+Version:	004D
+Start date:	2007/01/25 00:00
+End date:	2007/01/26 00:00
+Author last name:	MCKENZIE
+Author first name:	David
+Sequence type:	OP Command plan
+S/C slot:	-01
+Last used:	2007/01/25 00:53:42
+Last modified:	2007/01/25 00:53:42
+AEC Table:	1619956344
+ARS Table:	1350594549
+CMP Table:	1332123528
+FLD Table:	617280709
+FLT Table:	1075215139
+ROI Table:	1730802914
+Deleted:	No
+Locked:	No
+Unique tag:	1917971667
+COT version:	0.2x19
+COT build:	1067
+RAMSUB ID:	291
+Cmd plan pass:	1
+Table load pass:	1
+Export count:	0
+v	SEQ	SEQ:  (OP)		
+	XRT	MDP_XRT_CTRL_MANU N		
+	XRT	XRT_FOCUS_POSITION -361 N		
+	ESQ	End of sequence		
+	ESQ	End of sequence		

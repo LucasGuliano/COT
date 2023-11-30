@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7"
+   name=""
+   committed-date="2006-11-06T08:46:08.763605Z"
+   url="svn+ssh://solarb@shinjuku.cfa.harvard.edu/data/solarb/XRT/software/COTData_repos/COTData_proj/trunk/COT_Data/AEC"
+   last-author="solarb"
+   kind="dir"
+   uuid="4a36bfd8-ab1e-0410-a869-a4416c2ab219"
+   revision="8"/>
+<entry
+   committed-rev="1"
+   name="XRTAEC.dtd"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="c75a53ba17fb44d9f6090c351fc81a19"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schemas.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-09-30T14:03:09.545590Z"
+   checksum="f4a0bb9da5c3c08a9857a6b2e76fc0a1"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:28.000000Z"/>
+<entry
+   committed-rev="4"
+   name="XRTAEC-0001.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-03T13:45:22.598862Z"
+   checksum="d3680aae46b0527e288ac4e2ed930361"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:28.000000Z"/>
+<entry
+   committed-rev="6"
+   name="XRTAEC-0002.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-06T01:18:21.729805Z"
+   checksum="0f847e8cfa413e8095e48c5420b4d7c5"
+   last-author="solarb"
+   kind="file"
+   prop-time="2006-11-04T08:33:28.000000Z"/>
+<entry
+   committed-rev="7"
+   name="XRTAEC-0003.xml"
+   text-time="2006-11-06T08:52:16.000000Z"
+   committed-date="2006-11-06T08:46:08.763605Z"
+   checksum="ed0e29ffaf728a6952c818ded32dd972"
+   last-author="solarb"
+   kind="file"/>
+</wc-entries>

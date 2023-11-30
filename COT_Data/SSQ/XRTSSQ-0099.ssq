@@ -1,0 +1,48 @@
+Sequence name:	XRT_TABLE_UPLOAD
+Version:	0099
+Start date:	2009/05/18 00:00
+End date:	2009/05/19 00:00
+Author last name:	KANO
+Author first name:	Ryouhei
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2009/05/18 23:58:45
+Last modified:	2019/12/09 17:46:23
+Deleted:	No
+Locked:	No
+Unique tag:	57CA7F8A2B7E/0099
+COT version:	2.0x39
+COT build:	1571
+	COM	HISTORY:		
+	COM	2010-Mar-17 RK: created		
+	COM			
+	COM			
+	MSG	 (No pause)		
+	MSG	************ XRT START ************ (No pause)		
+	MSG	 (No pause)		
+	XRT	MDP_XRT_CTRL_MANU P		
+	XRT	MDP_XRT_MODE_STBY N		
+	MSG	----------- Success Verify ?              OK / NG____ (Pauses)		
+	MSG	 (No pause)		
+	MSG	XRT Obs. Table Upload (No pause)		
+	XRT	MDP_UPLOAD_XRTTBL P		
+	MSG	 (No pause)		
+	XRT	MDP_DUMP_XRTTBL P		
+	MSG	----------- Comparison Check ?                        OK / ERR ____          (Pauses)		
+	MSG	 (No pause)		
+	MSG	 (No pause)		
+	COM	XRTCO - CAUTION WHEN COPYING THIS TABLE.  THERE IS NO CTRL_AUTO ISSUED HERE.  Only use if no XOBs are being run before the table upload.		
+	ROI			
+	XRT	MDP_XRT_AEC_RESET N		
+	MSG	---------- Success Verify ?            OK / NG ____ (Pauses)		
+	MSG	 (No pause)		
+	MSG	 (No pause)		
+	MSG	All OK?   Yes--> Please Proceed. / No --> Stop here. (Pauses)		
+	MSG	 (No pause)		
+	XRT	Custom TIME_CMD : MDP_XRT_MODE_OBSV AT XRT_MODE_OBSV_POINT P		
+	MSG	---------- Success Verify ?            OK / NG ____ (Pauses)		
+	MSG	 (No pause)		
+	MSG	************ XRT END *********** (No pause)		
+	ESQ	End of sequence		

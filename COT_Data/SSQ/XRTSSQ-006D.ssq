@@ -1,0 +1,39 @@
+Sequence name:	STOP and Full Sun Movie with Ti/Poly Al/Poly Med-Be
+Version:	006D
+Start date:	2007/01/22 00:00
+End date:	2007/01/23 00:00
+Author last name:	ISHIBASHI
+Author first name:	Bish
+Starting FW1 position:	0
+FW1 open loop mode:	No
+Sequence type:	OP Sequence
+S/C slot:	-01
+Last used:	2007/01/22 07:26:31
+Last modified:	2007/01/22 07:26:31
+Deleted:	No
+Locked:	No
+Unique tag:	787A665B52F6/006D
+COT version:	2.0x39
+COT build:	1067
+	COM	=======================		
+	COM	Full Sun Movie with multi-filters		
+	COM	=======================		
+	COM			
+	COM	Insert this SSQ 6sec before poiting.		
+	COM	This SSQ stops previous obs, moves to compromise focus, takes Ti/poly and Al/poly images every 3 min for 30 min. Then take Med-Be and thick-Be (8x8) images once. All the images, noted otherwise, are taken with 4x4 binning and AEC.		
+	COM	ARS patrol images are also taken every 20min.		
+	COM			
+	I&T	OBSTITLE: Full Sun Movie		
+	I&T	TARGET: FS		
+	I&T	SCI_OBJ: FS, SYN		
+	I&T	OBS_DEC: Full Sun Movie - Ti/Poly + Al/Poly + Med-Be - 4x4 - AEC123 - lower cadence (backup)		
+	I&T	JOIN_SB: X		
+	XRT	MDP_XRT_CTRL_MANU N		:01:38_00
+	XRT	XRT_FOCUS_POSITION -86 N		
+	XOB	6A890C531487/1493 (Normal) N		
+	XRT	MDP_XRT_AEC_RESET P		
+	XRT	MDP_XRT_ARS_ENA N		
+	XRT	MDP_XRT_FLD_ENA N		
+	XRT	MDP_XRT_FLRCTRL_DIS N		
+	XRT	MDP_XRT_CTRL_AUTO N		
+	ESQ	End of sequence		
